@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="saumikbhattacharya.FlightSearch.com.About_Activity"
+    android:background="@drawable/androidbckgrnd1">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:textSize="20sp"
+        android:text="@string/about_app"
+        android:textStyle="bold"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:background="#0000FF"
+        android:layout_height="2dip"
+        android:layout_marginBottom="3dip"/>
+
+    <TextView
+        android:id="@+id/about_app"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:textSize="20sp"
+        android:text="@string/about_dev"
+        android:textStyle="bold"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:background="#0000FF"
+        android:layout_height="2dip"
+        android:layout_marginBottom="3dip"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="55dip"
+            android:layout_height="55dip"
+            android:layout_marginEnd="5dip"
+            android:scaleType="centerCrop"
+            android:src="@drawable/prof_pic"
+            android:cropToPadding="true"
+            android:paddingLeft="2dip"
+            android:paddingRight="2dip"/>
+
+        <TextView
+            android:id="@+id/about_dev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:textSize="15sp" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">FlightSearch</string>
+    <string name="button_search">Search</string>
+    <string name="roundtrip">RoundTrip</string>
+    <string-array name="edit_src">
+        <item>Select</item>
+        <item>New Delhi (DEL)</item>
+        <item>Mumbai (BOM)</item>
+        <item>Kolkata (CCU)</item>
+        <item>Chennai (MAA)</item>
+        <item>Bengaluru (BLR)</item>
+        <item>Hyderabad (HYD)</item>
+        <item>Jaipur (JAI)</item>
+        <item>Patna (PAT)</item>
+        <item>Dubai (DXB)</item>
+    </string-array>
+    <string-array name="edit_dest">
+        <item>Select</item>
+        <item>New Delhi (DEL)</item>
+        <item>Mumbai (BOM)</item>
+        <item>Kolkata (CCU)</item>
+        <item>Chennai (MAA)</item>
+        <item>Bengaluru (BLR)</item>
+        <item>Hyderabad (HYD)</item>
+        <item>Jaipur (JAI)</item>
+        <item>Patna (PAT)</item>
+        <item>Dubai (DXB)</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="label">Search Direct Flights</string>
+    <string name="button_select">Select</string>
+    <string name="enter_src">Origin</string>
+    <string name="enter_dest">Destination</string>
+    <string name="enter_strt_dt">Start Date</string>
+    <string name="enter_dest_dt">Returning Date</string>
+    <string name="enter_adult">Adult</string>
+    <string name="enter_infant">Infant</string>
+    <string name="title_activity_display_summary">DisplaySummaryActivity</string>
+    <string name="setdate">Pick Start Date</string>
+    <string name="title_activity_display_flights">DisplayFlightsActivity</string>
+    <string name="layout_list1">Arrival</string>
+    <string name="layout_list2">Departure</string>
+    <string name="layout_list3">Total Fare</string>
+    <string name="show_map">Show in Map?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_detail_row_item">DetailRowItem</string>
+    <string name="title_activity_map_activity__fragment">MapActivity_Fragment</string>
+    <string name="title_activity_map__activity__with__fragment">Map_Activity_With_Fragment</string>
+    <string name="about">About</string>
+    <string name="title_activity_about_">About_Activity</string>
+    <string name="about_app">About Application</string>
+    <string name="about_dev">About Developer</string>
+    <string name="save_search">Save Search?</string>
+    <string name="show_saved_search">Show Saved Search</string>
+    <string name="title_activity_display_saved_search">DisplaySavedSearchActivity</string>
+</resources>

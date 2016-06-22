@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="saumikbhattacharya.FlightSearch.com.Map_Activity_With_Fragment"
+    android:background="@drawable/androidbckgrnd1" >
+
+    <fragment
+        android:id="@+id/map"
+        class="com.google.android.gms.maps.MapFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="2" />
+
+    <Button
+        android:id="@+id/button_search"
+        android:layout_width="wrap_content"
+        android:layout_height="60dip"
+        android:layout_weight="1"
+        android:layout_marginTop="5dip"
+        android:layout_marginBottom="5dip"
+        android:text="@string/button_search"
+        android:textSize="17sp"
+        android:layout_gravity="center"
+        android:background="#0000FF"
+        android:textColor="#FFFF00"
+        android:onClick="onButtonClicked"/>
+
+</LinearLayout>
