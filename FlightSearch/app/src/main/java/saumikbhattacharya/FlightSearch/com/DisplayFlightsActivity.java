@@ -20,7 +20,8 @@ import java.util.ArrayList;
 
 public class DisplayFlightsActivity extends AppCompatActivity implements Serializable{
 
-    String str_jsonresponse,str_arrivaltime,str_departuretime,str_arrival_date,str_departure_date;
+    String str_jsonresponse="";
+    String str_arrivaltime,str_departuretime,str_arrival_date,str_departure_date;
     String[] fare = new String[30];
     String[] carrier = new String[30];
     String[] number = new String[30];

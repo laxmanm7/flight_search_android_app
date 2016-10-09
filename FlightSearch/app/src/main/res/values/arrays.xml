@@ -1,0 +1,3582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="testArray">
+        <item>Al Arish, Egypt - (AAC)</item>
+        <item>Annaba, Algeria - (AAE)</item>
+        <item>Arapoti, Brazil - (AAG)</item>
+        <item>Aalborg, Denmark - (AAL)</item>
+        <item>Abu Dhabi, UAE - (AUH)</item>
+        <item>Dubai, UAE - (DXB)</item>
+        <item>Sharjah, UAE (SHJ)</item>
+        <item>Al Ain, UAE - (AAN)</item>
+        <item>Ras Al Khaimah, UAE - (RKT)</item>
+        <item>Anapa, Russia - (AAQ)</item>
+        <item>Aarhus, Denmark - Tirstrup - (AAR)</item>
+        <item>Altay, China - (AAT)</item>
+        <item>Kunming, China - (KMG)</item>
+        <item>Al Ghaydah, Yemen - (AAY)</item>
+        <item>Abakan, Russia - (ABA)</item>
+        <item>Abadan, Iran - (ABD)</item>
+        <item>Allentown, PA - (ABE)</item>
+        <item>Abilene, TX - (ABI)</item>
+        <item>Abidjan, Cote dIvoire - (ABJ)</item>
+        <item>Kabri Dar, Ethiopia - (ABK)</item>
+        <item>Ambler, AK - (ABL)</item>
+        <item>Brisbane, Australia - (BNE)</item>
+        <item>Melbourne, Australia - (MEL)</item>
+        <item>Perth, Australia - (PER)</item>
+        <item>Sydney, Australia - (SYD)</item>
+        <item>Adelaide, Australia - (ADL)</item>
+        <item>Albany, Australia - (ALH)</item>
+        <item>Albury, Australia - (ABX)</item>
+        <item>Alice Springs, Australia - (ASP)</item>
+        <item>Argyle, Australia - (GYL)</item>
+        <item>Armidale, Australia - (ARM)</item>
+        <item>Aurukun, Australia - (AUU)</item>
+        <item>Avalon, Australia - (AVV)</item>
+        <item>Ayers Rock, Australia - (AYQ)</item>
+        <item>Bundaberg, Australia - (BDB)</item>
+        <item>Ballina, Australia - (BNK)</item>
+        <item>Bamaga, Australia - (ABM)</item>
+        <item>Barcaldine, Australia - (BCI)</item>
+        <item>Bathurst, Australia - (BHS)</item>
+        <item>Bedourie, Australia - (BEU)</item>
+        <item>Biloela, Australia (ZBL)</item>
+        <item>Albuquerque, NM - (ABQ)</item>
+        <item>Aberdeen, SD - (ABR)</item>
+        <item>Abu Simbel, Egypt - (ABS)</item>
+        <item>Al-Baha, Saudi Arabia - (ABT)</item>
+        <item>Abuja, Nigeria - (ABV)</item>
+        <item>Aberdeen, UK - (ABZ)</item>
+        <item>Acapulco, Mexico - (ACA)</item>
+        <item>Accra, Ghana - (ACC)</item>
+        <item>Lanzarote, Spain - (ACE)</item>
+        <item>Altenrhein, Switzerland - (ACH)</item>
+        <item>Alderney, UK - (ACI)</item>
+        <item>Nantucket, MA - (ACK)</item>
+        <item>Waco, TX - (ACT)</item>
+        <item>Eureka/Arcata, CA - (ACV)</item>
+        <item>Adana, Turkey - (ADA)</item>
+        <item>Izmir, Turkey - (ADB)</item>
+        <item>Addis Ababa, Ethopia - (ADD)</item>
+        <item>Aden, Yemen - (ADE)</item>
+        <item>Amman, Jordan - Civil/Marka Airport - (ADJ)</item>
+        <item>Adak Island, AK - (ADK)</item>
+        <item>Kodiak, AK - (ADQ)</item>
+        <item>Ardabil, Iran - (ADU)</item>
+        <item>San Andres Island, Colombia - (ADZ)</item>
+        <item>Aioun El Atrouss, Mauritania - (AEO)</item>
+        <item>Buenos Aires, Argentina - Jorge Newbery - (AEP)</item>
+        <item>Adler/Sochi, Russia - (AER)</item>
+        <item>Aalesund, Norway - (AES)</item>
+        <item>Allakaket, AK - (AET)</item>
+        <item>Alexandria, LA - (AEX)</item>
+        <item>Akureyri, Iceland - (AEY)</item>
+        <item>San Rafael, Argentina - (AFA)</item>
+        <item>Afutara, Soloman Islands - (AFT)</item>
+        <item>Agadir, Morocco - (AGA)</item>
+        <item>Augsburg/Munich, Germany - (AGB)</item>
+        <item>Anggi, Indonesia - (AGD)</item>
+        <item>Wangerooge, Germany - (AGE)</item>
+        <item>Agen, France - (AGF)</item>
+        <item>Argelholm/Helsingborg, Sweden - (AGH)</item>
+        <item>Aguni, Japan - (AGJ)</item>
+        <item>Wanigela, Papua New Guinea - (AGL)</item>
+        <item>Angoon, AK - (AGN)</item>
+        <item>Malaga, Spain - (AGP)</item>
+        <item>Bangalore, India - (BLR)</item>
+        <item>Hyderabad, India - (HYD)</item>
+        <item>Mumbai, India - (BOM)</item>
+        <item>Delhi, India - (DEL)</item>
+        <item>Ahmedabad, India - (AMD)</item>
+        <item>Chennai, India - (MAA)</item>
+        <item>Coimbatore, India - (CJB)</item>
+        <item>Goa, India - (GOI)</item>
+        <item>Indore, India - (IDR)</item>
+        <item>Jaipur, India - (JAI)</item>
+        <item>Kochi, India - (COK)</item>
+        <item>Kolkata, India - (CCU)</item>
+        <item>Kozhikode, India - (CCJ)</item>
+        <item>Agartala, India - (IXA)</item>
+        <item>Agatti Island, India - (AGX)</item>
+        <item>Agra, India - (AGR)</item>
+        <item>Aizawl, India - (AJL)</item>
+        <item>Allahabad, India - (IXD)</item>
+        <item>Augusta, GA - (AGS)</item>
+        <item>Ciudad del Este, Paraguay - (AGT)</item>
+        <item>Aguascalientes, Mexico - (AGU)</item>
+        <item>Acarigua, Venezuela - (AGV)</item>
+        <item>Abha, Saudi Arabia - (AHB)</item>
+        <item>Athens, GA - (AHN)</item>
+        <item>Alghero, Italy - (AHO)</item>
+        <item>Al Hoceima, Morocco - (AHU)</item>
+        <item>Alliance, NE - (AIA)</item>
+        <item>Airok, Marshall Islands - (AIC)</item>
+        <item>Ailuk Island, Marshall Islands - (AIM)</item>
+        <item>Wainwright, AK - (AIN)</item>
+        <item>Aitutaki, Cook Islands - (AIT)</item>
+        <item>Atiu Island, Cook Islands - (AIU)</item>
+        <item>Atlantic City, NJ - (AIY)</item>
+        <item>Ajaccio, France - (AJA)</item>
+        <item>Jouf, Saudi Arabia - (AJF)</item>
+        <item>Agri, Turkey - (AJI)</item>
+        <item>Arvidsjaur, Sweden - (AJR)</item>
+        <item>Araca, Brazil - (AJU)</item>
+        <item>Ankang, China - (AKA)</item>
+        <item>Atka, AK - (AKB)</item>
+        <item>Kufrah, Libya - (AKF)</item>
+        <item>Akiak, AK - (AKI)</item>
+        <item>Asahikawa, Japan - (AKJ)</item>
+        <item>Auckland, New Zealand - (AKL)</item>
+        <item>King Salmon, AK - (AKN)</item>
+        <item>Anaktueuk, AK - (AKP)</item>
+        <item>Auki, Solomon Islands - (AKS)</item>
+        <item>Aksu, China - (AKU)</item>
+        <item>Aktyubinsk, Kazakhstan - (AKX)</item>
+        <item>Almaty, Kazakhstan - (AKX)</item>
+        <item>Sittwe, Myanmar - (AKY)</item>
+        <item>Albany, NY - (ALB)</item>
+        <item>Alicante, Spain - (ALC)</item>
+        <item>Alta, Norway - (ALF)</item>
+        <item>Algiers, Algeria - (ALG)</item>
+        <item>Alexander Bay, South Africa - (ALJ)</item>
+        <item>Alamogordo, NM - (ALM)</item>
+        <item>Waterloo, IA - (ALO)</item>
+        <item>Aleppo, Syrian Arab Republic - (ALP)</item>
+        <item>Alamosa, CO - (ALS)</item>
+        <item>Walla Walla, WA - (ALW)</item>
+        <item>Alexandria, Egypt - (ALY)</item>
+        <item>Amarillo, TX - (AMA)</item>
+        <item>Arba Mintch, Ethiopia - (AMH)</item>
+        <item>Mataram, Indonesia - (AMI)</item>
+        <item>Amman, Jordan - Queen Alia International - (AMM)</item>
+        <item>Mao, Chad - (AMO)</item>
+        <item>Ambon, Indonesia - (AMQ)</item>
+        <item>Amsterdam, Netherlands - (AMS)</item>
+        <item>Amderma, Russia - (AMV)</item>
+        <item>Ambatomainty, Madagascar - (AMY)</item>
+        <item>Anchorage, AK - (ANC)</item>
+        <item>Angers, France - Marce - (ANE)</item>
+        <item>Antofagasta, Chile - (ANF)</item>
+        <item>Angouleme, France - (ANG)</item>
+        <item>Aniak, AK - (ANI)</item>
+        <item>Ankara, Turkey - Etimesqut - (ANK)</item>
+        <item>Antalaha, Madagascar - (ANM)</item>
+        <item>Antwerp, Belgium - Deurne Airport - (ANR)</item>
+        <item>Antigua, Antigua and Barbuda - (ANU)</item>
+        <item>V.C. Bird International, Antigua and Barbuda - (ANU)</item>
+        <item>Anvik, AK - (ANV)</item>
+        <item>Andenes, Norway - (ANX)</item>
+        <item>Ancona, Italy - (AOI)</item>
+        <item>Aomori, Japan - (AOJ)</item>
+        <item>Karpathos, Greece - (AOK)</item>
+        <item>Paso de Los Libres, Argentina - (AOL)</item>
+        <item>Altoona, PA - (AOO)</item>
+        <item>Martinsburg, PA - (AOO)</item>
+        <item>Alorsetar, Malaysia - (AOR)</item>
+        <item>Aosta, Italy - (AOT)</item>
+        <item>Naples, FL - (APF)</item>
+        <item>Nampula, Mozambique - (APL)</item>
+        <item>Alpena, MI - (APN)</item>
+        <item>Apartado, Colombia - (APO)</item>
+        <item>Apia, Western Samoa - (APW)</item>
+        <item>Anging, China - (AQG)</item>
+        <item>Qaisumah, Saudi Arabia - (AQI)</item>
+        <item>Aqaba, Jordan - (AQJ)</item>
+        <item>Arequipa, Peru - (AQP)</item>
+        <item>Arctic Village, AK - (ARC)</item>
+        <item>Alor Island, Indonesia - (ARD)</item>
+        <item>Arkangelsk, Russia - (ARH)</item>
+        <item>Arica, Chile - (ARI)</item>
+        <item>Arusha, Tanzania - (ARK)</item>
+        <item>Stockholm, Sweden - Arlanda - (ARN)</item>
+        <item>Aragip, Papua New Guinea - (ARP)</item>
+        <item>Alto Rio Senguerr, Argentina - (ARR)</item>
+        <item>Watertown, NY - (ART)</item>
+        <item>Aracatuba, Brazil - (ARU)</item>
+        <item>Arad, Romania - (ARW)</item>
+        <item>Ashgabat, Turkmenistan - (ASB)</item>
+        <item>Aspen, CO - (ASE)</item>
+        <item>Astrakhan, Russia - (ASF)</item>
+        <item>Amami O Shima, Japan - (ASJ)</item>
+        <item>Asmara, Eritrea - (ASM)</item>
+        <item>Asosa, Ethopia - (ASO)</item>
+        <item>Kayseri, Turkey - (ASR)</item>
+        <item>Asuncion, Paraguay - (ASU)</item>
+        <item>Amboseli, Kenya - (ASV)</item>
+        <item>Aswan, Egypt - (ASW)</item>
+        <item>Arthurs Town, Bahamas - (ATC)</item>
+        <item>Atoifi, Solomon Islands - (ATD)</item>
+        <item>Athens, Greece - (ATH)</item>
+        <item>Atqasuk, AK - (ATK)</item>
+        <item>Altamira, Brazil - (ATM)</item>
+        <item>Namatana, Papua New Guinea - (ATN)</item>
+        <item>Amritsar, India - (ATQ)</item>
+        <item>Appleton, WI - (ATW)</item>
+        <item>Watertown, SD - (ATY)</item>
+        <item>Assiut, Egypt - (ATZ)</item>
+        <item>Aruba, Aruba - (AUA)</item>
+        <item>Arauca, Colombia - (AUC)</item>
+        <item>Augusta, ME - (AUG)</item>
+        <item>Alakanuk, AK - (AUK)</item>
+        <item>Aur Island, Marshall Islands - (AUL)</item>
+        <item>Agaun, Papua New Guinea - (AUP)</item>
+        <item>Atuona, French Polynesia - (AUQ)</item>
+        <item>Aurillac, France - (AUR)</item>
+        <item>Austin, TX - (AUS)</item>
+        <item>Araguaina, Brazil - (AUX)</item>
+        <item>Aneityum, Vanuatu - (AUY)</item>
+        <item>Ciego De Avila, Cuba - (AVI)</item>
+        <item>Asheville, NC - (AVL)</item>
+        <item>Hendersonville, NC - (AVL)</item>
+        <item>Avignon, France - (AVN)</item>
+        <item>Scranton, PA - (AVP)</item>
+        <item>Wilkes Barre, PA - (AVP)</item>
+        <item>Aniwa, Vanuatu - (AWD)</item>
+        <item>Ahwaz, Iran - (AWZ)</item>
+        <item>Anguilla, Anguilla - (AXA)</item>
+        <item>Alexandroupolis, Greece - (AXD)</item>
+        <item>Ataq, Yemen - (AXK)</item>
+        <item>Armenia, Colombia - (AXM)</item>
+        <item>Spring Point, Bahamas - (AXP)</item>
+        <item>Akita, Japan - (AXT)</item>
+        <item>Antalya, Turkey - (AYT)</item>
+        <item>Ayawaki, Indonesia - (AYW)</item>
+        <item>Amazon Bay, Papua New Guinea - (AZB)</item>
+        <item>Yazd, Iran - (AZD)</item>
+        <item>Andizhan, Uzbekistan - (AZN)</item>
+        <item>Kalamazoo, MI - (AZO)</item>
+        <item>Adrar, Algeria - (AZR)</item>
+        <item>Bahrain, Bahrain - (BAH)</item>
+        <item>Batman, Turkey - (BAL)</item>
+        <item>Barranquilla, Colombia - (BAQ)</item>
+        <item>Balalae, Solomon Islands - (BAS)</item>
+        <item>Bauru, Brazil - (BAU)</item>
+        <item>Baotou, China - (BAV)</item>
+        <item>Barnaul, Russia - (BAX)</item>
+        <item>Baia Mare, Romania - (BAY)</item>
+        <item>Balmaceda, Chile - (BBA)</item>
+        <item>Bhubaneswar, India - (BBI)</item>
+        <item>Kasane, Botswana - (BBK)</item>
+        <item>Battambang, Cambodia - (BBM)</item>
+        <item>Bario, Malaysia - (BBN)</item>
+        <item>Berbera, Somalia - (BBO)</item>
+        <item>Bucharest, Romania - Baneasa - (BBU)</item>
+        <item>Baracoa, Cuba - (BCA)</item>
+        <item>Bacolod, Philippines - (BCD)</item>
+        <item>Barra Colorado, Costa Rica - (BCL)</item>
+        <item>Barcelona, Spain - (BCN)</item>
+        <item>Jinka, Ethiopia - (BCO)</item>
+        <item>Brack, Libya - (BCQ)</item>
+        <item>Bermuda, Bermuda - (BDA)</item>
+        <item>Hamilton, Bermuda - (BDA)</item>
+        <item>Badu Island, Australia - (BDD)</item>
+        <item>Bandar Lengeh, Iran - (BDH)</item>
+        <item>Banjarmasin, Indonesia - (BDJ)</item>
+        <item>Hartford, CT - (BDL)</item>
+        <item>Windsor Locks, CT - (BDL)</item>
+        <item>Bandung, Indonesia - (BDO)</item>
+        <item>Vadodara, India - (BDQ)</item>
+        <item>Brindisi, Italy - (BDS)</item>
+        <item>Bardufoss, Norway - (BDU)</item>
+        <item>Benbecula, UK - (BEB)</item>
+        <item>Bedford, MA - (BED)</item>
+        <item>Belgrade, Serbia and Montenegro - Beograd - (BEG)</item>
+        <item>Benton Harbor, MI - (BEH)</item>
+        <item>Beica, Ethiopia - (BEI)</item>
+        <item>Berau, Indonesia - (BEJ)</item>
+        <item>Belem, Brazil - (BEL)</item>
+        <item>Benghazi, Libya - (BEN)</item>
+        <item>Newcastle, New South Wales, Australia - Belmont - (BEO)</item>
+        <item>Berlin, Germany - All airports - (BER)</item>
+        <item>Brest, France - (BES)</item>
+        <item>Bethel, AK - (BET)</item>
+        <item>Beira, Mozambique - (BEW)</item>
+        <item>Beirut, Lebanon - (BEY)</item>
+        <item>Bradford, PA - (BFD)</item>
+        <item>Scottsbluff, NE - (BFF)</item>
+        <item>Bakersfield, CA - (BFL)</item>
+        <item>Bloemfontein, South Africa - (BFN)</item>
+        <item>Bahia Pinas, Panama - (BFQ)</item>
+        <item>Belfast, Northern Ireland, UK - (BFS)</item>
+        <item>Buri Ram, Thailand - (BFV)</item>
+        <item>Bucaramanga, Colombia - (BGA)</item>
+        <item>Banqui, Central African Republic - (BGF)</item>
+        <item>Bridgetown, Barbados - (BGI)</item>
+        <item>Binghamton, NY - (BGM)</item>
+        <item>Endicott, NY - (BGM)</item>
+        <item>Johnson City, NY - (BGM)</item>
+        <item>Bergen, Norway - (BGO)</item>
+        <item>Bangor, ME - (BGR)</item>
+        <item>Milan, Italy - Orio Al Serio - (BGY)</item>
+        <item>Bar Harbour, ME - (BHB)</item>
+        <item>Belfast, UK - (BHD)</item>
+        <item>Blenheim, New Zealand - (BHE)</item>
+        <item>Brus Laguna, Honduras - (BHG)</item>
+        <item>Bisha, Saudi Arabia - (BHH)</item>
+        <item>Bahia Blanca, Argentina - (BHI)</item>
+        <item>Bhuj, India - (BHJ)</item>
+        <item>Bukhara, Uzbekistan - (BHK)</item>
+        <item>Birmingham, AL - (BHM)</item>
+        <item>Bhopal, India - (BHO)</item>
+        <item>Broken Hill, Australia - (BHQ)</item>
+        <item>Bhavnagar, India - (BHU)</item>
+        <item>Bahawalpur, Pakistan - (BHV)</item>
+        <item>Birmingham, UK - (BHX)</item>
+        <item>Beihai, China - (BHY)</item>
+        <item>Bastia, France - (BIA)</item>
+        <item>Block Island, RI - (BID)</item>
+        <item>Bikini Atoll, Marshall Islands - (BII)</item>
+        <item>Biak, Indonesia - (BIK)</item>
+        <item>Billings, MT - (BIL)</item>
+        <item>Bimini, Bahamas - (BIM)</item>
+        <item>Bilbao, Spain - (BIO)</item>
+        <item>Biarritz, France - (BIQ)</item>
+        <item>Bismarck, ND - (BIS)</item>
+        <item>Bejaia, Algeria - (BJA)</item>
+        <item>Bojnord, Iran - (BJB)</item>
+        <item>Batsfijord, Norway - (BJF)</item>
+        <item>Bemidji, MN - (BJI)</item>
+        <item>Banjul, Gambia - (BJL)</item>
+        <item>Bujumbura, Burundi - (BJM)</item>
+        <item>Baharpar, Ethiopia - (BJR)</item>
+        <item>Bodrum, Turkey - (BJV)</item>
+        <item>Guanajuato, Mexico - (BJX)</item>
+        <item>Leon, Mexico - (BJX)</item>
+        <item>Badajcz, Spain - (BJZ)</item>
+        <item>Moscow, Russia - Bykovo - (BKA)</item>
+        <item>Buckland, AK - (BKC)</item>
+        <item>Kota Kinabalu, Malaysia - (BKI)</item>
+        <item>Bangkok, Thailand - (BKK)</item>
+        <item>Bamako, Mali - (BKO)</item>
+        <item>Blackall, Australia - (BKQ)</item>
+        <item>Bengkulu, Indonesia - (BKS)</item>
+        <item>Beckley, WV - (BKW)</item>
+        <item>Brookings, SD - (BKX)</item>
+        <item>Bukoba, Malaysia - (BKZ)</item>
+        <item>Barcelona, Venezuela - (BLA)</item>
+        <item>Borlange, Sweden - (BLE)</item>
+        <item>Bluefield, WV - (BLF)</item>
+        <item>Princeton, WV - (BLF)</item>
+        <item>Belaga, Mozambique - (BLG)</item>
+        <item>Bellingham, WA - (BLI)</item>
+        <item>Batna, Algeria - (BLJ)</item>
+        <item>Blackpool, UK - (BLK)</item>
+        <item>Billund, Denmark - (BLL)</item>
+        <item>Blackwater, Australia - (BLT)</item>
+        <item>Belleville, IL - (BLV)</item>
+        <item>Blantyre, Malawi - (BLZ)</item>
+        <item>Stockholm, Sweden - Bromma - (BMA)</item>
+        <item>Belo, Madagascar - (BMD)</item>
+        <item>Broome, Australia - (BME)</item>
+        <item>Bloomington, IL - (BMI)</item>
+        <item>Borkum, Germany - (BMK)</item>
+        <item>Bhamo, Myanmar - (BMO)</item>
+        <item>Brampton Island, Australia - (BMP)</item>
+        <item>Bima, Indonesia - (BMU)</item>
+        <item>Banmethuot, Viet Nam - Phung-Doc - (BMV)</item>
+        <item>Belep Island, New Caledonia - (BMY)</item>
+        <item>Nashville, TN - (BNA)</item>
+        <item>Bandar Abbas, Iran - (BND)</item>
+        <item>Bonn, Germany - (BNJ)</item>
+        <item>Bronnoysund, Norway - (BNN)</item>
+        <item>Bannu, Pakistan - (BNP)</item>
+        <item>Barinas, Venezuela - (BNS)</item>
+        <item>Banja Luka, Bosnia Herzegovina - (BNX)</item>
+        <item>Bellona, Solomon Islands - (BNY)</item>
+        <item>Boma, Congo - (BOA)</item>
+        <item>Bora Bora, French Polynesia - (BOB)</item>
+        <item>Bocas Del Toro, Panama - (BOC)</item>
+        <item>Bordeaux, France - (BOD)</item>
+        <item>Bogota, Colombia - (BOG)</item>
+        <item>Bournemouth, UK - (BOH)</item>
+        <item>Boise, ID - (BOI)</item>
+        <item>Bourgas, Bulgaria - (BOJ)</item>
+        <item>Bonaire, Netherlands Antilles - (BON)</item>
+        <item>Bodo, Norway - (BOO)</item>
+        <item>Chicago, US - All airports - (CHI)</item>
+        <item>Detroit, US - All airports - (DTT)</item>
+        <item>Houston, US - All airports - (HOU)</item>
+        <item>New York, US - All airports - (NYC)</item>
+        <item>Oakland, US - All Airports - (ODM)</item>
+        <item>Washington, US - All airports - (WAS)</item>
+        <item>Altus, US - All Airports (LTS)</item>
+        <item>Atlanta, US (ATL)</item>
+        <item>Blytheville, US - All Airports (BYH)</item>
+        <item>Boston, US - (BOS)</item>
+        <item>Chicago, US - OHare - (ORD)</item>
+        <item>Fort Worth/Dallas, US - (DFW)</item>
+        <item>Detroit, US (DTW)</item>
+        <item>Honolulu, US - Hawaii - (HNL)</item>
+        <item>Orlando, US - Herndon - (ORL)</item>
+        <item>Boang, Papua New Guinea - (BOV)</item>
+        <item>Borroloola, Australia - (BOX)</item>
+        <item>Batuna, Solomon Islands - (BPF)</item>
+        <item>Balikpapan, Indonesia - (BPN)</item>
+        <item>Porto Seguro, Brazil - (BPS)</item>
+        <item>Beaumont/Port Arthur, TX - (BPT)</item>
+        <item>Port Arthur/Beaumont, TX - (BPT)</item>
+        <item>Bangda, China - (BPX)</item>
+        <item>Besalampy, Madagascar - (BPY)</item>
+        <item>London, UK - All airports - (LON)</item>
+        <item>Brunswick, GA - (BQK)</item>
+        <item>Boulia, Australia - (BQL)</item>
+        <item>Aguadilla, Puerto Rico - (BQN)</item>
+        <item>Blagoveschensk, Russia - (BQS)</item>
+        <item>Barreiras, Brazil - (BRA)</item>
+        <item>San Carlos, Argentina - (BRC)</item>
+        <item>Brainerd, MN - (BRD)</item>
+        <item>Bremen, Germany - (BRE)</item>
+        <item>Bari, Italy - (BRI)</item>
+        <item>Bourke, Australia - (BRK)</item>
+        <item>Burlington, IA - (BRL)</item>
+        <item>Barquisimeto, Venezuela - (BRM)</item>
+        <item>Berne, Switzerland - Belp Airport - (BRN)</item>
+        <item>Brownsville, TX - (BRO)</item>
+        <item>Brno, Czech Republic - Turany - (BRQ)</item>
+        <item>Barra, UK - (BRR)</item>
+        <item>Bristol, UK - (BRS)</item>
+        <item>Bathurst Island, Australia - (BRT)</item>
+        <item>Brussels, Belgium - National - (BRU)</item>
+        <item>Barrow, AK - (BRW)</item>
+        <item>Bossaro, Somalia - (BSA)</item>
+        <item>Brasilia, DF, Brazil - (BSB)</item>
+        <item>Bahia Solano, Colombia - (BSC)</item>
+        <item>Baoshan, China - (BSD)</item>
+        <item>Biskra, Algeria - (BSK)</item>
+        <item>Basel, Switzerland - (BSL)</item>
+        <item>Basco, Philippines - (BSO)</item>
+        <item>Batam, Indonesia - (BTH)</item>
+        <item>Barter Island, AK - (BTI)</item>
+        <item>Banda Aceh, Indonesia - (BTJ)</item>
+        <item>Bratsk, Russia - (BTK)</item>
+        <item>Butte, MT - (BTM)</item>
+        <item>Baton Rouge, LA - (BTR)</item>
+        <item>Bratislava, Slovakia - (BTS)</item>
+        <item>Bettles, AK - (BTT)</item>
+        <item>Bintulu, Malaysia - (BTU)</item>
+        <item>Burlington, VT - (BTV)</item>
+        <item>Buka, Papua New Guinea - (BUA)</item>
+        <item>Burketown, Australia - (BUC)</item>
+        <item>Budapest, Hungary - (BUD)</item>
+        <item>Buffalo, NY - (BUF)</item>
+        <item>Bokondini, Indonesia - (BUI)</item>
+        <item>Burao, Somalia - (BUO)</item>
+        <item>Bulawayo, Zimbabwe - (BUQ)</item>
+        <item>Burbank, CA - (BUR)</item>
+        <item>Batumi, Georgia - (BUS)</item>
+        <item>Bashehr, Iran - (BUZ)</item>
+        <item>Paris, France - Beauvais-Tille - (BVA)</item>
+        <item>Boavista, Brazil - (BVB)</item>
+        <item>Boa Vista, Cape Verde - (BVC)</item>
+        <item>Brive-La-Gaillarde, France - Laroche- (BVE)</item>
+        <item>Berlevag, Norway - (BVG)</item>
+        <item>Vilhena, Brazil - (BVH)</item>
+        <item>Birdsville, Australia - (BVI)</item>
+        <item>Brawnwood, TX - (BWD)</item>
+        <item>Braunschweig, Denmark - (BWE)</item>
+        <item>Bowling Green, KY - (BWG)</item>
+        <item>Baltimore, MD - (BWI)</item>
+        <item>Bol, Croatia - (BWK)</item>
+        <item>Bandar Seri Begawan, Brunei - (BWN)</item>
+        <item>Brewarrina, Australia - (BWQ)</item>
+        <item>Burnie, Australia - (BWT)</item>
+        <item>Babo, Indonesia - (BXB)</item>
+        <item>Bade, Indonesia - (BXD)</item>
+        <item>Batom, Indonesia - (BXM)</item>
+        <item>Bam, Iran - (BXR)</item>
+        <item>Butuan, Philippines - (BXU)</item>
+        <item>Bunsil, Papua New Guinea - (BXZ)</item>
+        <item>Boundary, AK - (BYA)</item>
+        <item>Bayamo, Cuba - (BYM)</item>
+        <item>Bayreuth, Germany - (BYU)</item>
+        <item>Belize City, Belize - International - (BZE)</item>
+        <item>Bydgoszcz, Poland - (BZG)</item>
+        <item>Balikesir, Turkey - (BZI)</item>
+        <item>Barisal, Bangladesh - (BZL)</item>
+        <item>Bozeman, MT - (BZN)</item>
+        <item>Bolzano, Italy - (BZO)</item>
+        <item>Beziers, France - (BZR)</item>
+        <item>Brazzaville, Congo - (BZV)</item>
+        <item>Cascavel, Brazil - (CAC)</item>
+        <item>Columbia, SC - (CAE)</item>
+        <item>Cagliari, Italy - (CAG)</item>
+        <item>Cairo, Egypt - (CAI)</item>
+        <item>Akron/Canton, OH - (CAK)</item>
+        <item>Canton/Akron, OH - (CAK)</item>
+        <item>Campbeltown, UK - (CAL)</item>
+        <item>Guangzhou, China - (CAN)</item>
+        <item>Cap Haitien, Haiti - (CAP)</item>
+        <item>Caucasia, Colombia - (CAQ)</item>
+        <item>Canaima, Venezuela - (CAS)</item>
+        <item>Casablanca, Morocco - Anfa - (CAS)</item>
+        <item>Campos, Brazil - (CAW)</item>
+        <item>Cayenne, French Guiana - (CAY)</item>
+        <item>Cobar, Australia - (CAZ)</item>
+        <item>Cochabamba, Bolivia - (CBB)</item>
+        <item>Cumberland, MD - (CBE)</item>
+        <item>Cambridge, UK - (CBG)</item>
+        <item>Bechar, Algeria - (CBH)</item>
+        <item>Ciudad Bolivar, Venezuela - (CBL)</item>
+        <item>Cotabato, Philippines - (CBO)</item>
+        <item>Calabar, Nigeria - (CBQ)</item>
+        <item>Canberra, Australia - (CBR)</item>
+        <item>Carcassonne, France - (CCF)</item>
+        <item>Criciuma, Brazil - (CCM)</item>
+        <item>Concepcion, Chile - (CCP)</item>
+        <item>Concord, CA - (CCR)</item>
+        <item>Caracas, Venezuela - (CCS)</item>
+        <item>Craig Cove, Vanuatu - (CCV)</item>
+        <item>Cold Bay, AK - (CDB)</item>
+        <item>Cedar City, UT - (CDC)</item>
+        <item>Paris, France - Charles Degaulle - (CDG)</item>
+        <item>Chadron, NE - (CDR)</item>
+        <item>Cordova, AK - (CDV)</item>
+        <item>Cebu, Philippines - Matan International - (CEB)</item>
+        <item>Crescent City, CA - (CEC)</item>
+        <item>Cedun, Australia - (CED)</item>
+        <item>Cherepovets, Russia - (CEE)</item>
+        <item>Chevepovets, Russia - (CEE)</item>
+        <item>Chester, UK - (CEG)</item>
+        <item>Chiang Rai, Thailand - (CEI)</item>
+        <item>Chelybinsk, Russia - (CEK)</item>
+        <item>Central, AK - (CEM)</item>
+        <item>Ciudad Obregon, Mexico - (CEN)</item>
+        <item>Cannes, France - Mandelieu - (CEQ)</item>
+        <item>Cortez, CO - (CEZ)</item>
+        <item>Coffee Point, AK - (CFA)</item>
+        <item>Clermont-ferrand, France - (CFE)</item>
+        <item>Donegal, Ireland - (CFN)</item>
+        <item>Caen, France - (CFR)</item>
+        <item>Coffs Harbor, Australia - (CFS)</item>
+        <item>Kerkyra, Greece - (CFU)</item>
+        <item>Craig, AK - (CGA)</item>
+        <item>Cuiaba, Brazil - (CGB)</item>
+        <item>Changde, China - (CGD)</item>
+        <item>Sao Paulo, Brazil - Congonhas - (CGH)</item>
+        <item>Cape Girardeau, MO - (CGI)</item>
+        <item>Jakarta, Indonesia - (CGK)</item>
+        <item>Cologne, Germany - Cologne/Bonn - (CGN)</item>
+        <item>Zhengzha, China - (CGO)</item>
+        <item>Chittagong, Bangladesh - (CGP)</item>
+        <item>Changchun, China - (CGQ)</item>
+        <item>Campo Grande, Brazil - (CGR)</item>
+        <item>Cagayan De Oro, Philippines - Lumbia - (CGY)</item>
+        <item>Chattanooga, TN - (CHA)</item>
+        <item>Christchurch, New Zealand - (CHC)</item>
+        <item>Chaoyang, China - (CHG)</item>
+        <item>Charlottesville, VA - (CHO)</item>
+        <item>Circle Hot Springs, AK - (CHP)</item>
+        <item>Chania, Greece - (CHQ)</item>
+        <item>Charleston, SC - (CHS)</item>
+        <item>Chatham Island, New Zealand - (CHT)</item>
+        <item>Chuathbaluk, AK - (CHU)</item>
+        <item>Changuinda, Panama - (CHX)</item>
+        <item>Choiseul Bay, Solomon Islands - (CHY)</item>
+        <item>Rome, Italy - Ciampino - (CIA)</item>
+        <item>Chico, CA - (CIC)</item>
+        <item>Cedar Rapids, IA - (CID)</item>
+        <item>Chifeng, China - (CIF)</item>
+        <item>Cobija, Bolivia - (CIJ)</item>
+        <item>Chalkyitsik, AK - (CIK)</item>
+        <item>Chipata, Zambia - (CIP)</item>
+        <item>Shimkent, Kazakhstan - (CIT)</item>
+        <item>Sault Ste Marie, MI, - (CIU)</item>
+        <item>Canouan, Saint Vincent and the Grenadines - (CIW)</item>
+        <item>Chicayo, Peru - (CIX)</item>
+        <item>Cajamarca, Peru - (CJA)</item>
+        <item>Calama, Chile - (CJC)</item>
+        <item>Cheongju, South Korea - (CJJ)</item>
+        <item>Chitral, Pakistan - (CJL)</item>
+        <item>Ciudad Juarez, Mexico - (CJS)</item>
+        <item>Jeju, South Korea - Jeju Airport, metro area - (CJU)</item>
+        <item>Clarksburg, WV - (CKB)</item>
+        <item>Chongqing, China - (CKG)</item>
+        <item>Croker Island, Australia - (CKI)</item>
+        <item>Crooked Creek, AK - (CKO)</item>
+        <item>Carajas, Brazil - (CKS)</item>
+        <item>Chicken, AK - (CKX)</item>
+        <item>Conakry, Guinea - (CKY)</item>
+        <item>Carlsbad, CA - (CLD)</item>
+        <item>Cleveland, OH - (CLE)</item>
+        <item>Cluj, Romania - (CLJ)</item>
+        <item>College Station, TX - (CLL)</item>
+        <item>Port Angeles, WA - (CLM)</item>
+        <item>Cali, Colombia - (CLO)</item>
+        <item>Clarks Point, AK - (CLP)</item>
+        <item>Colima, Mexico - (CLQ)</item>
+        <item>Charlotte, NC - (CLT)</item>
+        <item>Calvi, France - (CLY)</item>
+        <item>Cunnamulla, Australia - (CMA)</item>
+        <item>Colombo, Sri Lanka - (CMB)</item>
+        <item>Ciudad Del Carmen, Mexico - (CME)</item>
+        <item>Chambery, France - (CMF)</item>
+        <item>Corumba, Brazil - (CMG)</item>
+        <item>Columbus, OH - (CMH)</item>
+        <item>Champaign/Urbana, IL - (CMI)</item>
+        <item>Urbana/Champaign, IL - (CMI)</item>
+        <item>Chi Mei, Taiwan - (CMJ)</item>
+        <item>Club Makokola, Malawi - (CMK)</item>
+        <item>Casablanca, Morocco - Mohamed V - (CMN)</item>
+        <item>Kundiawa, Papau New Guinea - (CMU)</item>
+        <item>Camaguey, Cuba - (CMW)</item>
+        <item>Hancock, MI - (CMX)</item>
+        <item>Coonamble, Australia - (CNB)</item>
+        <item>Coconut Island, Australia - (CNC)</item>
+        <item>Constanta, Romania - (CND)</item>
+        <item>Belo Horizonte, Brazil - Tancredo Neves Intl. - (CNF)</item>
+        <item>Blo Horizonte, Brazil - (CNF)</item>
+        <item>Cloncurry, Australia - (CNJ)</item>
+        <item>Concordia, KS - (CNK)</item>
+        <item>Carlsbad, NM - (CNM)</item>
+        <item>Neerlerit Inaat, Greenland - (CNP)</item>
+        <item>Corrientes, Argentina - (CNQ)</item>
+        <item>Cairns, Australia - (CNS)</item>
+        <item>Chiang Mai, Thailand - (CNX)</item>
+        <item>Moab, UT - (CNY)</item>
+        <item>Concordia, Argentina - (COC)</item>
+        <item>Cotarou, Benin - (COC)</item>
+        <item>Cody/Yellowstone, WY - (COD)</item>
+        <item>Yellowstone/Cody, WY - (COD)</item>
+        <item>Condoto, Colombia - (COG)</item>
+        <item>Cordoba, Argentina - (COR)</item>
+        <item>Colorado Springs, CO - (COS)</item>
+        <item>Columbia, MO - (COU)</item>
+        <item>San Martin De Los Andes, Argentina - (CPC)</item>
+        <item>Coober Pedy, Australia - (CPD)</item>
+        <item>Campeche, Mexico - (CPE)</item>
+        <item>Copenhagen, Denmark - (CPH)</item>
+        <item>Cape Orford, Papua New Guinea - (CPI)</item>
+        <item>Copiapo, Chile - (CPO)</item>
+        <item>Campinas, Brazil - (CPQ)</item>
+        <item>Casper, WY - (CPR)</item>
+        <item>Cape Town, South Africa - (CPT)</item>
+        <item>Campina Grande, Brazil - (CPV)</item>
+        <item>Camodoro, Argentina - (CRD)</item>
+        <item>Crooked Island, Bahamas - (CRI)</item>
+        <item>Brussels, Belguim - Charleroi - (CRL)</item>
+        <item>Corpus Christi, TX - (CRP)</item>
+        <item>Crotone, Italy - (CRV)</item>
+        <item>Charleston, WV - (CRW)</item>
+        <item>Columbus, GA - (CSG)</item>
+        <item>Casino, Australia - (CSI)</item>
+        <item>Castaway, Fiji - (CST)</item>
+        <item>Cheboksary, Russia - (CSY)</item>
+        <item>Catania, Italy - (CTA)</item>
+        <item>Catamarca, Argentina - (CTC)</item>
+        <item>Chitre, Panama - (CTD)</item>
+        <item>Cartagena, Colombia - (CTG)</item>
+        <item>Charleville, Australia - (CTL)</item>
+        <item>Chetumal, Mexico - (CTM)</item>
+        <item>Cooktown, Australia - (CTN)</item>
+        <item>Sapporo, Japan - Chitose - (CTS)</item>
+        <item>Chergdu, China - (CTU)</item>
+        <item>Cucata, Colombia - (CUC)</item>
+        <item>Cuenca, Ecuador - (CUE)</item>
+        <item>Culiacan, Mexico - (CUL)</item>
+        <item>Cumana, Venezuela - (CUM)</item>
+        <item>Cancun, Mexico - (CUN)</item>
+        <item>Carupani, Venezuela - (CUP)</item>
+        <item>Coen, Australia - (CUQ)</item>
+        <item>Curacao, Netherlands Antilles - (CUR)</item>
+        <item>Chihuahua, Mexico - (CUU)</item>
+        <item>Cube Cove, AK - (CUW)</item>
+        <item>Cuzco, Peru - (CUZ)</item>
+        <item>Cleve, Australia - (CVC)</item>
+        <item>Cincinnati, OH - (CVG)</item>
+        <item>Cuernavaca, Mexico - (CVJ)</item>
+        <item>Cape Vogel, Papua New Guinea - (CVL)</item>
+        <item>Ciudad Victoria, Mexico - (CVM)</item>
+        <item>Clovis, NM - (CVN)</item>
+        <item>Albany, OR - Bus service - (CVO)</item>
+        <item>Carnarvon, Australia - (CVQ)</item>
+        <item>Corvo Island, Portugal - (CVU)</item>
+        <item>Stevens Point/Wausau, WI - (CWA)</item>
+        <item>Wausau/Stevens Point, WI - (CWA)</item>
+        <item>Curitiba, Brazil - (CWB)</item>
+        <item>Cardiff, UK - (CWL)</item>
+        <item>Coxs Bazar, Bangladesh - (CXB)</item>
+        <item>Vancouver, BC - Coal Harbour - (CXH)</item>
+        <item>Caxias Do Sul, Brazil - (CXJ)</item>
+        <item>Cayman Brac Is, Cambodia - (CYB)</item>
+        <item>Chefornak, AK - (CYF)</item>
+        <item>Chiayi, Taiwan - (CYI)</item>
+        <item>Cayo Largo Del Sur, Cuba - (CYO)</item>
+        <item>Cheyenne, WY - (CYS)</item>
+        <item>Coro, Venezuela - (CZE)</item>
+        <item>Corozal, Belize - (CZH)</item>
+        <item>Constantine, Algeria - (CZL)</item>
+        <item>Cozumel, Mexico - (CZM)</item>
+        <item>Chisana, AK - (CZN)</item>
+        <item>Cruzeiro Do Sul, Brazil - (CZS)</item>
+        <item>Changzhou, China - (CZX)</item>
+        <item>Daytona Beach, FL - (DAB)</item>
+        <item>Dhaka, Bangledesh - Zia International - (DAC)</item>
+        <item>Da Nang, Viet Nam - (DAD)</item>
+        <item>Dallas, US - Love Field - (DAL)</item>
+        <item>Damascus, Syrian Arab Republic - (DAM)</item>
+        <item>Dar Es Salaam, Tanzania - (DAR)</item>
+        <item>Daru, Papua New Guinea - (DAU)</item>
+        <item>David, Panama - (DAV)</item>
+        <item>Daxian, China - (DAX)</item>
+        <item>Dayton, OH - (DAY)</item>
+        <item>Debra Marcos, Ethiopia - (DBM)</item>
+        <item>Dubbo, Australia - (DBO)</item>
+        <item>Dubuque, IA - (DBQ)</item>
+        <item>Debra Tabor, Ethiopia - (DBT)</item>
+        <item>Dubrovnik, Croatia - (DBV)</item>
+        <item>Washington US - Dulles - (IAD)</item>
+        <item>Washington US - National - (DCA)</item>
+        <item>Dominica, Dominica - Cane Field - (DCF)</item>
+        <item>Castres, France - (DCM)</item>
+        <item>Dodge City, KS - (DDC)</item>
+        <item>Daydream Is, Australia - (DDI)</item>
+        <item>Dodoima, Papua New Guinea - (DDM)</item>
+        <item>Dera Ghazi, Pakistan - (DEA)</item>
+        <item>Decatur, IL - (DEC)</item>
+        <item>Dembidollo, Ethiopia - (DEM)</item>
+        <item>Denver, CO - International - (DEN)</item>
+        <item>Derim, Papua New Guinea - (DER)</item>
+        <item>Deirezzor, Syria - Al Jafrah - (DEZ)</item>
+        <item>Dangriga, Belize - (DGA)</item>
+        <item>Mudgee, Australia - (DGE)</item>
+        <item>Durango, Mexico - (DGO)</item>
+        <item>Dumaguete, Philippines - (DGT)</item>
+        <item>Dothan, AL - (DHN)</item>
+        <item>Dibrugarn, India - (DIB)</item>
+        <item>Antsiranana, Madagascar - (DIE)</item>
+        <item>Dijon, France - (DIJ)</item>
+        <item>Dickinson, ND - (DIK)</item>
+        <item>Dili, Indonesia - (DIL)</item>
+        <item>Dien Bien Phu, Viet Nam - Gialam - (DIN)</item>
+        <item>Dire Dawa, Ethiopia - (DIR)</item>
+        <item>Div, India - (DIU)</item>
+        <item>Diyarbakir, Turkey - (DIY)</item>
+        <item>Jambi. Indonesia - (DJB)</item>
+        <item>Djerba, Tunisia - (DJE)</item>
+        <item>Djanet, Algeria - (DJG)</item>
+        <item>Jayapura, Indonesia - (DJJ)</item>
+        <item>Delta Junction, AK - (DJN)</item>
+        <item>Dunk Island, Australia - (DKI)</item>
+        <item>Dakar, Senegal - (DKR)</item>
+        <item>Dovala, Cameroon - (DLA)</item>
+        <item>Dalian, China - (DLC)</item>
+        <item>Dillingham, AK - (DLG)</item>
+        <item>Duluth, MN - (DLH)</item>
+        <item>Dalaman, Turkey - (DLM)</item>
+        <item>Dali City, China - (DLU)</item>
+        <item>Dillons Bay, Vanuata - (DLY)</item>
+        <item>Doomadgee, Australia - (DMD)</item>
+        <item>Moscow, Russia - Domodedovo - (DME)</item>
+        <item>Dammam, Saudi Arabia - (DMM)</item>
+        <item>Dimapur, India - (DMU)</item>
+        <item>Dundee, UK - (DND)</item>
+        <item>Dunhuang, China - (DNH)</item>
+        <item>Dnepropetrovsk, Ukraine - (DNK)</item>
+        <item>Denham, Australia - (DNM)</item>
+        <item>Dinard, France - (DNR)</item>
+        <item>Denizli, Turkey - (DNZ)</item>
+        <item>Dobo, Indonesia - (DOB)</item>
+        <item>Dodoma, Tanzania - (DOD)</item>
+        <item>Dongola, Sudan - (DOG)</item>
+        <item>Juba, Sudan - (JUB)</item>
+        <item>Doha, Qatar - (DOH)</item>
+        <item>Donetsk, Ukraine - (DOK)</item>
+        <item>Deauville, France - (DOL)</item>
+        <item>Dominica, Dominica - Melville Hall - (DOM)</item>
+        <item>Dourados, Brazil - (DOU)</item>
+        <item>Dipolog, Philippines - (DPL)</item>
+        <item>Devonport, Australia - (DPO)</item>
+        <item>Denpasar Bali, Indonesia - (DPS)</item>
+        <item>Derby, Australia - (DRB)</item>
+        <item>Deering, AK - (DRG)</item>
+        <item>Dabra, Indonesia - (DRH)</item>
+        <item>Durango, CO - (DRO)</item>
+        <item>Dresden, Germany - (DRS)</item>
+        <item>Del Reo, TX - (DRT)</item>
+        <item>Darwin, Northern Territory, Australia - (DRW)</item>
+        <item>Dessie, Ethiopia - (DSE)</item>
+        <item>Dera Ismail Khan, Pakistan - (DSK)</item>
+        <item>Des Moines, IA - (DSM)</item>
+        <item>Datadawai, Indonesia - (DTD)</item>
+        <item>Dortmund, Germany - (DTM)</item>
+        <item>Dublin, Ireland - (DUB)</item>
+        <item>Dunedin, New Zealand - (DUD)</item>
+        <item>Dubois, PA - (DUJ)</item>
+        <item>Dumai, Indonesia - (DUM)</item>
+        <item>Duncan/Quam, BC - (DUQ)</item>
+        <item>Durban, South Africa - (DUR)</item>
+        <item>Dusseldorf, Germany - International - (DUS)</item>
+        <item>Dutch Harbor, AK - (DUT)</item>
+        <item>Devils Lake, ND - (DVL)</item>
+        <item>Davao, Philipines - Mati - (DVO)</item>
+        <item>Soalala, Madagascar - (DWB)</item>
+        <item>Dayang, China - (DYG)</item>
+        <item>Anadyr, Russia - (DYR)</item>
+        <item>Dushanbe, Tajikistan - (DYU)</item>
+        <item>Dzaoudzi, Mayotte - (DZA)</item>
+        <item>Emae, Vanuata - (EAE)</item>
+        <item>Nejran, Saudi Arabia - (EAM)</item>
+        <item>Kearney, NE - (EAR)</item>
+        <item>San Sebastian, Spain - (EAS)</item>
+        <item>Wenatchee, WA - (EAT)</item>
+        <item>Eau Claire, WI - (EAU)</item>
+        <item>Elba Island, Italy - (EBA)</item>
+        <item>Entebbe, Uganda - (EBB)</item>
+        <item>El Obeid, Sudan - (EBD)</item>
+        <item>Esbjerg, Denmark - Esbjerg Airport - (EBJ)</item>
+        <item>Ebon, Marshall Islands - (EBO)</item>
+        <item>St. Etienne, France - (EBU)</item>
+        <item>Ercan, Cyprus - (ECN)</item>
+        <item>Edna Bay, AK - (EDA)</item>
+        <item>Edinburgh, UK - (EDI)</item>
+        <item>Eldoret, Kenya - (EDL)</item>
+        <item>Edremit, Turkey - (EDO)</item>
+        <item>Edward River, Australia - (EDR)</item>
+        <item>Eek, AK - (EEK)</item>
+        <item>Keene, NH - (EEN)</item>
+        <item>Kefallinia, Greece - (EFL)</item>
+        <item>Bergerac, France - (EGC)</item>
+        <item>Vail, CO - Eagle County Airport - (EGE)</item>
+        <item>Neghelli, Ethiopia - (EGL)</item>
+        <item>Sege, Solomon Islands - (EGM)</item>
+        <item>Geneina, Sudan - (EGN)</item>
+        <item>Belgorod, Russia - (EGO)</item>
+        <item>Egilsstadir, Iceland - (EGS)</item>
+        <item>El Bolsan, Argentina - (EHL)</item>
+        <item>Cape Newenham, AK - (EHM)</item>
+        <item>Eisenach, Germany - (EIB)</item>
+        <item>Eindhoven, Netherlands - (EIN)</item>
+        <item>Beef Island, British Virgin Islands - (EIS)</item>
+        <item>Barran Cabermeja, Colombia - (EJA)</item>
+        <item>Wedjh, Saudi Arabia - (EJH)</item>
+        <item>Elko, NV - (EKO)</item>
+        <item>Elcho Island, Australia - (ELC)</item>
+        <item>El Dorado, AR - (ELD)</item>
+        <item>El Real, Panama - (ELE)</item>
+        <item>El Fasher, Sudan - (ELF)</item>
+        <item>Eleuthera Island, Bahamas - (ELH)</item>
+        <item>North Eleuthera, Bahamas - (ELH)</item>
+        <item>Elim, AK - (ELI)</item>
+        <item>Elmira, NY - (ELM)</item>
+        <item>El Paso, TX - (ELP)</item>
+        <item>Gassim, Saudi Arabia - (ELQ)</item>
+        <item>El Oved, Algeria - (ELU)</item>
+        <item>Elfin Cove, AK - (ELV)</item>
+        <item>Nottingham, UK - (EMA)</item>
+        <item>Emerald, Australia - (EMD)</item>
+        <item>Emmonak, AK - (EMK)</item>
+        <item>Nema, Mauritania - (EMN)</item>
+        <item>Emo, Papua New Guinea - (EMO)</item>
+        <item>Embessa, Papua New Guinea - (EMS)</item>
+        <item>El Maiten, Argentina - (EMX)</item>
+        <item>Kenai, AK - (ENA)</item>
+        <item>Ende, Indonesia - (ENE)</item>
+        <item>Enontekio, Finland - (ENF)</item>
+        <item>Enshi, China - (ENH)</item>
+        <item>Enewetak Island, Marshall Islands - (ENT)</item>
+        <item>Enugu, Nigeria - (ENU)</item>
+        <item>Yanan, China - (ENY)</item>
+        <item>Medellin, Colombia - Enrique Olaya Herrera - (EOH)</item>
+        <item>Eday, UK - (EOI)</item>
+        <item>Epinal, France - (EPL)</item>
+        <item>Esperance, Australia - (EPR)</item>
+        <item>El Portillo/Samana, Dominician Republic - El Portillo- (EPS)</item>
+        <item>Esquel, Argentina - (EQS)</item>
+        <item>Erzincan, Turkey - (ERC)</item>
+        <item>Erfurt, Germany - (ERF)</item>
+        <item>Erie, PA - (ERI)</item>
+        <item>Erzurum, Turkey - (ERZ)</item>
+        <item>Ankara, Turkey - Esenboga - (ESB)</item>
+        <item>Escanaba, MI - (ESC)</item>
+        <item>Elista, Russia - (ESL)</item>
+        <item>Esmeraldas, Ecuador - (ESM)</item>
+        <item>El Salvador, Chile - (ESR)</item>
+        <item>Elat, Italy - (ETH)</item>
+        <item>Metz/Nancy, France - (ETZ)</item>
+        <item>Eureka, NV - (EUE)</item>
+        <item>Eugene, OR - (EUG)</item>
+        <item>Laayoune, Morocco - (EUN)</item>
+        <item>St. Eustatius, Netherlands Antilles - (EUX)</item>
+        <item>Harstad-Narvik, Norway - (EVE)</item>
+        <item>Sveg, Sweden - (EVG)</item>
+        <item>Yerevan, Armenia - (EVN)</item>
+        <item>Evansville, IN - (EVV)</item>
+        <item>Ewer, Indonesia - (EWE)</item>
+        <item>Enarotali, Indonesia - (EWI)</item>
+        <item>Newark, NJ - (EWR)</item>
+        <item>Exmouth Gulf, Australia - (EXM)</item>
+        <item>Eveter, UK - (EXT)</item>
+        <item>Yelimane, Mali - (EYL)</item>
+        <item>El Yopal, Colombia - (EYP)</item>
+        <item>Key West, FL - (EYW)</item>
+        <item>Buenos Aires, Argentina - Ministro Pistarini - (EZE)</item>
+        <item>Elazig, Turkey - (EZS)</item>
+        <item>Faroe Islands, Faroe Islands - (FAE)</item>
+        <item>Fairbanks, AK - (FAI)</item>
+        <item>Fajard, Puerto Rico - (FAJ)</item>
+        <item>Faro, Portugal - (FAO)</item>
+        <item>Fargo, ND - (FAR)</item>
+        <item>Fresno, CA - (FAT)</item>
+        <item>Fakarava, French Polynesia - (FAV)</item>
+        <item>Fayetteville, NC - (FAY)</item>
+        <item>Lumbashi, Congo - (FBM)</item>
+        <item>Rome, Italy - Leonardo Da Vinci/Fiumicino - (FCO)</item>
+        <item>Forde, Norway - (FDE)</item>
+        <item>Fort De France, Martinique - (FDF)</item>
+        <item>Friedrichshafer, Germany - (FDH)</item>
+        <item>Fergana, Uzbekistan - (FEG)</item>
+        <item>Fernando De Noronha, Brazil - (FEN)</item>
+        <item>Fez, Morocco - (FEZ)</item>
+        <item>Apia, Western Samoa - (FGI)</item>
+        <item>Fair Isle, UK - (FIE)</item>
+        <item>Kinshasa, Congo - (FIH)</item>
+        <item>Fitzroy Crossing, Australia - (FIZ)</item>
+        <item>Karlsruhe/Badern Baden, Germany - (FKB)</item>
+        <item>Franklin, PA - (FKL)</item>
+        <item>Fak Fak, Indonesia - (FKQ)</item>
+        <item>Fukushima, Japan - (FKS)</item>
+        <item>Florencia, Colombia - (FLA)</item>
+        <item>Flensburg, Germany - (FLF)</item>
+        <item>Flagstaff, AZ - (FLG)</item>
+        <item>Fort Lauderdale, FL - (FLL)</item>
+        <item>Florianopolis, Brazil - (FLN)</item>
+        <item>Florence, SC - (FLO)</item>
+        <item>Florence, Italy - Peretola - (FLR)</item>
+        <item>Flores Island, Portugal - (FLW)</item>
+        <item>Formosa, Argentina - (FMA)</item>
+        <item>Farmington, NM - (FMN)</item>
+        <item>Muenster, Germany - (FMO)</item>
+        <item>Freetown, Sierra Leone - Lungi Intl - (FNA)</item>
+        <item>Funchal, Portugal - (FNC)</item>
+        <item>Nimes, France - (FNI)</item>
+        <item>Pyongyang, North Korea - (FNJ)</item>
+        <item>Fort Collins/Loveland, CO - Municipal Airport - (FNL)</item>
+        <item>Loveland/Fort Collins, CO - Municipal Airport - (FNL)</item>
+        <item>Flint, MI - (FNT)</item>
+        <item>Fuzhou, China - (FOC)</item>
+        <item>Fort Dodge, IA - (FOD)</item>
+        <item>Topeka, KS - (FOE)</item>
+        <item>Foggia, Italy - (FOG)</item>
+        <item>Fortaleza, Brazil - (FOR)</item>
+        <item>Freeport, Bahamas - (FPO)</item>
+        <item>Frankfurt, Germany - International - (FRA)</item>
+        <item>Franca, Brazil - (FRC)</item>
+        <item>Fera Island, Solomon Islands - (FRE)</item>
+        <item>Floro, Norway - (FRO)</item>
+        <item>Flores, Guatemala - (FRS)</item>
+        <item>Bishkek, Kyrgyzstan - (FRU)</item>
+        <item>Francistown, Botswana - (FRW)</item>
+        <item>Figari, France - (FSC)</item>
+        <item>Sioux Falls, SD - (FSD)</item>
+        <item>Fort Smith, AR - (FSM)</item>
+        <item>St Pierre, St Pierre and Miquelon - (FSP)</item>
+        <item>Futuna Island, Vanuatu - (FTA)</item>
+        <item>Fort Dauphin, Madagascar - (FTU)</item>
+        <item>Fuerteventura, Spain - (FUE)</item>
+        <item>Puerto del Rosario, Spain - (FUE)</item>
+        <item>Fuyang, China - (FUG)</item>
+        <item>Fukue, Japan - (FUJ)</item>
+        <item>Fukuoka, Japan - (FUK)</item>
+        <item>Funafuti Atol, Tuvalu - (FUN)</item>
+        <item>Futuna Island, Wallis and Futuna Islands - (FUT)</item>
+        <item>Fort Wayne, IN - (FWA)</item>
+        <item>>Skopie, Macedonia - (FYROM)</item>
+        <item>Fayetteville, AR - Municipal/Drake - (FYV)</item>
+        <item>Filton, UK - (FZO)</item>
+        <item>Gafsa, Tunisia - (GAF)</item>
+        <item>Yamagata, Japan - (GAJ)</item>
+        <item>Gan Island, Maldives - (GAN)</item>
+        <item>Guantanamo, Cuba - (GAO)</item>
+        <item>Garaina, Papua New Guinea - (GAR)</item>
+        <item>Gawahati, India - (GAU)</item>
+        <item>Gamba, Gabon - (GAX)</item>
+        <item>Gaborone, Botswana - (GBE)</item>
+        <item>Goulburn Island, Australia - (GBL)</item>
+        <item>Gillette, WY - (GCC)</item>
+        <item>Guernsey, UK - (GCI)</item>
+        <item>Garden City, KS - (GCK)</item>
+        <item>Grand Cayman, Cayman Islands - (GCM)</item>
+        <item>Grand Canyon, AZ - National Park - (GCN)</item>
+        <item>Gode/Iddidole, Ethopia - (GDE)</item>
+        <item>Guadalajara, Mexico - (GDL)</item>
+        <item>Gdansk, Poland - (GDN)</item>
+        <item>Gondari, Ethiopia - (GDQ)</item>
+        <item>Grand Turk Island, Turks and Caicos Islands - (GDT)</item>
+        <item>Glendive, MT - (GDV)</item>
+        <item>Magadan, Russia - (GDX)</item>
+        <item>Gelendzik, Russia - (GDZ)</item>
+        <item>Noumea, New Caledonia - Magenta - (GEA)</item>
+        <item>Gebe, Indonesia - (GEB)</item>
+        <item>Spokane, WA - (GEG)</item>
+        <item>Santo Angelo, Brazil - (GEL)</item>
+        <item>Georgetown, Guyana - (GEO)</item>
+        <item>Nueva Gerona, Cuba - (GER)</item>
+        <item>General Santos, Philippines - (GES)</item>
+        <item>Geraldton, Australia, - (GET)</item>
+        <item>Gallivare, Sweden - (GEV)</item>
+        <item>Griffith, Australia - (GFF)</item>
+        <item>Grand Forks, ND - (GFK)</item>
+        <item>Grafton, Australia - (GFN)</item>
+        <item>Gladewater/Kilgore, TX - (GGG)</item>
+        <item>Kilgore/Gladewater, TX - (GGG)</item>
+        <item>Longview, TX - (GGG)</item>
+        <item>Gagnoa, Cote DIvoire - (GGN)</item>
+        <item>Gobernador Gregores, Argentina - (GGS)</item>
+        <item>George Town, Bahamas - (GGT)</item>
+        <item>Glasgow, MT - (GGW)</item>
+        <item>Ghardala, Algeria - (GHA)</item>
+        <item>Governors Harbour, Bahamas - (GHB)</item>
+        <item>Garachine, Panama - (GHE)</item>
+        <item>Ghat, Libya - (GHT)</item>
+        <item>Gibraltar, Gibraltar - (GIB)</item>
+        <item>Boiju Island, Australia - (GIC)</item>
+        <item>Rio De Janeiro, RJ, Brazil - (GIG)</item>
+        <item>Gilgit, Pakistan - (GIL)</item>
+        <item>Gisborne, New Zealand - (GIS)</item>
+        <item>Gizan, Saudi Arabia - (GIZ)</item>
+        <item>Guanaja, Honduras - (GJA)</item>
+        <item>Jijel, Algeria - (GJL)</item>
+        <item>Grand Junction, CO - (GJT)</item>
+        <item>Goroka, Papua New Guinea - (GKA)</item>
+        <item>Glasgow, UK - Glasgow International - (GLA)</item>
+        <item>Golfito, Costa Rica - (GLF)</item>
+        <item>Greenville, MS - (GLH)</item>
+        <item>Glen Innes, Australia - (GLI)</item>
+        <item>Gladstone, Australia - (GLT)</item>
+        <item>Golovin, AK - (GLV)</item>
+        <item>Gambela, Ethiopia - (GMB)</item>
+        <item>Seoul, South Korea - Gimpo International - (GMP)</item>
+        <item>Grenoble, France - (GNB)</item>
+        <item>Grenada, Grenada, - (GND)</item>
+        <item>Goodnews Bay, AK - (GNU)</item>
+        <item>Gainesville, FL - (GNV)</item>
+        <item>Genoa, Italy - (GOA)</item>
+        <item>Goba, Ethiopia - (GOB)</item>
+        <item>Gonalia, Papua New Guinea - (GOE)</item>
+        <item>Nuuk, Greenland - (GOH)</item>
+        <item>Nizhniy Novgorod, Russia - (GOJ)</item>
+        <item>Golmud, China - (GOQ)</item>
+        <item>Gore, Ethiopia - (GOR)</item>
+        <item>Gothenburg, Sweden - Landvetter - (GOT)</item>
+        <item>Garoua, Cameroon - (GOV)</item>
+        <item>Gove, Australia - (GOV)</item>
+        <item>Patras, Greece - (GPA)</item>
+        <item>Garden Point, Australia - (GPN)</item>
+        <item>Galapagos, Ecuador - (GPS)</item>
+        <item>Biloxi/Gulfport, MS - (GPT)</item>
+        <item>Gulfport, MS - (GPT)</item>
+        <item>Grand Rapids, MN - (GPZ)</item>
+        <item>Green Bay, WI - (GRB)</item>
+        <item>Grand Island, NE - (GRI)</item>
+        <item>George, South Africa - (GRJ)</item>
+        <item>Garasa, Papua New Guinea - (GRL)</item>
+        <item>Gerona, Spain - (GRO)</item>
+        <item>Groningen, Netherlands - (GRQ)</item>
+        <item>Grand Rapids, MI - (GRR)</item>
+        <item>Sao Paulo, Brazil - Guarulhos Intl - (GRU)</item>
+        <item>Graciosa Island, Portugal - (GRW)</item>
+        <item>Granada, Spain - (GRX)</item>
+        <item>Grimsey, Iceland - (GRY)</item>
+        <item>Graz, Austria - (GRZ)</item>
+        <item>Gothenburg, Sweden - Saeve - (GSE)</item>
+        <item>Greensboro, NC - (GSO)</item>
+        <item>High Point, NC - (GSO)</item>
+        <item>Greenville/Spartanburg, SC - (GSP)</item>
+        <item>Spartanburg/Greenville, SC - (GSP)</item>
+        <item>Gustavus, AK - (GST)</item>
+        <item>Groofe Eylandt, Australia - (GTE)</item>
+        <item>Great Falls, MT - (GTF)</item>
+        <item>Gorontalo, Indonesia - (GTO)</item>
+        <item>Columbus, MS - (GTR)</item>
+        <item>Guatemala City, Guatemala - (GUA)</item>
+        <item>Guerrero Negro, Mexico - (GUB)</item>
+        <item>Gunnison, CO - (GUC)</item>
+        <item>Goundam, Mali - (GUD)</item>
+        <item>Guiria, Venezuela - (GUI)</item>
+        <item>Guam - (GUM)</item>
+        <item>Gallup, NM - (GUP)</item>
+        <item>Alotau, Papua New Guinea - (GUR)</item>
+        <item>Atyrau, Kazakhstan - (GUW)</item>
+        <item>Geneva, Switzerland - (GVA)</item>
+        <item>Governador Valadares, Brazil - (GVR)</item>
+        <item>Gwadar, Pakistan - (GWD)</item>
+        <item>Gwalior, India - (GWL)</item>
+        <item>Westerland, Germany - (GWT)</item>
+        <item>Galway, Ireland - (GWY)</item>
+        <item>Seiyun, Yemen - (GXF)</item>
+        <item>Guayaramerin, Bolivia - (GYA)</item>
+        <item>Baku, Azerbaijan - (GYD)</item>
+        <item>Guayaquil, Ecuador - (GYE)</item>
+        <item>Guaymas, Mexico - (GYM)</item>
+        <item>Goiania, Brazil - (GYN)</item>
+        <item>Gary, IN - (GYY)</item>
+        <item>Gaza City, Occupied Palestinian Territory - (GZA)</item>
+        <item>Gozo, Malta - (GZM)</item>
+        <item>Gizo, Solomon Islands - (GZO)</item>
+        <item>Gaziatep, Turkey - (GZT)</item>
+        <item>Hasvik, Norway - (HAA)</item>
+        <item>Hachijo Jima, Japan - (HAC)</item>
+        <item>Halmstad, Sweden - (HAD)</item>
+        <item>Havasupai, AZ - (HAE)</item>
+        <item>Moroni, Comoros - (HAH)</item>
+        <item>Hanover, Germany - (HAJ)</item>
+        <item>Haikou, China - (HAK)</item>
+        <item>Hamburg, Germany - Fuhisbuettel - (HAM)</item>
+        <item>Hanoi, Viet Nam - Noibai - (HAN)</item>
+        <item>Long Island, Australia - (HAP)</item>
+        <item>Hanimaadhoo, Maldives - (HAQ)</item>
+        <item>Hail, Saudi Arabia - (HAS)</item>
+        <item>Haugesund, Norway - (HAU)</item>
+        <item>Havana, Cuba - (HAV)</item>
+        <item>Hobart, Australia - (HBA)</item>
+        <item>Hobbs, NM - (HBB)</item>
+        <item>Borg El Arab, Egypt - (HBE)</item>
+        <item>Halls Creek, Australia - (HCQ)</item>
+        <item>Holy Cross, AK - (HCR)</item>
+        <item>Heidelberg, Germany - (HDB)</item>
+        <item>Heringsdorf, Germany - (HDF)</item>
+        <item>Hayden, CO - (HDN)</item>
+        <item>Hoedspruit, South Africa - (HDS)</item>
+        <item>Hat Yai, Thailand - (HDY)</item>
+        <item>Heno, Myanmar - (HEH)</item>
+        <item>Helsinki, Finland - (HEL)</item>
+        <item>Heraklian, Greece - (HER)</item>
+        <item>Hohhot, China - (HET)</item>
+        <item>Santo Domingo, Dominican Republic - Herrera - (HEX)</item>
+        <item>Haifa, Israel - (HFA)</item>
+        <item>Hefei, China - (HFE)</item>
+        <item>Hornafjordur, Iceland - (HFN)</item>
+        <item>Hagfors, Sweden - (HFS)</item>
+        <item>Hammerfest, Norway - (HFT)</item>
+        <item>Hargeisa, Somolia - (HGA)</item>
+        <item>Hughenden, Australia - (HGD)</item>
+        <item>Hangzhou, China - (HGH)</item>
+        <item>Helgoland, Germany - (HGL)</item>
+        <item>Mae Hong Son, Thailand - (HGN)</item>
+        <item>Hagerstown, MD - (HGR)</item>
+        <item>Mount Hagen, Papua New Guinea - (HGU)</item>
+        <item>Hilton Head, SC - (HHH)</item>
+        <item>Frankfurt, Germany - Hahn - (HHN)</item>
+        <item>Hualtin, Thailand - (HHQ)</item>
+        <item>Chisholm/Hibbing, MN - (HIB)</item>
+        <item>Hibbing/Chisholm, MN - (HIB)</item>
+        <item>Horn Island Australia - (HID)</item>
+        <item>Lake Havasu City, AZ - (HII)</item>
+        <item>Hiroshima, Japan - International - (HIJ)</item>
+        <item>Shillavo, Ethiopia - (HIL)</item>
+        <item>Jinju, South Korea - Sancheon - (HIN)</item>
+        <item>Honiara, Solomon Islands - (HIR)</item>
+        <item>Hayman Island, Australia - (HIS)</item>
+        <item>Hivaro, Papua New Guinea - (HIT)</item>
+        <item>Hiroshima, Japan - Hiroshima West - (HIW)</item>
+        <item>Khajuraho, India - (HJR)</item>
+        <item>Healy Lake, AK - (HKB)</item>
+        <item>Hakodate, Japan - (HKD)</item>
+        <item>Hong Kong, Hong Kong - (HKG)</item>
+        <item>Hokitika, New Zealand - (HKK)</item>
+        <item>Hoskins, Papua New Guinea - (HKN)</item>
+        <item>Phuket, Thailand - (HKT)</item>
+        <item>Hickory, NC - (HKY)</item>
+        <item>Hailar, China - (HLD)</item>
+        <item>Hultsfred, Sweden - (HLF)</item>
+        <item>Ulanhot, China - (HLH)</item>
+        <item>Helena, MT - (HLN)</item>
+        <item>Hamilton, New Zealand - (HLZ)</item>
+        <item>Hassi Messaoud, Algeria - (HME)</item>
+        <item>Hermosillo, Mexico - (HMO)</item>
+        <item>Hermavan, Sweden - (HMV)</item>
+        <item>Morioka, Japan - (HNA)</item>
+        <item>Tokyo, Japan - Haneda - (HND)</item>
+        <item>Hoonah, AK - (HNH)</item>
+        <item>Hana, HI - Island of Maui - (HNM)</item>
+        <item>Haines, AK - (HNS)</item>
+        <item>Hodeidah, Yemen - (HOD)</item>
+        <item>Houeisay, Laos - (HOE)</item>
+        <item>Hofuf, Saudi Arabia - (HOF)</item>
+        <item>Holguin, Cuba - (HOG)</item>
+        <item>Hooker, Australia - (HOK)</item>
+        <item>Homer, AK - (HOM)</item>
+        <item>Huron, SD - (HON)</item>
+        <item>Hof, Germany - (HOQ)</item>
+        <item>Horta, Portugal - (HOR)</item>
+        <item>Hot Springs, AR - (HOT)</item>
+        <item>Orsta-Volda, Norway - (HOV)</item>
+        <item>HaApa, Tonga - (HPA)</item>
+        <item>Hooper Bay, AK - (HPB)</item>
+        <item>Haiphong, Viet Nam - Catbi - (HPH)</item>
+        <item>Westchester County, NY - (HPN)</item>
+        <item>Harbin, China - (HRB)</item>
+        <item>Harare, Zimbabwe - (HRE)</item>
+        <item>Hurghada, Egypt - (HRG)</item>
+        <item>Kharkov, Ukraine - (HRK)</item>
+        <item>Harlingen, TX - (HRL)</item>
+        <item>Harrison, AR - (HRO)</item>
+        <item>Huslia, AK - (HSL)</item>
+        <item>Zhoushan, China - (HSN)</item>
+        <item>Huntsville, AL - (HSV)</item>
+        <item>Chita, Russia - (HTA)</item>
+        <item>Hamilton Island, Australia - (HTI)</item>
+        <item>Hotan, China - (HTN)</item>
+        <item>Hateruma, Japan - (HTR)</item>
+        <item>Ashland, KY/Huntington, WV - (HTS)</item>
+        <item>Huntington, WV/Ashland, KY - (HTS)</item>
+        <item>Terre Haute, IN - (HUF)</item>
+        <item>Huahine, French Polynesia - (HUH)</item>
+        <item>Hue, Viet Nam - (HUI)</item>
+        <item>Hualien, Taiwan - Phi Bai - (HUN)</item>
+        <item>Houn, Libya - (HUQ)</item>
+        <item>Hughes, AK - (HUS)</item>
+        <item>Huanuco, French Polynesia - (HUU)</item>
+        <item>Hudiksvall, Sweden - (HUV)</item>
+        <item>Huatulco, Mexico - (HUX)</item>
+        <item>Humberside, UK - (HUY)</item>
+        <item>Analalava, Madagascar - (HVA)</item>
+        <item>Hervey Bay, Australia - (HVB)</item>
+        <item>Honningsvag, Norway - (HVG)</item>
+        <item>New Haven, CT - (HVN)</item>
+        <item>Havre, MT - (HVR)</item>
+        <item>Hwange Nat Park, Zimbabwe - (HWN)</item>
+        <item>Hyannis, MA - (HYA)</item>
+        <item>Hydaburg, AK - (HYG)</item>
+        <item>Hollis, AK - (HYL)</item>
+        <item>Huargyan, China - (HYN)</item>
+        <item>Hays, KS - (HYS)</item>
+        <item>Hanzhang, China - (HZG)</item>
+        <item>Igarka, Russia - (IAA)</item>
+        <item>Houston, US - Intercontinental - (IAH)</item>
+        <item>In Amenas, Algeria - (IAM)</item>
+        <item>Kiana, AK - (IAN)</item>
+        <item>Yaroslavl, Russia - (IAR)</item>
+        <item>Iasi, Romania - (IAS)</item>
+        <item>Ibague, Colombia - (IBE)</item>
+        <item>Ibiza, Spain - (IBZ)</item>
+        <item>Cicia, Fiji - (ICI)</item>
+        <item>Seoul, South Korea - Incheon International - (ICN)</item>
+        <item>Wichita, KS - (ICT)</item>
+        <item>Idaho Falls, ID - (IDA)</item>
+        <item>Indagen, Papua New Guinea - (IDN)</item>
+        <item>Zielana, Poland - (IEG)</item>
+        <item>Kiev, Ukraine - Zhulhany - (IEV)</item>
+        <item>Isafjordur, Iceland - (IFJ)</item>
+        <item>Isfahan, Iran - (IFN)</item>
+        <item>Ivano-Frankovsk, Ukraine - (IFO)</item>
+        <item>Bullhead City/Laughlin, AZ - (IFP)</item>
+        <item>Inagua, Bahamas - (IGA)</item>
+        <item>Igiugig, AK - (IGG)</item>
+        <item>Kingman, AZ - (IGM)</item>
+        <item>Iguazu, Argentina - (IGR)</item>
+        <item>Iguassu Falls, PR, Brazil - (IGU)</item>
+        <item>Ihu, Papua New Guinea - (IHU)</item>
+        <item>Nikolski, AK - (IKO)</item>
+        <item>Tiksi, Russia - (IKS)</item>
+        <item>Irkutsk, Russia - (IKT)</item>
+        <item>Illaga, Indonesia - (ILA)</item>
+        <item>Killeen, TX - (ILE)</item>
+        <item>Ilford, MB - (ILF)</item>
+        <item>Iliamna, AK - (ILI)</item>
+        <item>Wilmington, NC - (ILM)</item>
+        <item>Iloilo, Philippines - Mandurriao - (ILO)</item>
+        <item>Ile Des Pins, New Caledonia - (ILP)</item>
+        <item>Islay, UK - (ILY)</item>
+        <item>Imphal, India - (IMF)</item>
+        <item>Imperatriz, Brazil - (IMP)</item>
+        <item>Iron Mountain, MI - (IMT)</item>
+        <item>Inta, Russia - (INA)</item>
+        <item>Yinchuan, China - (INC)</item>
+        <item>Indianapolis, IN - (IND)</item>
+        <item>Lago Argentina, Argentina - (ING)</item>
+        <item>International Falls, MN - (INL)</item>
+        <item>Innsbruck, Austria - (INN)</item>
+        <item>Nauru Island, Nauru - (INU)</item>
+        <item>Inverness, UK - (INV)</item>
+        <item>Inanwatan, Indonesia - (INX)</item>
+        <item>Ioannina, Greece - (IOA)</item>
+        <item>Isle of Man, UK - (IOM)</item>
+        <item>Ioma, Papua New Guinea - (IOP)</item>
+        <item>Ilheus, Brazil - (IOS)</item>
+        <item>Ipota, Vanuatu - (IPA)</item>
+        <item>Ipil, Philippines - (IPE)</item>
+        <item>Ipoh, Malaysia - (IPH)</item>
+        <item>Ipiales, Colombia - (IPI)</item>
+        <item>El Centro, CA - (IPL)</item>
+        <item>Imperial, CA - (IPL)</item>
+        <item>Ipatinga, Brazil - (IPN)</item>
+        <item>Williamsport, PA - (IPT)</item>
+        <item>Qiemo, China - (IQM)</item>
+        <item>Iquique, Chile - (IQQ)</item>
+        <item>Iquitos, Peru - (IQT)</item>
+        <item>Kirakira, Solomon Islands - (IRA)</item>
+        <item>Circle, AK - (IRC)</item>
+        <item>Lockhart River, Australia - (IRG)</item>
+        <item>La Rioja, Argentina - (IRJ)</item>
+        <item>Kirksville, MO - (IRK)</item>
+        <item>Mount Isa, Australia - (ISA)</item>
+        <item>Islamabad, Pakistan - (ISB)</item>
+        <item>Isles of Scilly, UK - St Marys - (ISC)</item>
+        <item>Ishigakij, Japan - (ISG)</item>
+        <item>Williston, ND - (ISN)</item>
+        <item>Islip, NY - (ISP)</item>
+        <item>Istanbul, Turkey - (IST)</item>
+        <item>Itaituba, Brazil - (ITB)</item>
+        <item>Ithaca, NY - (ITH)</item>
+        <item>Itokama, Papua New Guinea - (ITK)</item>
+        <item>Osaka, Japan - Itami - (ITM)</item>
+        <item>Hilo, HI - Island of Hawaii - (ITO)</item>
+        <item>Niue Island, Niue - (IUE)</item>
+        <item>Ilu, Indonesia - (IUL)</item>
+        <item>Ambanja, Madagascar - (IVA)</item>
+        <item>Invercargill, New Zealand - (IVC)</item>
+        <item>Ivalo, Finland - (IVL)</item>
+        <item>Inverell, Australia - (IVR)</item>
+        <item>Ironwood, MI - (IWD)</item>
+        <item>Iwami, Japan - (IWJ)</item>
+        <item>Kagoshima, Japan - (KOJ)</item>
+        <item>Bagdogra, India - (IXB)</item>
+        <item>Chandigarh, India - (IXC)</item>
+        <item>Mangalore, India - (IXE)</item>
+        <item>Jommu, India - (IXJ)</item>
+        <item>Leh, India - (IXL)</item>
+        <item>Madurai, India - (IXM)</item>
+        <item>Ranchi, India - (IXR)</item>
+        <item>Silchar, India - (IXS)</item>
+        <item>Aurangabad, India - (IXU)</item>
+        <item>Port Blair, India - (IXZ)</item>
+        <item>Inyokern, CA - (IYK)</item>
+        <item>Izumo, Japan - (IZO)</item>
+        <item>Ixtepec, Mexico - (IZT)</item>
+        <item>Jackson Hole, WY - (JAC)</item>
+        <item>Jacobabad, Pakistan - (JAG)</item>
+        <item>Jalapa, Mexico - (JAL)</item>
+        <item>Jackson, MS - (JAN)</item>
+        <item>Jacquinot Bay, Papua New Guinea - (JAQ)</item>
+        <item>Jabor, Marshall Islands - (JAT)</item>
+        <item>Ilulissat, Greenland - (JAV)</item>
+        <item>Jacksonville, FL - (JAX)</item>
+        <item>Jonesboro, AR - (JBR)</item>
+        <item>Cannes, France - Coisette Heliport - (JCA)</item>
+        <item>Julia Creek, Australia - (JCK)</item>
+        <item>Jacareacanga, Brazil - (JCR)</item>
+        <item>Ceuta, Spain and Canary Islands - (JCU)</item>
+        <item>Juiz De Fora, Brazil - (JDF)</item>
+        <item>Jodhpur, India - (JDH)</item>
+        <item>Juazeiro Do Norte, Brazil - (JDO)</item>
+        <item>Jingdezhen, China - (JDZ)</item>
+        <item>Jeddah, Saudi Arabia - (JED)</item>
+        <item>Aasiaat, Greenland - (JEG)</item>
+        <item>Jeh, Marshall Islands - (JEJ)</item>
+        <item>Jersey, UK - (JER)</item>
+        <item>New York, US - Kennedy - (JFK)</item>
+        <item>Paamiut, Greenland - (JFR)</item>
+        <item>Jamnagar, India - (JGA)</item>
+        <item>Grand Canyon, AZ - Heliport - (JGC)</item>
+        <item>Jiayuguan, China - (JGN)</item>
+        <item>Groennedal, Greenland - (JGR)</item>
+        <item>Johor, Malaysia - (JHB)</item>
+        <item>Angelholm/Helsingborg, Sweden - (JHE)</item>
+        <item>Jinghong, China - (JHG)</item>
+        <item>Kapalua, HI - Island of Maui, - (JHM)</item>
+        <item>Shute Harbor, Australia - (JHQ)</item>
+        <item>Sisimiut, Greenland - (JHS)</item>
+        <item>Jamestown, NY - (JHW)</item>
+        <item>Djibouti, Djibouti - (JIB)</item>
+        <item>Jijiga, Ethiopia - (JIJ)</item>
+        <item>Jimma, Ethiopia - (JIM)</item>
+        <item>Jinja, Uganda - (JIN)</item>
+        <item>Jiwani, Pakistan - (JIW)</item>
+        <item>Jinjiang, China - (JJN)</item>
+        <item>Qaqortoq, Greenland - (JJU)</item>
+        <item>Jonkoping, Sweden - (JKG)</item>
+        <item>Joplin, MO - (JLN)</item>
+        <item>Mikonos, Greece - (JMK)</item>
+        <item>Jamestown, ND - (JMS)</item>
+        <item>Jiamusi, China - (JMU)</item>
+        <item>Johannesburg, South Africa - (JNB)</item>
+        <item>Nanortalik, Greenland - (JNN)</item>
+        <item>Narsaq, Greenland - (JNS)</item>
+        <item>Juneau, AK - (JNU)</item>
+        <item>Jinzhou, China - (JNZ)</item>
+        <item>Joensuu, Finland - (JOE)</item>
+        <item>Yogyakarta, Indonesia - (JOG)</item>
+        <item>Joinville, Brazil - (JOI)</item>
+        <item>Johnston Island, US Minor Outlying Islands - (JON)</item>
+        <item>Joao Pessoa, Brazil - (JPA)</item>
+        <item>Ji-Parana, Brazil - (JPR)</item>
+        <item>Jaque, Panama - (JQE)</item>
+        <item>Jorhat, India - (JRH)</item>
+        <item>Kilimanjaro, Tanzania - (JRO)</item>
+        <item>Skiathos, Greece - (JSI)</item>
+        <item>Jose De San Martin, Argentina - (JSM)</item>
+        <item>Jessore, Bangladesh - (JSR)</item>
+        <item>Johnstown, PA - (JST)</item>
+        <item>Mariitsoq, Greenland - (JSU)</item>
+        <item>Thira, Greece - (JTR)</item>
+        <item>Juist, Germany - (JUI)</item>
+        <item>Jujuy, Argentina - (JUJ)</item>
+        <item>Juliaca, Peru - (JUL)</item>
+        <item>Upernavik, Greenland - (JUV)</item>
+        <item>Juzha, China - (JUZ)</item>
+        <item>Ankavandra, Madagascar - (JVA)</item>
+        <item>Janesville, WI - (JVL)</item>
+        <item>Jyvaskyla, Finland - (JYV)</item>
+        <item>Kasama, Zambia - (KAA)</item>
+        <item>Kariba, Zimbabwe - (KAB)</item>
+        <item>Kameshli, Syrian Arab Republic - (KAC)</item>
+        <item>Kake, AK - (KAE)</item>
+        <item>Gangneung, South Korea - (KAG)</item>
+        <item>Kajaani, Finland - (KAJ)</item>
+        <item>Kaltag, AK - (KAL)</item>
+        <item>Kano, Nigeria - (KAN)</item>
+        <item>Kuusamo, Finland - (KAO)</item>
+        <item>Kaitaia, New Zealand - (KAT)</item>
+        <item>Kawthaung, Myanmar - (KAW)</item>
+        <item>Kalbarri, Australia - (KAX)</item>
+        <item>Birch Creek, AK - (KBC)</item>
+        <item>Karubaga, Indonesia - (KBF)</item>
+        <item>Kabul, Afghanistan - (KBL)</item>
+        <item>Kabwun, Papua New Guinea - (KBM)</item>
+        <item>Kiev, Ukraine - Borispol - (KBP)</item>
+        <item>Kota Bharu, Malaysia - (KBR)</item>
+        <item>Kaben, Marshall Islands - (KBT)</item>
+        <item>Krabi, Thailand - (KBV)</item>
+        <item>Kambuaya, Indonesia - (KBX)</item>
+        <item>Coffman Cove, AK - (KCC)</item>
+        <item>Kamur, Indonesia - (KCD)</item>
+        <item>Kadanwari, Pakistan - (KCF)</item>
+        <item>Chignik, AK - Fisheries - (KCG)</item>
+        <item>Kuching, Malaysia - (KCH)</item>
+        <item>Chignik, AK - Lagoon - (KCL)</item>
+        <item>Kahramanmaras, Turkey - (KCM)</item>
+        <item>Chignik, AK - - (KCQ)</item>
+        <item>Kochi, Japan - (KCZ)</item>
+        <item>Khuzdar, Pakistan - (KDD)</item>
+        <item>Kendari, Indonesia - (KDI)</item>
+        <item>Kardia, Estonia - (KDL)</item>
+        <item>Kaadedhdhoo, Maldives - (KDM)</item>
+        <item>Kadhonoo, Maldives - (KDO)</item>
+        <item>ng>Cocos Islands, Cocos - (Keeling)</item>
+        <item>Reykjavik, Iceland - (KEF)</item>
+        <item>Ekwok, AK - (KEK)</item>
+        <item>Keewaywin, ON - (KEW)</item>
+        <item>Kaliningrad, Russia - (KGD)</item>
+        <item>New Koliganek, AK - (KGK)</item>
+        <item>Kigali, Rwanda - (KGL)</item>
+        <item>Grayling, AK - (KGX)</item>
+        <item>Karachi, Pakistan - Quaid-E-Azam International - (KHI)</item>
+        <item>Kingfisher Lake, ON - (KIF)</item>
+        <item>Kingston, Jamaica - Norman Manley - (KIN)</item>
+        <item>Chisinau, Republic of Moldova - (KIV)</item>
+        <item>Osaka, Japan - Kansai Intl - (KIX)</item>
+        <item>Kongiganak, AK - (KKH)</item>
+        <item>Akiachak, AK - (KKI)</item>
+        <item>Ekuk, AK - (KKU)</item>
+        <item>Kalskag, AK - (KLG)</item>
+        <item>Levelock, AK - (KLL)</item>
+        <item>Klawock, AK - (KLW)</item>
+        <item>Manokotak, AK - (KMO)</item>
+        <item>Kakhonak, AK - (KNK)</item>
+        <item>New Stuyahok, AK - (KNW)</item>
+        <item>Kona, HI - Island of Hawaii - (KOA)</item>
+        <item>Kotlik, AK - (KOT)</item>
+        <item>Point Baker, AK - (KPB)</item>
+        <item>Port Clarence, AK - (KPC)</item>
+        <item>Kipnuk, AK - (KPN)</item>
+        <item>Perryville, AK - (KPV)</item>
+        <item>Akuton, AK - (KQA)</item>
+        <item>Krakow, Poland - (KRK)</item>
+        <item>Saint Marys, AK - (KSM)</item>
+        <item>Thorne Bay, AK - (KTB)</item>
+        <item>Kitadaito, Japan - (KTD)</item>
+        <item>Kathmandu, Nepal - (KTM)</item>
+        <item>Ketchikan, AK - (KTN)</item>
+        <item>Kingston, Jamaica - Tinson - (KTP)</item>
+        <item>Katherine, NT, Australia - (KTR)</item>
+        <item>Teller Mission, AK - (KTS)</item>
+        <item>Kittila, Finland - (KTT)</item>
+        <item>Katowice, Poland - (KTW)</item>
+        <item>Kuantan, Malaysia - (KUA)</item>
+        <item>Kudat, Malaysia - (KUD)</item>
+        <item>Samara, Russia - (KUF)</item>
+        <item>Kubin Island, QL, Australia - (KUG)</item>
+        <item>Kushiro, Japan - (KUH)</item>
+        <item>Kasigluk, AK - (KUK)</item>
+        <item>Kuala Lumpur, Malaysia - (KUL)</item>
+        <item>Kaunas, Lithuania - (KUN)</item>
+        <item>Kuopio, Finland - (KUO)</item>
+        <item>Kuri, Papua New Guinea - (KUQ)</item>
+        <item>Kulusuk, Greenland - (KUS)</item>
+        <item>Kutaisi, Georgia - (KUT)</item>
+        <item>Gunsan, South Korea - (KUV)</item>
+        <item>Kamusi, Papua New Guinea - (KUY)</item>
+        <item>Kavala, Greece - (KVA)</item>
+        <item>Skovde, Sweden - (KVB)</item>
+        <item>King Cove, AK - (KVC)</item>
+        <item>Gyandzha, Azerbaijan - (KVD)</item>
+        <item>Kavieng, Papua New Guinea - (KVG)</item>
+        <item>Kivalina, AK - (KVL)</item>
+        <item>Kwajalein, Marshall Islands - (KWA)</item>
+        <item>Gulyang, China - (KWE)</item>
+        <item>Waterfall, AK - (KWF)</item>
+        <item>Krivoy Rog, Ukraine - (KWG)</item>
+        <item>Kuwait, Kuwait - (KWI)</item>
+        <item>Gwangju, South Korea - (KWJ)</item>
+        <item>Kwigillingok, AK - (KWK)</item>
+        <item>Guilin, China - (KWL)</item>
+        <item>Kowanyama, QL, Australia - (KWM)</item>
+        <item>Quinhagak, AK - (KWN)</item>
+        <item>Kwethluk, AK - (KWT)</item>
+        <item>Kiwayu, Kenya - (KWY)</item>
+        <item>Kasaan, AK - (KXA)</item>
+        <item>Komsomolsk Na Amure, Russia - (KXK)</item>
+        <item>Konya, Turkey - (KYA)</item>
+        <item>Koyukuk, AK - (KYU)</item>
+        <item>Yalumet, Papua New Guinea - (KYX)</item>
+        <item>Kyzyl, Russia - (KYZ)</item>
+        <item>Kaintiba, Papua New Guinea - (KZF)</item>
+        <item>Kazan,, Russia - (KZN)</item>
+        <item>Lablab, Papua New Guinea - (LAB)</item>
+        <item>Luanda, Angola - (LAD)</item>
+        <item>Luanda, Angola - (LAD)</item>
+        <item>Lae, Papua New Guinea - (LAE)</item>
+        <item>Lafayette, IN - (LAF)</item>
+        <item>Lannion, France - (LAI)</item>
+        <item>Lages, SC, Brazil - (LAJ)</item>
+        <item>Lansing, MI - (LAN)</item>
+        <item>Laoag, Philippines - (LAO)</item>
+        <item>La Paz, Mexico - (LAP)</item>
+        <item>Beida, Libya - La Braq - (LAQ)</item>
+        <item>Laramie, WY - (LAR)</item>
+        <item>Las Vegas, NV - (LAS)</item>
+        <item>Lamu, Kenya - (LAU)</item>
+        <item>Lawton, OK - (LAW)</item>
+        <item>Los Angeles, CA - (LAX)</item>
+        <item>Leeds, UK - (LBA)</item>
+        <item>Lubbock, TX - (LBB)</item>
+        <item>Hamburg, Germany - Luebeck - (LBC)</item>
+        <item>Khudzhand, Tajikistan - (LBD)</item>
+        <item>Latrobe, PA - (LBE)</item>
+        <item>North Platte, NE - (LBF)</item>
+        <item>Labuan Bajo, Indonesia - (LBJ)</item>
+        <item>Liberal, KS - (LBL)</item>
+        <item>Long Banga, Malaysia - (LBP)</item>
+        <item>Labasa, Fiji - (LBS)</item>
+        <item>Labuan, Malaysia - (LBU)</item>
+        <item>Libreville, Gabon - (LBV)</item>
+        <item>Long Bawan, Indonesia - (LBW)</item>
+        <item>Larnaca, Cyprus - (LCA)</item>
+        <item>La Ceiba, Honduras - (LCE)</item>
+        <item>La Coruna, Spain - (LCG)</item>
+        <item>Lake Charles, LA - (LCH)</item>
+        <item>London, UK - Heathrow - (LHR)</item>
+        <item>Londrina, PR, Brazil - (LDB)</item>
+        <item>Lindeman Island, QL, Australia - (LDC)</item>
+        <item>Lourdes/Tarbes, France - (LDE)</item>
+        <item>Lord Howe Island, NS, Australia - (LDH)</item>
+        <item>Lindi, Tanzania - (LDI)</item>
+        <item>Lahadbatu, Malaysia - (LDU)</item>
+        <item>Learmonth, WA, Australia - (LEA)</item>
+        <item>Hanover, NH - (LEB)</item>
+        <item>Lebanon, NH - (LEB)</item>
+        <item>White River, VT - (LEB)</item>
+        <item>Saint Petersburg, Russia - Pulkovo - (LED)</item>
+        <item>St. Petersburg, Russia - (LED)</item>
+        <item>Le Havre, France - (LEH)</item>
+        <item>Almeria, Spain - (LEI)</item>
+        <item>Leipzig, Germany - (LEJ)</item>
+        <item>Lands End, UK - (LEQ)</item>
+        <item>Leinster, WA, Australia - (LER)</item>
+        <item>Leticia, Colombia - (LET)</item>
+        <item>Bureta, Fiji - (LEV)</item>
+        <item>Lexington, KY - (LEX)</item>
+        <item>Lafayette, LA - (LFT)</item>
+        <item>Lome, Togo - (LFW)</item>
+        <item>New York, US - La Guardia - (LGA)</item>
+        <item>Long Beach, CA - (LGB)</item>
+        <item>Liege, Belgium - (LGG)</item>
+        <item>Long Island/Deadmans Cay, Bahamas - (LGI)</item>
+        <item>Langkawi, Malaysia - (LGK)</item>
+        <item>Long Lellang, Malaysia - (LGL)</item>
+        <item>Legaspi, Philippines - (LGP)</item>
+        <item>Lago Agrio, Ecuador - (LGQ)</item>
+        <item>Malargue, MD, Argentina - (LGS)</item>
+        <item>London, UK - City Airport - (LCY)</item>
+        <item>Lahore, Pakistan - (LHE)</item>
+        <item>Lightning Ridge, NS, Australia - (LHG)</item>
+        <item>London, UK - Gatwick - (LGW)</item>
+        <item>Lanzhau, Guinea - (LHW)</item>
+        <item>Lifa, New Caledonia - (LIF)</item>
+        <item>Limoges, France - (LIG)</item>
+        <item>Kauai Island/Lihue, HI - (LIH)</item>
+        <item>Lihue, HI - Island of Kaui - (LIH)</item>
+        <item>Mulia, Indonesia - (LII)</item>
+        <item>Likiep Island, Marshall Islands - (LIK)</item>
+        <item>Lille, France - Lesquin - (LIL)</item>
+        <item>Lima, Peru - (LIM)</item>
+        <item>Milan, Italy - Linate - (LIN)</item>
+        <item>Liberia, Costa Rica - (LIR)</item>
+        <item>Lisbon, Portugal - (LIS)</item>
+        <item>Little Rock, AR - (LIT)</item>
+        <item>Lijiang City, China - (LJG)</item>
+        <item>Ljubliana, Slovenia - (LJU)</item>
+        <item>Larantuka, Indonesia - (LKA)</item>
+        <item>Lakeba, Fiji - (LKB)</item>
+        <item>Seattle, WA - Lake Union SPB - (LKE)</item>
+        <item>Lakselv, Norway - (LKL)</item>
+        <item>Leknes, Norway - (LKN)</item>
+        <item>Lucknow, India - (LKO)</item>
+        <item>Lulea, Sweden - (LLA)</item>
+        <item>Lalibela, Ethiopia - (LLI)</item>
+        <item>Lilongwe, Malawi - (LLW)</item>
+        <item>Lake Minchumina, AK - (LMA)</item>
+        <item>Lae Island, Marshall Islands - (LML)</item>
+        <item>Los Mochis, Mexico - (LMM)</item>
+        <item>Limbang, Malaysia - (LMN)</item>
+        <item>Lampedusa, Italy - (LMP)</item>
+        <item>Klamath Falls, OR - (LMT)</item>
+        <item>Lamen Bay, Vanuatu - (LNB)</item>
+        <item>Lonorore, Vanuatu - (LNE)</item>
+        <item>Lincoln, NE - (LNK)</item>
+        <item>Leonora, WA, Australia - (LNO)</item>
+        <item>Lancaster, PA - (LNS)</item>
+        <item>Lihir Island, Papua New Guinea - (LNV)</item>
+        <item>Lanai City, HI - Island of Lanai - (LNY)</item>
+        <item>Linz, Austria - (LNZ)</item>
+        <item>Longana, Vanuatu - (LOD)</item>
+        <item>Loen, Marshall Islands - (LOF)</item>
+        <item>Loja, Ecuador - (LOH)</item>
+        <item>Lagos, Nigeria - (LOS)</item>
+        <item>Monclova, Mexico - (LOV)</item>
+        <item>Las Palmas, Spain - (LPA)</item>
+        <item>La Paz, Bolivia - (LPB)</item>
+        <item>Lampang, Thailand - (LPI)</item>
+        <item>Linkoping, Sweden - (LPI)</item>
+        <item>Liverpool, UK - (LPL)</item>
+        <item>Lamap, Vanuatu - (LPM)</item>
+        <item>Lappeenranta, Finland - (LPP)</item>
+        <item>Luang Prabang, Laos - (LPQ)</item>
+        <item>Lopez Island, WA - (LPS)</item>
+        <item>Long Apung, Indonesia - (LPU)</item>
+        <item>Le Puy, France - (LPY)</item>
+        <item>Laredo, TX - (LRD)</item>
+        <item>Longreach, QL, Australia - (LRE)</item>
+        <item>Larochelle, France - (LRH)</item>
+        <item>La Romana, Dominican Republic - (LRM)</item>
+        <item>Lorient, France - (LRT)</item>
+        <item>Losuia, Papua New Guinea - (LSA)</item>
+        <item>La Serena, Chile - (LSC)</item>
+        <item>La Crosse, WI - (LSE)</item>
+        <item>Shetland Islands, UK - Sumburgh - (LSI)</item>
+        <item>Las Piedras, Venezuela - (LSP)</item>
+        <item>Launceston, TS, Australia - (LST)</item>
+        <item>Lismore, NS, Australia - (LSY)</item>
+        <item>Ghadames, Libya - (LTD)</item>
+        <item>Latakia, Syria - (LTK)</item>
+        <item>London, UK - Luton - (LTN)</item>
+        <item>Loreto, Mexico - (LTO)</item>
+        <item>Le Touquet, France - (LTQ)</item>
+        <item>Saint Tropez, France - La Mole - (LTT)</item>
+        <item>Laucala Island, Fiji - (LUC)</item>
+        <item>Luderitz, Namibia - (LUD)</item>
+        <item>Lugano, Switzerland - (LUG)</item>
+        <item>Luxi, China - (LUM)</item>
+        <item>Lusaka, Zambia - (LUN)</item>
+        <item>Kalaupapa, HI - Island of Molokai, - (LUP)</item>
+        <item>San Luis, SL, Argentina - (LUQ)</item>
+        <item>Cape Lisburne, AK - (LUR)</item>
+        <item>Langguri, Indonesia - (LUV)</item>
+        <item>Luwuk, Indonesia - (LUW)</item>
+        <item>Luxembourg, Luxembourg - (LUX)</item>
+        <item>Livingstone, Zambia - (LVI)</item>
+        <item>Laverton, WA, Australia - (LVO)</item>
+        <item>Lewisburg, WV - (LWB)</item>
+        <item>Shetland Islands, UK - Lerwick/Tingwall - (LWK)</item>
+        <item>Gyourmri, Armenia - (LWN)</item>
+        <item>Lvov, Ukraine - (LWO)</item>
+        <item>Lewiston, ID - (LWS)</item>
+        <item>Lewistown, MT - (LWT)</item>
+        <item>Lawas, Malaysia - (LWY)</item>
+        <item>Lhasa, China - (LXA)</item>
+        <item>Luang Namtha, Laos - (LXG)</item>
+        <item>Luxor, Egypt - (LXR)</item>
+        <item>Lemnos, Greece - (LXS)</item>
+        <item>Luoyang, China - (LYA)</item>
+        <item>Lyoksele, Sweden - (LYC)</item>
+        <item>Lianyungang, China - (LYG)</item>
+        <item>Linyi, China - (LYI)</item>
+        <item>Faisalabad, Pakistan - (LYP)</item>
+        <item>Longyearbyen, Svalbard and Jan Mayen Island - (LYR)</item>
+        <item>Lyon, France - Satolas - (LYS)</item>
+        <item>Ely, MN - (LYU)</item>
+        <item>Lozaro Cardenas, Mexico - (LZC)</item>
+        <item>Liuzhou, China - (LZH)</item>
+        <item>Luzhou, China - (LZO)</item>
+        <item>Lizard Island, QL, Australia - (LZR)</item>
+        <item>Maraba, PA, Brazil - (MAB)</item>
+        <item>Madrid, Spain - (MAD)</item>
+        <item>Midland/Odessa, TX - (MAF)</item>
+        <item>Odessa/Midland, TX - (MAF)</item>
+        <item>Madang, Papua New Guinea - (MAG)</item>
+        <item>Menorca, Spain - (MAH)</item>
+        <item>Majuro, Marshall Islands - (MAJ)</item>
+        <item>Malakai, Sudan - (MAK)</item>
+        <item>Matamoros, Mexico - (MAM)</item>
+        <item>Manchester, UK - (MAN)</item>
+        <item>Manaus, AM, Brazil - (MAO)</item>
+        <item>Mae Sot, Thailand - (MAQ)</item>
+        <item>Maracaibo, Venezuela - (MAR)</item>
+        <item>Manus Island, Papua New Guinea - (MAS)</item>
+        <item>Natadi, Congo - (MAT)</item>
+        <item>Maupiti, French Polynesia - (MAU)</item>
+        <item>Maloelap Island, Marshall Islands - (MAV)</item>
+        <item>Mangrove Cay, Bahamas - (MAY)</item>
+        <item>Mayaguez, Puerto Rico - (MAZ)</item>
+        <item>Mombasa, Kenya - (MBA)</item>
+        <item>Monbetsu, Japan - (MBE)</item>
+        <item>Maryborough, QL, Australia - (MBH)</item>
+        <item>Montego Bay, Jamaica - (MBJ)</item>
+        <item>Manistee, MI - (MBL)</item>
+        <item>Bay City, MI - (MBS)</item>
+        <item>Midland, MI - (MBS)</item>
+        <item>Saginaw, MI - (MBS)</item>
+        <item>Masbate, Philippines - (MBT)</item>
+        <item>Maribor, Slovenia - (MBX)</item>
+        <item>Merced, CA - (MCE)</item>
+        <item>Mcgrath, AK - (MCG)</item>
+        <item>Machala, Ecuador - (MCH)</item>
+        <item>Kansas City, MO - (MCI)</item>
+        <item>Mccook, NE - (MCK)</item>
+        <item>Monte Carlo, Monaco - (MCM)</item>
+        <item>Macon, GA - (MCN)</item>
+        <item>Orlando, US - International - (MCO)</item>
+        <item>Macapa, AP, Brazil - (MCP)</item>
+        <item>Muscat, Oman - (MCT)</item>
+        <item>Mcarthur River, NT, Australia - (MCV)</item>
+        <item>Mason City, IA - (MCW)</item>
+        <item>Makhachkala, Russia - (MCX)</item>
+        <item>Sunshine Coast, QL, Australia - (MCY)</item>
+        <item>Maceio, AL, Brazil - (MCZ)</item>
+        <item>Manado, Indonesia - (MDC)</item>
+        <item>Medellin, Colombia - Jose Marie Cordova - (MDE)</item>
+        <item>Mudanjiang, China - (MDG)</item>
+        <item>Carbondale, IL - (MDH)</item>
+        <item>Madras, OR - (MDJ)</item>
+        <item>Mbandaka, Congo - (MDK)</item>
+        <item>Mandalay, Myanmar - (MDL)</item>
+        <item>Mindiptana, Indonesia - (MDP)</item>
+        <item>Mar Del Plata, BA, Argentina - (MDQ)</item>
+        <item>Middle Caicos, Turks and Caicos - (MDS)</item>
+        <item>Harrisburg, PA - (MDT)</item>
+        <item>Mendi, Papua New Guinea - (MDU)</item>
+        <item>Chicago, US - Midway - (MDW)</item>
+        <item>Midway Island, US Minor Outlying Islands - (MDY)</item>
+        <item>Mendoza, MD, Argentina - (MDZ)</item>
+        <item>Manta, Ecuador - (MEC)</item>
+        <item>Madinah, Saudi Arabia - (MED)</item>
+        <item>Mare, New Caledonia - (MEE)</item>
+        <item>Mehamn, Norway - (MEH)</item>
+        <item>Meridian, MS - (MEI)</item>
+        <item>Memphis, TN - (MEM)</item>
+        <item>Medan, Indonesia - (MES)</item>
+        <item>Monte Dourado, PA, Brazil - (MEU)</item>
+        <item>Mexico City, Mexico - (MEX)</item>
+        <item>Mafia, Tanzania - (MFA)</item>
+        <item>Mcallen, TX - (MFE)</item>
+        <item>Mission, TX - (MFE)</item>
+        <item>Moanda, Gabon - (MFF)</item>
+        <item>Muzaffarabad, Pakistan - (MFG)</item>
+        <item>Moala, Fiji - (MFJ)</item>
+        <item>Macau, China - (MFM)</item>
+        <item>Manguna, Papua New Guinea - (MFO)</item>
+        <item>Medford, OR - (MFR)</item>
+        <item>Mfume, Zambia - (MFU)</item>
+        <item>Managua, Nicaragua - (MGA)</item>
+        <item>Mount Gambier, SA, Australia - (MGB)</item>
+        <item>Maringa, PR, Brazil - (MGF)</item>
+        <item>Margate, South Africa - (MGH)</item>
+        <item>Dusseldorf, Germany - Moenchen-Gl. - (MGL)</item>
+        <item>Montgomery, AL - (MGM)</item>
+        <item>Mogadishu, Somalia - (MGQ)</item>
+        <item>Mangaia Island, Cook Islands - (MGS)</item>
+        <item>Milingimbi, NT, Australia - (MGT)</item>
+        <item>Morgantown, WV - (MGW)</item>
+        <item>Myeik, Myanmar - (MGZ)</item>
+        <item>Mashad, Iran - (MHD)</item>
+        <item>Mannheim, Germany - (MHG)</item>
+        <item>Marsh Harbour, Bahamas - (MHH)</item>
+        <item>Manhattan, KS - (MHK)</item>
+        <item>Minsk, Belarus - Minsk International 1 - (MHP)</item>
+        <item>Mariehamn, Finland - (MHQ)</item>
+        <item>Manchester, NH - (MHT)</item>
+        <item>Mount Hotham, VI, Australia - (MHU)</item>
+        <item>Manihiki Island, Cook Islands - (MHX)</item>
+        <item>Miami, FL - International - (MIA)</item>
+        <item>Merida, Mexico - (MID)</item>
+        <item>Marilia, SP, Brazil - (MII)</item>
+        <item>Mili Island, Marshall Islands - (MIJ)</item>
+        <item>Mikkeli, Finland - (MIK)</item>
+        <item>Merimbula, NS, Australia - (MIM)</item>
+        <item>Monastir, Tunisia - (MIR)</item>
+        <item>Misima Island, Papua New Guinea - (MIS)</item>
+        <item>Manja, Madagascar - (MJA)</item>
+        <item>Mejit Island, Marshall Islands - (MJB)</item>
+        <item>Mohenjodaro, Denmark - (MJD)</item>
+        <item>Majkin, Marshall Islands - (MJE)</item>
+        <item>Mosjoen, Norway - (MJF)</item>
+        <item>Monkey Mia, WA, Australia - (MJK)</item>
+        <item>Mouila, Gabon - (MJL)</item>
+        <item>Mbuji Mayi, Congo - (MJM)</item>
+        <item>Majunga, Madagascar - (MJN)</item>
+        <item>Mytilene, Greece - (MJT)</item>
+        <item>Murcia, Spain - (MJV)</item>
+        <item>Mirnyj, Russia - (MJZ)</item>
+        <item>Milwaukee, WI - (MKE)</item>
+        <item>Muskegon, MI - (MKG)</item>
+        <item>Hoolehua, HI - Island of Molokai - (MKK)</item>
+        <item>Jackson, TN - (MKL)</item>
+        <item>Mukan, Malaysia - (MKM)</item>
+        <item>Merauke, Indonesia - (MKQ)</item>
+        <item>Meekatharra, WA, Australia - (MKR)</item>
+        <item>Mekane Selam, Ethiopia - (MKS)</item>
+        <item>Mankato, MN - (MKT)</item>
+        <item>Makokou, Gabon - (MKU)</item>
+        <item>Manokwari, Indonesia - (MKW)</item>
+        <item>Mackay, QL, Australia - (MKY)</item>
+        <item>Malacca, Malaysia - (MKZ)</item>
+        <item>Malta, Malta - (MLA)</item>
+        <item>Melbourne, FL - (MLB)</item>
+        <item>Male, Maldives - (MLE)</item>
+        <item>Mulhouse, France - (MLH)</item>
+        <item>Moline, IL - (MLI)</item>
+        <item>Marshall, AK - (MLL)</item>
+        <item>Morelia, Mexico - (MLM)</item>
+        <item>Melilla, Spain - (MLN)</item>
+        <item>Miles City, MT - (MLS)</item>
+        <item>Monroe, LA - (MLU)</item>
+        <item>Malatya, Turkey - (MLX)</item>
+        <item>Manley Hot Springs, AK - (MLY)</item>
+        <item>Memanbetsu, Japan - (MMB)</item>
+        <item>Minami Daito, Japan - (MMD)</item>
+        <item>Teesside, UK - (MME)</item>
+        <item>Mount Magnet, WA, Australia - (MMG)</item>
+        <item>Matsumoto, Japan - (MMJ)</item>
+        <item>Murmansk, Russia - (MMK)</item>
+        <item>Maio, Cape Verde - (MMO)</item>
+        <item>Malmo, Sweden - (MMX)</item>
+        <item>Miyako Jima, Japan - (MMY)</item>
+        <item>Moanda, Congo - (MNB)</item>
+        <item>Nacala, Mozambique - (MNC)</item>
+        <item>Mana Island, Fiji - (MNF)</item>
+        <item>Maningrioa, NT, Australia - (MNG)</item>
+        <item>Montserrat, Montserrat - (MNI)</item>
+        <item>Mananjary, Madagascar - (MNJ)</item>
+        <item>Manila, Philippines - (MNL)</item>
+        <item>Mangu, Zambia - (MNR)</item>
+        <item>Minto, AK - (MNT)</item>
+        <item>Maulmyine, Myanmar - (MNU)</item>
+        <item>Mono, Solomon Islands - (MNY)</item>
+        <item>Moa, Cuba - (MOA)</item>
+        <item>Mobile, AL - (MOB)</item>
+        <item>Montes Claros, MG, Brazil - (MOC)</item>
+        <item>Modesto, CA - (MOD)</item>
+        <item>Maumere, Indonesia - (MOF)</item>
+        <item>Mitiaro Island, Cook Islands - (MOI)</item>
+        <item>Molde, Norway - (MOL)</item>
+        <item>Mount Cook, New Zealand - (MON)</item>
+        <item>Morondava, Madagascar - (MOQ)</item>
+        <item>Minot, ND - (MOT)</item>
+        <item>Mountain Village, AK - (MOU)</item>
+        <item>Moranbah, QL, Australia - (MOV)</item>
+        <item>Moscow, Russia - all locations - (MOW)</item>
+        <item>Moorea, French Polynesia - (MOZ)</item>
+        <item>Mpacha, Namibia - (MPA)</item>
+        <item>Miami, FL - Sea Plane Base - (MPB)</item>
+        <item>Mokpo, South Korea - (MPK)</item>
+        <item>Montpellier, France - (MPL)</item>
+        <item>Maputo, Mozambique - (MPM)</item>
+        <item>Mount Pleasant, Falkland Islands - (MPN)</item>
+        <item>Mariupol, Ukraine - (MPW)</item>
+        <item>Magnitogorsk, Russia - (MQF)</item>
+        <item>Mildura, VI, Australia - (MQL)</item>
+        <item>Mo I Rana, Norway - (MQN)</item>
+        <item>Marquette, MI - (MQT)</item>
+        <item>Makale, Ethiopia - (MQX)</item>
+        <item>Misurata, Libya - (MRA)</item>
+        <item>Merida, Venezuela - (MRD)</item>
+        <item>Mara Lodges, Kenya - (MRE)</item>
+        <item>Marseille, France - (MRS)</item>
+        <item>Mauritius, Mauritius - (MRU)</item>
+        <item>Mineralnye Vody, Russia - (MRV)</item>
+        <item>Carmel, CA - (MRY)</item>
+        <item>Monterey, CA - (MRY)</item>
+        <item>Moree, NS, Australia - (MRZ)</item>
+        <item>Muskrat Dam, ON - (MSA)</item>
+        <item>Manston, UK - (MSE)</item>
+        <item>Misawa, Japan - (MSJ)</item>
+        <item>Florence/Muscle Shoals/Sheffield, AL - (MSL)</item>
+        <item>Muscle Shoals, AL - (MSL)</item>
+        <item>Sheffield/Florence/Muscle Shoals, AL - (MSL)</item>
+        <item>Madison, WI - (MSN)</item>
+        <item>Missoula, MT - (MSO)</item>
+        <item>Minneapolis, MN - (MSP)</item>
+        <item>Minsk, Belarus - Minsk International 2 - (MSQ)</item>
+        <item>Mus, Turkey - (MSR)</item>
+        <item>Massena, NY - (MSS)</item>
+        <item>Maastricht, Netherlands - (MST)</item>
+        <item>Maseru, Lesotho - (MSU)</item>
+        <item>New Orleans, LA - (MSY)</item>
+        <item>Mizan Teferi, Ethiopia - (MTF)</item>
+        <item>Montrose, CO - (MTJ)</item>
+        <item>Metlakatla, AK - (MTM)</item>
+        <item>Monteria, Colombia - (MTR)</item>
+        <item>Manzini, Swaziland - (MTS)</item>
+        <item>Minatitla, Mexico - (MTT)</item>
+        <item>Mota Lava, Vanuatu - (MTV)</item>
+        <item>Monterrey, Mexico - (MTY)</item>
+        <item>Munda, Solomon Islands - (MUA)</item>
+        <item>Maun, Botswana - (MUB)</item>
+        <item>Munich, Germany - (MUC)</item>
+        <item>Kamuela, HI - Island of Hawaii, - (MUE)</item>
+        <item>Mersa Matruh, Egypt - (MUH)</item>
+        <item>Mauke Island, Cook Islands - (MUK)</item>
+        <item>Maturin, Venezuela - (MUN)</item>
+        <item>Marudi, Malaysia - (MUR)</item>
+        <item>Multan, Pakistan - (MUX)</item>
+        <item>Musoma, Tanzania - (MUZ)</item>
+        <item>Franceville, Gabon - (MVB)</item>
+        <item>Montevideo, Uruguay - (MVD)</item>
+        <item>Marova, Cameroon - (MVR)</item>
+        <item>Mucuri, BA, Brazil - (MVS)</item>
+        <item>Marthas Vineyard, MA - (MVY)</item>
+        <item>Marion, IL - (MWA)</item>
+        <item>Merave, Sudan - (MWE)</item>
+        <item>Maewo, Vanuatu - (MWF)</item>
+        <item>Moses Lake, WA - (MWH)</item>
+        <item>Mwanza, Tanzania - (MWZ)</item>
+        <item>Moro, Papua New Guinea - (MXH)</item>
+        <item>Mexicali, Mexico - (MXL)</item>
+        <item>Morambe, Madagascar - (MXM)</item>
+        <item>Milan, Italy - Malpensa - (MXP)</item>
+        <item>Maota Savaii Is, Western Samoa - (MXS)</item>
+        <item>Maintirano, Madagascar - (MXT)</item>
+        <item>Mora, Sweden - (MXX)</item>
+        <item>Meixian, China - (MXZ)</item>
+        <item>Moruya, NS, Australia - (MYA)</item>
+        <item>Maracay, Venezuela - (MYC)</item>
+        <item>Malindi, Kenya - (MYD)</item>
+        <item>MiyakeJima, Japan - (MYE)</item>
+        <item>Mayaguana, Bahamas - (MYG)</item>
+        <item>Murray Island, QL, Australia - (MYI)</item>
+        <item>Matsuyama, Japan - (MYJ)</item>
+        <item>Myrtle Beach, SC - (MYR)</item>
+        <item>Myitkyina, Myanmar - (MYT)</item>
+        <item>Mekoryuk, AK - (MYU)</item>
+        <item>Mtwara, Tanzania - (MYW)</item>
+        <item>Menyamya, Papua New Guinea - (MYX)</item>
+        <item>Miri, Malaysia - (MYY)</item>
+        <item>Makung, Taiwan - (MZG)</item>
+        <item>Mopti, Mali - (MZI)</item>
+        <item>Manizales, Colombia - (MZL)</item>
+        <item>Manzanillo, Cuba - (MZO)</item>
+        <item>Mazatlan, Mexico - (MZT)</item>
+        <item>Mulu, Malaysia - (MZV)</item>
+        <item>Narrabri, NS, Australia - (NAA)</item>
+        <item>Nagpur, India - (NAG)</item>
+        <item>Nakhichevan, Azerbaijan - (NAJ)</item>
+        <item>Nakhon Ratchosima, Thailand - (NAK)</item>
+        <item>Nalchik, Russia - (NAL)</item>
+        <item>Nadi, Fiji - (NAN)</item>
+        <item>Nanchong, China - (NAO)</item>
+        <item>Naples, Italy - (NAP)</item>
+        <item>Nassau, Bahamas - Paradise Island - (NAS)</item>
+        <item>Natal, RN, Brazil - (NAT)</item>
+        <item>Narathiwat, Thailand - (NAW)</item>
+        <item>Nairobi, Kenya - Jomo Kenyatta Intl - (NBO)</item>
+        <item>Nabire, Indonesia - (NBX)</item>
+        <item>North Caicos, Turks and Caicos Islands - (NCA)</item>
+        <item>Nice, France - (NCE)</item>
+        <item>Newcastle, UK - (NCL)</item>
+        <item>New Chenega, AK - (NCN)</item>
+        <item>Nukus, Uzbekistan - (NCU)</item>
+        <item>Annecy, France - (NCY)</item>
+        <item>Nouadhiba, Mauritania - (NDB)</item>
+        <item>Qiqihar, China - (NDG)</item>
+        <item>Namudi, Papua New Guinea - (NDI)</item>
+        <item>Ndjamena, Chad - (NDJ)</item>
+        <item>Namorik Island, Marshall Islands - (NDK)</item>
+        <item>Mendi, Ethiopia - (NDM)</item>
+        <item>Nadar, Morocco - (NDR)</item>
+        <item>Sanday, UK - (NDY)</item>
+        <item>Nordholz-Speika, Germany - (NDZ)</item>
+        <item>Negril, Jamaica - (NEG)</item>
+        <item>Neryjungri, Russia - (NER)</item>
+        <item>Nevis, St. Kitts and Nevis - (NEV)</item>
+        <item>Nefteyugansk, Russia - (NFG)</item>
+        <item>Niuafoou, Tonga - (NFO)</item>
+        <item>Ningbo, China - (NGB)</item>
+        <item>Ngaoundere, Cameroon - (NGE)</item>
+        <item>Ngau Island, Fiji - (NGI)</item>
+        <item>Nagoya, Japan - Chubu CentrAir Intl - (NGO)</item>
+        <item>Nagoya, Japan - Nagoya Komaki APT - (NGO)</item>
+        <item>Nagasaki, Japan - (NGS)</item>
+        <item>Nha Trang, Viet Nam - (NHA)</item>
+        <item>Nuku Hiva, French Polynesia - (NHV)</item>
+        <item>Nikolai, AK - (NIB)</item>
+        <item>Nicosia, Cyprus - (NIC)</item>
+        <item>Niamey, Niger - (NIM)</item>
+        <item>Nioko, Congo - (NIX)</item>
+        <item>Nizhnevartovsk, Russia - (NJC)</item>
+        <item>Nouakchott, Mauritania - (NKC)</item>
+        <item>Sinak, Indonesia - (NKD)</item>
+        <item>Nanking/Nanjing, China - (NKG)</item>
+        <item>Naukiti, AK - (NKI)</item>
+        <item>Ndola, Zambia - (NLA)</item>
+        <item>Nuevo Laredo, Mexico - (NLD)</item>
+        <item>Darnley Island, QL, Australia - (NLF)</item>
+        <item>Nelson Lagoon, AK - (NLG)</item>
+        <item>Norfolk Island, Norfolk Island - (NLK)</item>
+        <item>Nelspruit, South Africa - (NLP)</item>
+        <item>Namangan, Uzbekistan - (NMA)</item>
+        <item>Nightmute, AK - (NME)</item>
+        <item>Niigata, Japan - (KIJ)</item>
+        <item>San Miguel, Panama - (NMG)</item>
+        <item>Santa Ana, Solomon Islands - (NNB)</item>
+        <item>Nanning, China - (NNG)</item>
+        <item>Nondalton, AK - (NNL)</item>
+        <item>Naryan-Mar, Russia - (NNM)</item>
+        <item>Nan, Thailand - (NNT)</item>
+        <item>Nunukan, Indonesia - (NNX)</item>
+        <item>Nanyang, China - (NNY)</item>
+        <item>Nosara Beach, Costa Rica - (NOB)</item>
+        <item>Knock, Ireland - (NOC)</item>
+        <item>Nojabrxsk, Russia - (NOJ)</item>
+        <item>Nossi-be, Madagascar - (NOS)</item>
+        <item>Noumea, New Caledonia - Tontouta - (NOU)</item>
+        <item>Novokuznetsk, Russia - (NOZ)</item>
+        <item>Napier-Hastings, New Zealand - (NPE)</item>
+        <item>New Plymouth, New Zealand - (NPL)</item>
+        <item>Neuquen, NE, Argentina - (NQN)</item>
+        <item>Newquay, UK - (NQY)</item>
+        <item>Norderney, Germany - (NRD)</item>
+        <item>Norrkoping, Sweden - (NRK)</item>
+        <item>North Ronaldsay, UK - (NRL)</item>
+        <item>Tokyo, Japan - Narita - (NRT)</item>
+        <item>Bimini, Bahamas - (NSB)</item>
+        <item>Norilsk, Russia - (NSK)</item>
+        <item>Nelso, New Zealand - (NSN)</item>
+        <item>Nakhon Si Thammarat, Thailand - (NST)</item>
+        <item>Nantes, France - Nantes Atlantique - (NTE)</item>
+        <item>Nantong, China - (NTG)</item>
+        <item>Bintuni, Indonesia - (NTI)</item>
+        <item>Newcastle, New South Wales, Australia - (NTL)</item>
+        <item>Normanton, QL, Australia - (NTN)</item>
+        <item>Santo Antao, Cape Verde - (NTO)</item>
+        <item>Niuatoputapu, Tonga - (NTT)</item>
+        <item>Sun City, South Africa - (NTY)</item>
+        <item>Numbulwar, NT, Australia - (NUB)</item>
+        <item>Nuremberg, Germany - (NUE)</item>
+        <item>Nuiqsut, AK - (NUI)</item>
+        <item>Nulato, AK - (NUL)</item>
+        <item>Nunapitchuk, AK - (NUP)</item>
+        <item>Norsup, Vanuatu - (NUS)</item>
+        <item>NayUrengoy, Russia - (NUX)</item>
+        <item>Neiva, Colombia - (NVA)</item>
+        <item>Narvik, Norway - (NVK)</item>
+        <item>Novgorod, Russia - (NVR)</item>
+        <item>Navegantes, SC, Brazil - (NVT)</item>
+        <item>Norwich, UK - (NWI)</item>
+        <item>Nanyuki, Kenya - (NYK)</item>
+        <item>Nadym, Russia - (NYM)</item>
+        <item>Nyngan, NS, Australia - (NYN)</item>
+        <item>Nyaung, Myanmar - (NYU)</item>
+        <item>Orange, New South Wales, Australia - (OAG)</item>
+        <item>Jacksonville, NC - (OAJ)</item>
+        <item>Oakland, CA - (OAK)</item>
+        <item>Oaxaca, Mexico - (OAX)</item>
+        <item>Obano, Indonesia - (OBD)</item>
+        <item>Obihiro, Japan - (OBO)</item>
+        <item>Kobuk, AK - (OBU)</item>
+        <item>Ocho Rios, Jamaica - (OCJ)</item>
+        <item>Long Seridan, Malaysia - (ODN)</item>
+        <item>Odessa, Ukraine - (ODS)</item>
+        <item>Oudomxay, Laos - (ODY)</item>
+        <item>Ornskoldsvik, Sweden - (OER)</item>
+        <item>San Antonio Oesta, RN, Argentina - (OES)</item>
+        <item>Norfolk, NE - (OFK)</item>
+        <item>Kahului, HI - Island of Maui, - (OGG)</item>
+        <item>Maui, HI - (OGG)</item>
+        <item>Yonaguni Jima, Japan - (OGN)</item>
+        <item>Ogdensburg, NY - (OGS)</item>
+        <item>Ouargla, Algeria - (OGX)</item>
+        <item>Vladikavkaz, Russia - (OGZ)</item>
+        <item>Ohrid, Macedonia - (OHD)</item>
+        <item>Okhotsk, Russia - (OHO)</item>
+        <item>Oshima, Japan - (OIM)</item>
+        <item>Okoshiri, Japan - (OIR)</item>
+        <item>Oita, Japan - (OIT)</item>
+        <item>Okinawa, Japan - (OKA)</item>
+        <item>Oklahoma City, OK - (OKC)</item>
+        <item>Sapporo, Japan - Okadama - (OKD)</item>
+        <item>Okayama, Japan - (OKJ)</item>
+        <item>Oksibil, Indonesia - (OKL)</item>
+        <item>Okaba, Indonedia - (OKQ)</item>
+        <item>Yorke Island, QL, Australia - (OKR)</item>
+        <item>Mokuti Lodge, Namibia - (OKU)</item>
+        <item>Olbia, Italy - (OLB)</item>
+        <item>Olpoi, Vanuatu - (OLJ)</item>
+        <item>Olympic Dam, SA, Australia - (OLP)</item>
+        <item>Omaha, NE - (OMA)</item>
+        <item>Omboue, Gabon - (OMB)</item>
+        <item>Oranjemund, Namibia - (OMD)</item>
+        <item>Nome, AK - (OME)</item>
+        <item>Urmieh, Iran - (OMH)</item>
+        <item>Mostar, Bosnia and Herzegovina - (OMO)</item>
+        <item>Oradea, Romania - (OMR)</item>
+        <item>Omsk, Russia - (OMS)</item>
+        <item>Ondangwa, Namibia - (OND)</item>
+        <item>Mornington, QL, Australia - (ONG)</item>
+        <item>Moanamani, Indonesia - (ONI)</item>
+        <item>Ontario, CA - (ONT)</item>
+        <item>Colon, Panama - (ONX)</item>
+        <item>Toksook Bay, AK - (OOK)</item>
+        <item>Gold Coast, QL, Australia - (OOL)</item>
+        <item>Cooma, NS, Australia - (OOM)</item>
+        <item>Porto, Portugal - (OPO)</item>
+        <item>Balimo, Papua New Guinea - (OPU)</item>
+        <item>Orebro, Sweeden - Obrebro-Bofors - (ORB)</item>
+        <item>Norfolk, VA - (ORF)</item>
+        <item>Paramaribo, Suriname - Zorg En Hoop - (ORG)</item>
+        <item>Worcester, MA - (ORH)</item>
+        <item>Cork, Ireland - (ORK)</item>
+        <item>Oran, Algeria - (ORN)</item>
+        <item>Northway, AK - (ORT)</item>
+        <item>Noorvik, AK - (ORV)</item>
+        <item>Ormara, Pakistan - (ORW)</item>
+        <item>Paris, France - Orly - (ORY)</item>
+        <item>Osaka, Japan - all airports - (OSA)</item>
+        <item>Ostersund, Sweden - (OSD)</item>
+        <item>Oshkosh, WI - (OSH)</item>
+        <item>Osijek, Croatia - (OSI)</item>
+        <item>Oskarshamn, Sweden - (OSK)</item>
+        <item>Oslo, Norway - (OSL)</item>
+        <item>Ostrava, Czech Republic - (OSR)</item>
+        <item>Orsk, Russia - (OSW)</item>
+        <item>Namsos, Norway - (OSY)</item>
+        <item>Koszalin, Poland - (OSZ)</item>
+        <item>Contadora, Panama - (OTD)</item>
+        <item>North Bend, OR - (OTH)</item>
+        <item>Ottumwa, IA - (OTM)</item>
+        <item>Bucharest, Romania - Otopeni International - (OTP)</item>
+        <item>Otu, Colombia - (OTU)</item>
+        <item>Kotzebue, AK - (OTZ)</item>
+        <item>Ouagadougou, Burkina Faso - (OUA)</item>
+        <item>Oujda, Morocco - (OUD)</item>
+        <item>Oulu, Finland - (OUL)</item>
+        <item>Zouerate, Mauritania - (OUZ)</item>
+        <item>Novosibirsk, Russia - Tolmachevo - (OVB)</item>
+        <item>Asturias, Spain and Canary Islands - (OVD)</item>
+        <item>Owensboro, KY - (OWB)</item>
+        <item>Bissau, Guinea-Bissau - (OXB)</item>
+        <item>Oxnard/Ventura, CA - (OXR)</item>
+        <item>Ventura/Oxnard, CA - (OXR)</item>
+        <item>Goya, CR, Argentina - (OYA)</item>
+        <item>Oyem, Gabon - (OYE)</item>
+        <item>Zaporozhye, Ukraine - (OZH)</item>
+        <item>Ouarzazate, Morocco - (OZZ)</item>
+        <item>Panama City, Panama - Paitilla - (PAC)</item>
+        <item>Paderborn, Germany - (PAD)</item>
+        <item>Pakuba, Uganda - (PAF)</item>
+        <item>Paducah, KY - (PAH)</item>
+        <item>Para Chinar, Pakistan - (PAJ)</item>
+        <item>Hanapepe, HI - (PAK)</item>
+        <item>Port Au Prince, Haiti - (PAP)</item>
+        <item>Paris, France - All airports - (PAR)</item>
+        <item>Patna, India - (PAT)</item>
+        <item>Poza Rico, Mexico - (PAZ)</item>
+        <item>Puebla, Mexico - (PBC)</item>
+        <item>Porbandar, India - (PBD)</item>
+        <item>Puerto Berria, Colombia - (PBE)</item>
+        <item>Paro, Bhutan - (PBH)</item>
+        <item>West Palm Beach, FL - (PBI)</item>
+        <item>Paama, Vanuatu - (PBJ)</item>
+        <item>Paramaribo, Suriname - Zanderij Intl - (PBM)</item>
+        <item>Paraburdoo, WA, Australia - (PBO)</item>
+        <item>Punta Islita, Costa Rica - (PBP)</item>
+        <item>Plettenburg Bay, South Africa - (PBZ)</item>
+        <item>Portage Creek, AK - (PCA)</item>
+        <item>Palacios, Honduras - (PCH)</item>
+        <item>Pucallpa, Peru - (PCL)</item>
+        <item>Pedro Bay, AK - (PDB)</item>
+        <item>Padang, Indonesia - (PDG)</item>
+        <item>Ponta Delgada, Portugal - (PDL)</item>
+        <item>Punta Del Este, Uruguay - (PDP)</item>
+        <item>Piedras Negras, Mexico - (PDS)</item>
+        <item>Pendleton, OR - (PDT)</item>
+        <item>Portland, OR - (PDX)</item>
+        <item>Pelican, AK - (PEC)</item>
+        <item>Perm, Russia - (PEE)</item>
+        <item>Perugia, Italy - (PEG)</item>
+        <item>Pereira, Colombia - (PEI)</item>
+        <item>Beijing, China - (PEK)</item>
+        <item>Puerto Maldonado, Peru - (PEM)</item>
+        <item>Penang, Malaysia - (PEN)</item>
+        <item>Petrozavodsk, Russia - (PES)</item>
+        <item>Pelotas, RS, Brazil - (PET)</item>
+        <item>Puerto Lempira, Honduras - (PEU)</item>
+        <item>Peshawar, Pakistan - (PEW)</item>
+        <item>Pechora, Russia - (PEX)</item>
+        <item>Passo Fundo, RS, Brazil - (PFB)</item>
+        <item>Panama City, FL - (PFN)</item>
+        <item>Paphos, Cyprus - (PFO)</item>
+        <item>Page, AZ - (PGA)</item>
+        <item>Perpignan, France - (PGF)</item>
+        <item>Pangkalpinang, Indonesia - (PGK)</item>
+        <item>Greenville, NC - (PGV)</item>
+        <item>Perigueux, France - (PGX)</item>
+        <item>Parnaiba, PI, Brazil - (PHB)</item>
+        <item>Port Harcourt, Nigeria - (PHC)</item>
+        <item>Port Headland, WA, Australia - (PHE)</item>
+        <item>Hampton, VA - (PHF)</item>
+        <item>Newport News, VA - (PHF)</item>
+        <item>Williamsburg, VA - (PHF)</item>
+        <item>Philadelphia, PA - International - (PHL)</item>
+        <item>Point Hope, AK - (PHO)</item>
+        <item>Phitsanulok, Thailand - (PHS)</item>
+        <item>Phalaborwa, South Africa - (PHW)</item>
+        <item>Phoenix, AZ - (PHX)</item>
+        <item>Peoria, IL - (PIA)</item>
+        <item>Laurel, MS - (PIB)</item>
+        <item>Paradise Island, Bahamas - (PID)</item>
+        <item>Clearwater/St Petersburg, FL - (PIE)</item>
+        <item>St Petersburg/Clearwater, FL - (PIE)</item>
+        <item>Pingtung, Taiwan - (PIF)</item>
+        <item>Pocatello, ID - (PIH)</item>
+        <item>Glasgow, UK - Prestwick - (PIK)</item>
+        <item>Pilot Point, AK - (PIP)</item>
+        <item>Pierre, SD - (PIR)</item>
+        <item>Poitiers, France - Biard - (PIS)</item>
+        <item>Pittsburgh, PA - (PIT)</item>
+        <item>Piura, Peru - (PIU)</item>
+        <item>Pico Island, Portugal - (PIX)</item>
+        <item>Point Lay, AK - (PIZ)</item>
+        <item>Panjger, Pakistan - (PJG)</item>
+        <item>Puerto Jimenez, Costa Rica - (PJM)</item>
+        <item>Napaskiak, AK - (PKA)</item>
+        <item>Marietta, OH/Parkersburg, WV - (PKB)</item>
+        <item>Parkersburg, WV/Marietta, OH - (PKB)</item>
+        <item>Petropaulousk-Kamchats, Russia - (PKC)</item>
+        <item>Pangkalanboun, Indonesia - (PKN)</item>
+        <item>Pekanbaru, Indonesia - (PKU)</item>
+        <item>Palang Karaya, Indonesia - (PKY)</item>
+        <item>Pakse, Laos - (PKZ)</item>
+        <item>Plattsburgh, NY - (PLB)</item>
+        <item>Plymouth, UK - (PLH)</item>
+        <item>Placencia, Belize - (PLJ)</item>
+        <item>Palembang, Indonesia - (PLM)</item>
+        <item>Pellston, MI - (PLN)</item>
+        <item>Port Lincoln, SA, Australia - (PLO)</item>
+        <item>La Palma, Panama - (PLP)</item>
+        <item>Palanga, Lithuania - (PLQ)</item>
+        <item>Providenciales, Turks and Caicos Islands - (PLS)</item>
+        <item>Belo Horizonte, Brazil - Pampulha - (PLU)</item>
+        <item>Poltava, Ukraine - (PLV)</item>
+        <item>Palu, Indonesia - (PLW)</item>
+        <item>Port Elizabeth, South Africa - (PLZ)</item>
+        <item>Pemba, Tanzania - Wawi - (PMA)</item>
+        <item>Puerto Montt, Chile - (PMC)</item>
+        <item>Milan, Italy - Parma - (PMF)</item>
+        <item>Parma/Milan, Italy - (PMF)</item>
+        <item>Ponta Pora, MS, Brazil - (PMG)</item>
+        <item>Palma Mallorca, Spain and Canary Islands - (PMI)</item>
+        <item>Port Moller, AK - (PML)</item>
+        <item>Palermo, Sicily, Italy - (PMO)</item>
+        <item>Perito Moreno, SC, Argentina - (PMQ)</item>
+        <item>Palmerston North, New Zealand - (PMR)</item>
+        <item>Porlamar, Venezuela - (PMV)</item>
+        <item>Palmas, TO, Brazil - (PMW)</item>
+        <item>Puerto Madryn, CB, Argentina - (PMY)</item>
+        <item>Palmar, Costa Rica - (PMZ)</item>
+        <item>Pamplona, Spain - (PNA)</item>
+        <item>Ponca City, OK - (PNC)</item>
+        <item>Punta Gorda, Belize - (PND)</item>
+        <item>Phnom Penh, Cambodia - (PNH)</item>
+        <item>Pohnpei, Micronesia - (PNI)</item>
+        <item>Pontianak, Indonesia - (PNK)</item>
+        <item>Pantelleria, Italy - (PNL)</item>
+        <item>Popondetta, Papua New Guinea - (PNP)</item>
+        <item>Pune, India - (PNQ)</item>
+        <item>Pointe Noire, Congo - (PNR)</item>
+        <item>Pensacola, FL - (PNS)</item>
+        <item>Petrolina, PE, Brazil - (PNZ)</item>
+        <item>Porto Alegre, RS, Brazil - (POA)</item>
+        <item>Port Gentil, Gabon - (POG)</item>
+        <item>Pemba, Mozambique - (POL)</item>
+        <item>Port Moresby, Papua New Guinea - (POM)</item>
+        <item>Puerto Plata, Dominican Republic - (POP)</item>
+        <item>Pori, Finland - (POR)</item>
+        <item>Port of Spain, Trinidad - (POS)</item>
+        <item>Trinidad, Trinidad and Tobago - (POS)</item>
+        <item>Port Antonio, Jamaica - (POT)</item>
+        <item>Poughkeepsie, NY - (POU)</item>
+        <item>Poznan, Poland - (POZ)</item>
+        <item>Presidente Prudente, SP, Brazil - (PPB)</item>
+        <item>Pago Pago, American Samoa - (PPG)</item>
+        <item>Proserpine, QL, Australia - (PPP)</item>
+        <item>Puerto Princesa, Philippines - (PPS)</item>
+        <item>Papeete, French Polynesia - (PPT)</item>
+        <item>Port Protection, AK - (PPV)</item>
+        <item>Papa Westray, UK - (PPW)</item>
+        <item>Phu Quoc, Viet Nam - Duong Dang - (PQC)</item>
+        <item>Presque Isle, ME - (PQI)</item>
+        <item>Palenque, Mexico - (PQM)</item>
+        <item>Port Macquarie, NS, Australia - (PQQ)</item>
+        <item>Pilot Station, AK - (PQS)</item>
+        <item>Parana, ER, Argentina - (PRA)</item>
+        <item>Prescott, AZ - (PRC)</item>
+        <item>Prague, Czech Republic - (PRG)</item>
+        <item>Phrae, Thailand - (PRH)</item>
+        <item>Pristina, Serbia and Montenegro - (PRN)</item>
+        <item>Pres. Roque Saenz Pena, CH, Argentina - (PRQ)</item>
+        <item>Parasi, Solomon Islands - (PRS)</item>
+        <item>Florence, Italy - Gal Galilei - (PSA)</item>
+        <item>Pisa, Italy - Gal Galilei - (PSA)</item>
+        <item>Pasco, WA - (PSC)</item>
+        <item>Ponce, Puerto Rico - (PSE)</item>
+        <item>Ponce, Puerto Rico - (PSE)</item>
+        <item>Petersburg, AK - (PSG)</item>
+        <item>Pasni, Pakistan - (PSI)</item>
+        <item>Portsmouth, NH - (PSM)</item>
+        <item>Pasto, Colombia - (PSO)</item>
+        <item>Palm Springs, CA - (PSP)</item>
+        <item>Pescara, Italy - (PSR)</item>
+        <item>Posadas, MI, Argentina - (PSS)</item>
+        <item>Putussibau, Indonesia - (PSU)</item>
+        <item>Port Stanley, Falkland Islands - (PSY)</item>
+        <item>Puerto Suarez, Bolivia - (PSZ)</item>
+        <item>Port Alsworth, AK - (PTA)</item>
+        <item>Malololailai, Fiji - (PTF)</item>
+        <item>Pietersburb, South Africa - (PTG)</item>
+        <item>Port Heiden, AK - (PTH)</item>
+        <item>Portland, VI, Australia - (PTJ)</item>
+        <item>Pointe-a-Pitre, Guadeloupe - (PTP)</item>
+        <item>Platinum, AK - (PTU)</item>
+        <item>Panama City, Panama - Tocumen Intl - (PTY)</item>
+        <item>Pueblo, CO - (PUB)</item>
+        <item>Puerto Deseado, SC, Argentina - (PUD)</item>
+        <item>Pau, France - (PUF)</item>
+        <item>Port Augusta, SA, Australia - (PUG)</item>
+        <item>Punta Cana, Dominican Republic - (PUJ)</item>
+        <item>Punta Arenas, Chile - (PUQ)</item>
+        <item>Busan, South Korea - Gimhae - (PUS)</item>
+        <item>Puttaparthi, India - (PUT)</item>
+        <item>Pullman, WA - (PUW)</item>
+        <item>Pula, Croatia - (PUY)</item>
+        <item>Provincetown, MA - (PVC)</item>
+        <item>Providence, RI - (PVD)</item>
+        <item>Shanghai, China - (PVG)</item>
+        <item>Porto Velho, RO, Brazil - (PVH)</item>
+        <item>Preveza/Lefkas, Greece - (PVK)</item>
+        <item>Portoviejo, Ecuador - (PVO)</item>
+        <item>Puerto Vallarta, Mexico - (PVR)</item>
+        <item>Portland, ME - (PWM)</item>
+        <item>Pavlodar, Kazakhstan - (PWQ)</item>
+        <item>Puerto Escondido, Mexico - (PXM)</item>
+        <item>Porto Santo, Portugal - (PXO)</item>
+        <item>Pleiku, Viet Nam - (PXU)</item>
+        <item>Penrhyn Island, Cook Islands - (PYE)</item>
+        <item>Puerto Ayacucha, Venezuela - (PYH)</item>
+        <item>Polyarnyj, Russia - (PYJ)</item>
+        <item>Pietermaritzburg, South Africa - (PZB)</item>
+        <item>Penzance, UK - (PZE)</item>
+        <item>Zhob, Pakistan - (PZH)</item>
+        <item>Puerto Ordaz, Venezuela - (PZO)</item>
+        <item>Port Sudan, Sudan - (PZU)</item>
+        <item>Bella Coola, BC - (QBC)</item>
+        <item>Vail, CO - Van service - (QBF)</item>
+        <item>Copper Mountain, CO - Van service - (QCE)</item>
+        <item>Dusseldorf, Germany - Rail service - (QDU)</item>
+        <item>Selje, Norway - (QFK)</item>
+        <item>Saarbruecken, Germany - (QFZ)</item>
+        <item>Kolobrzeg, Poland - (QJY)</item>
+        <item>Nantes, France - Rail service - (QJZ)</item>
+        <item>Breckenridge, CO - Van service - (QKB)</item>
+        <item>Cologne, Germany - Rail service - (QKL)</item>
+        <item>Keystone, CO - Van service - (QKS)</item>
+        <item>Queretaro, Mexico - (QRO)</item>
+        <item>Fort Collins/Loveland, CO - Bus service - (QWF)</item>
+        <item>Loveland/Fort Collins, CO - Bus service - (QWF)</item>
+        <item>Denver, CO - Longmont Bus service - (QWM)</item>
+        <item>Albany, OR - Bus service - (QWY)</item>
+        <item>Angers, France - Rail service - (QXG)</item>
+        <item>Cannes, France - Vieux Port - (QYW)</item>
+        <item>Rabaul, Papua New Guinea - (RAB)</item>
+        <item>Arar, Saudi Arabia - (RAE)</item>
+        <item>Rafha, Saudi Arabia - (RAH)</item>
+        <item>Praia, Cape Verde - (RAI)</item>
+        <item>Rajkot, India - (RAJ)</item>
+        <item>Ramingining, NT, Australia - (RAM)</item>
+        <item>Ribeirao Preto, SP, Brazil - (RAO)</item>
+        <item>Rapid City, SD - (RAP)</item>
+        <item>Rarotonga, Cook Islands - (RAR)</item>
+        <item>Rasht, Iran - (RAS)</item>
+        <item>Raduzhnyi, Russia - (RAT)</item>
+        <item>Rawala Kot, Pakistan - (RAZ)</item>
+        <item>Rabat, Morocco - (RBA)</item>
+        <item>Ratanakiri, Cambodia - (RBE)</item>
+        <item>Brooks Lodge, AK - (RBH)</item>
+        <item>Rebun, Japan - (RBJ)</item>
+        <item>Rabaraba, Papua New Guinea - (RBP)</item>
+        <item>Rio Branco, AC, Brazil - (RBR)</item>
+        <item>Ramato, Solomon Islands - (RBV)</item>
+        <item>Ruby, AK - (RBY)</item>
+        <item>Richards Bay, South Africa - (RCB)</item>
+        <item>Roche Harbor, WA - (RCE)</item>
+        <item>Riohacha, Colombia - (RCH)</item>
+        <item>Richmond, QL, Australia - (RCM)</item>
+        <item>Reconquista, SF, Argentina - (RCQ)</item>
+        <item>Rio Cuarto, CD, Argentina - (RCU)</item>
+        <item>Redding, CA - (RDD)</item>
+        <item>Merdey, Indonesia - (RDE)</item>
+        <item>Reading, PA - (RDG)</item>
+        <item>Redmond, OR - (RDM)</item>
+        <item>Durham, NC - (RDU)</item>
+        <item>Durham/Raleigh, NC - (RDU)</item>
+        <item>Raleigh/Durham, NC - (RDU)</item>
+        <item>Red Devil, AK - (RDV)</item>
+        <item>Rodez, France - (RDZ)</item>
+        <item>Recife, PE, Brazil - (REC)</item>
+        <item>Reggio Calabria, Italy - (REG)</item>
+        <item>Trelew, CB, Argentina - (REL)</item>
+        <item>Orenburg, Russia - (REN)</item>
+        <item>Siem Reap, Cambodia - (REP)</item>
+        <item>Resistencia, CW, Argentina - (RES)</item>
+        <item>Rost, Norway - (RET)</item>
+        <item>Reus, Spain and Canary Islands - (REU)</item>
+        <item>Reynossa, Mexico - (REX)</item>
+        <item>Raiatea, French Polynesia - (RFP)</item>
+        <item>Rio Grande, TF, Argentina - (RGA)</item>
+        <item>Rio Gallegos, Argentina - Internacional - (RGL)</item>
+        <item>Yangon, Myanmar - (RGN)</item>
+        <item>Rhinelander, WI, - (RHI)</item>
+        <item>Rhodes, Gabon - (RHO)</item>
+        <item>Santa Maria, Brazil - (RIA)</item>
+        <item>Riberalta, Bolivia - (RIB)</item>
+        <item>Richmond, VA - (RIC)</item>
+        <item>Rio Grande, RS, Brazil - (RIG)</item>
+        <item>Carrillo, Costa Rica - (RIK)</item>
+        <item>Rishiri, Japan - (RIS)</item>
+        <item>Riverton, WY - (RIW)</item>
+        <item>Riga, Latvia - (RIX)</item>
+        <item>Riyan Mukalla, Yemen - (RIY)</item>
+        <item>Rajshahi, Bangladesh - (RJH)</item>
+        <item>Rijeka, Croatia - (RJK)</item>
+        <item>Rafsanjan, Iran - (RJN)</item>
+        <item>Rockland, ME - (RKD)</item>
+        <item>Rock Springs, WY - (RKS)</item>
+        <item>Rostock-Laage, Germany - (RLG)</item>
+        <item>Roma, QL, Australia - (RMA)</item>
+        <item>Rimini, Italy - (RMI)</item>
+        <item>Rampart, AK - (RMP)</item>
+        <item>Ronneby, Sweden - (RNB)</item>
+        <item>Roane, France - (RNE)</item>
+        <item>Yoronjima, Japan - (RNJ)</item>
+        <item>Rennell, Solomon Islands - (RNL)</item>
+        <item>Bornholm, Denmark - (RNN)</item>
+        <item>Reno, NV - (RNO)</item>
+        <item>Rongelap Island, Marshall Islands - (RNP)</item>
+        <item>Rennes, France - (RNS)</item>
+        <item>Roanoke, VA - (ROA)</item>
+        <item>Monrovia, Liberia - (ROB)</item>
+        <item>Rochester, NY - (ROC)</item>
+        <item>Rockhampton, QL, Australia - (ROK)</item>
+        <item>Rome, Italy - All airports - (ROM)</item>
+        <item>Rota, Northern Mariana Islands - (ROP)</item>
+        <item>Koror, Palau - (ROR)</item>
+        <item>Rosario, SF, Argentina - (ROS)</item>
+        <item>Rotorua, New Zealand - (ROT)</item>
+        <item>Rostov, Russia - (ROV)</item>
+        <item>Roswell, NM - (ROW)</item>
+        <item>Rio Mayo, CB, Argentina - (ROY)</item>
+        <item>Ngukurr, NT, Australia - (RPM)</item>
+        <item>Rosh Pina, Iceland - (RPN)</item>
+        <item>Rodrigues Island, Mauritius - (RRG)</item>
+        <item>Roros, Norway - (RRS)</item>
+        <item>Santa Rosa, LP, Argentina - (RSA)</item>
+        <item>Rock Sound, Bahamas - (RSD)</item>
+        <item>Russian Mission, AK - (RSH)</item>
+        <item>Rosario, WA - (RSJ)</item>
+        <item>Rochester, MN - (RST)</item>
+        <item>Yeosu, South Korea - (RSU)</item>
+        <item>Fort Myers, FL - (RSW)</item>
+        <item>Roatan, Honduras - (RTB)</item>
+        <item>Rotterdam, Netherlands - (RTM)</item>
+        <item>Saratov, Russia - (RTW)</item>
+        <item>Arua, Uganda - (RUA)</item>
+        <item>Riyadh, Saudi Arabia - (RUH)</item>
+        <item>St Denis de la Reunion, Reunion - (RUN)</item>
+        <item>Rorutu, French Polynesia - (RUR)</item>
+        <item>Rutland, VT - (RUT)</item>
+        <item>Farafangana, Madagascar - (RVA)</item>
+        <item>Rio Verde, GO, Brazil - (RVD)</item>
+        <item>Roervik, Norway - (RVK)</item>
+        <item>Rovaniemi, Finland - (RVN)</item>
+        <item>Santa Fe, NM - (SAF)</item>
+        <item>Sanaa, Yemen - (SAH)</item>
+        <item>San Marino, San Marino - (SAI)</item>
+        <item>San Salvador, El Salvador - (SAL)</item>
+        <item>San Diego, CA - (SAN)</item>
+        <item>San Pedro Sula, Honduras - (SAP)</item>
+        <item>San Antonio, TX - (SAT)</item>
+        <item>Savannah, GA - (SAV)</item>
+        <item>Santa Barbara, CA - (SBA)</item>
+        <item>South Bend, IN - (SBN)</item>
+        <item>San Luis Obispo, CA - (SBP)</item>
+        <item>Steamboat Springs, CO - (SBS)</item>
+        <item>Salisbury-Ocean City, MD - (SBY)</item>
+        <item>Prudhoe Bay/Deadhorse, AK - (SCC)</item>
+        <item>State College/University Park, PA - (SCE)</item>
+        <item>Stockton, CA - (SCK)</item>
+        <item>Santiago, Chile - (SCL)</item>
+        <item>Scammon Bay, AK - (SCM)</item>
+        <item>Louisville, KY - (SDF)</item>
+        <item>Sand Point, AK - (SDP)</item>
+        <item>Santo Domingo, Dominican Republic - Las Americas - (SDQ)</item>
+        <item>Seattle, WA - Seattle/Tacoma International - (SEA)</item>
+        <item>Seoul, South Korea - All Airports - (SEL)</item>
+        <item>Mahe Island, Seychelles - (SEZ)</item>
+        <item>Sanford, FL - (SFB)</item>
+        <item>San Francisco, CA - (SFO)</item>
+        <item>Springfield, MO - (SGF)</item>
+        <item>Ho Chi Minh City, Viet Nam - (SGN)</item>
+        <item>Saint George, UT - (SGU)</item>
+        <item>Skagway, AK - (SGY)</item>
+        <item>Staunton, VA - (SHD)</item>
+        <item>Shungnak, AK - (SHG)</item>
+        <item>Shishmaref, AK - (SHH)</item>
+        <item>Sheridan, WY - (SHR)</item>
+        <item>Shreveport, LA - (SHV)</item>
+        <item>Shageluk, AK - (SHX)</item>
+        <item>Singapore, Singapore - Changi - (SIN)</item>
+        <item>Sitka, AK - (SIT)</item>
+        <item>San Jose, CA - (SJC)</item>
+        <item>Cabo San Lucas, Los Cabos, Mexico - (SJD)</item>
+        <item>Los Cabos, Mexico - (SJD)</item>
+        <item>San Jose, Costa Rica - Juan Santa Maria - (SJO)</item>
+        <item>San Angelo, TX - (SJT)</item>
+        <item>San Juan, Puerto Rico - (SJU)</item>
+        <item>San Juan, Puerto Rico - (SJU)</item>
+        <item>St Kitts, St Kitts and Nevis - (SKB)</item>
+        <item>Thessaloniki, Greece - (SKG)</item>
+        <item>Shaktoolik, AK - (SKK)</item>
+        <item>Salt Lake City, UT - (SLC)</item>
+        <item>Salem, OR - (SLE)</item>
+        <item>Saranac Lake, NY - (SLK)</item>
+        <item>Salina, KS - (SLN)</item>
+        <item>San Luis Potosi, Mexico - (SLP)</item>
+        <item>Sleetmore, AK - (SLQ)</item>
+        <item>Saint Lucia, ST. LUCIA - (SLU)</item>
+        <item>Saltillo, Mexico - (SLW)</item>
+        <item>Salt Cay, Turks and Caicos Islands - (SLX)</item>
+        <item>Salehard, Russia - (SLY)</item>
+        <item>Sau Luiz, MA, Brazil - (SLZ)</item>
+        <item>Santa Maria, Portugal - (SMA)</item>
+        <item>Sacramento, CA - (SMF)</item>
+        <item>Samos, Greece - (SMI)</item>
+        <item>Saint Michael, AK - (SMK)</item>
+        <item>Stella Maris, Bahamas - (SML)</item>
+        <item>Santa Marta, Colombia - (SMR)</item>
+        <item>Sante Marie, Madagascar - (SMS)</item>
+        <item>Santa Maria, CA - (SMX)</item>
+        <item>Orange County, CA - (SNA)</item>
+        <item>Santa Ana, CA - (SNA)</item>
+        <item>Sao Nicolau, Cape Verde - (SNE)</item>
+        <item>Shannon, Ireland - (SNN)</item>
+        <item>Sakon Nakhon, Thailand - (SNO)</item>
+        <item>Saint Paul Island, AK - (SNP)</item>
+        <item>Thandwe, Myanmar - (SNW)</item>
+        <item>Solo City, Indonesia - (SOC)</item>
+        <item>Sorocaba, Brazil - (SOD)</item>
+        <item>Sofia, Bulgaria - (SOF)</item>
+        <item>Sognolal, Norway - (SOG)</item>
+        <item>South Molle Island, QL, Australia - (SOI)</item>
+        <item>Sorkjosen, Norway - (SOJ)</item>
+        <item>Espiritu Santo, Vanuatu - (SON)</item>
+        <item>Soderham, Sweden - (SOO)</item>
+        <item>Southern Pines, NC - (SOP)</item>
+        <item>South Hampton, UK - (SOU)</item>
+        <item>Stronsay, UK - (SOY)</item>
+        <item>Santa Cruz De La Palma, Spain and Canary Islands - La Palma - (SPC)</item>
+        <item>Springfield, IL - (SPI)</item>
+        <item>Saipan, Northern Mariana Islands - (SPN)</item>
+        <item>Wichita Falls, TX - (SPS)</item>
+        <item>Split, Croatia - (SPU)</item>
+        <item>Sintang, Indonesia - (SQG)</item>
+        <item>Son-La, Viet Nam - Na-San - (SQH)</item>
+        <item>Storuman, Sweden - (SQO)</item>
+        <item>Sucre, Bolivia - (SRE)</item>
+        <item>Semarang, Indonesia - (SRG)</item>
+        <item>Sarasota, FL - (SRQ)</item>
+        <item>Stony River, AK - (SRV)</item>
+        <item>Salvadore, BA, Brazil - (SSA)</item>
+        <item>Malabo, Equatorial Guinea - (SSG)</item>
+        <item>Sharm El Sheikh, Egypt - (SSH)</item>
+        <item>Sara, Vanuatu - (SSR)</item>
+        <item>Santa Barbara, Ed, Venezuela - (STB)</item>
+        <item>Saint Cloud, MN - (STC)</item>
+        <item>Santo Domingo, Venezuela - (STD)</item>
+        <item>Saint George Island, AK - (STG)</item>
+        <item>Santiago, Dominican Republic - (STI)</item>
+        <item>Saint Louis, MO - (STL)</item>
+        <item>Santarem, PA, Brazil - (STM)</item>
+        <item>London, UK - Stansted - (STN)</item>
+        <item>East London, South Africa - (ELS)</item>
+        <item>Stockholm, Sweden - All airports - (STO)</item>
+        <item>Stuttgart, Germany - Echterdingen - (STR)</item>
+        <item>Santa Rosa, CA - (STS)</item>
+        <item>Saint Thomas, U.S. Virgin Islands - (STT)</item>
+        <item>St. Thomas Island, U.S. Virgin Islands - (STT)</item>
+        <item>Stavropol, Russia - (STW)</item>
+        <item>Saint Croix, U.S. Virgin Islands - (STX)</item>
+        <item>St. Croix Island, U.S. Virgin Islands - (STX)</item>
+        <item>Surabaya, Indonesia - (SUB)</item>
+        <item>Lamezia-Terme, Italy - (SUF)</item>
+        <item>Satu Mare, Romania - (SUJ)</item>
+        <item>Sui, Pakistan - (SUL)</item>
+        <item>Hailey, ID - (SUN)</item>
+        <item>Sun Valley, ID - (SUN)</item>
+        <item>Summer Beaver, ON - (SUR)</item>
+        <item>Suva, Fiji - (SUV)</item>
+        <item>Sioux City, IA - (SUX)</item>
+        <item>Savoonga, AK - (SVA)</item>
+        <item>Sambaua, Madagascar - (SVB)</item>
+        <item>Silver City, NM - (SVC)</item>
+        <item>St Vincent, Saint Vincent and the Grenadines - (SVD)</item>
+        <item>Stavanger, Norway - (SVG)</item>
+        <item>Svolvaer, Norway - (SVJ)</item>
+        <item>Savonlinna, Finland - (SVL)</item>
+        <item>Moscow, Russia - Sheremetyevo - (SVO)</item>
+        <item>Sevilla, Spain and Canary Islands - (SVQ)</item>
+        <item>Stevens Village, AK - (SVS)</item>
+        <item>Savusavu, Fiji - (SVU)</item>
+        <item>Ekaterinburg, Russia - (SVX)</item>
+        <item>San Antonio, Venezuela - (SVZ)</item>
+        <item>Shantou, China - (SWA)</item>
+        <item>Seward, AK - (SWD)</item>
+        <item>Newburgh/Stewart Field, NY - (SWF)</item>
+        <item>Stewart Field/Newburgh, NY - (SWF)</item>
+        <item>Satwag, Papua New Guinea - (SWG)</item>
+        <item>Strasbourg, France - Entzheim - (SXB)</item>
+        <item>Berlin, Germany - Schoenefeld - (SXF)</item>
+        <item>Saumlaki, Indonesia - (SXK)</item>
+        <item>Sligo, Ireland - (SXL)</item>
+        <item>Saint Maarten, Netherlands Antilles - (SXM)</item>
+        <item>Sheldon Point, AK - (SXP)</item>
+        <item>Srinagar, India - (SXR)</item>
+        <item>Simao, China - (SYM)</item>
+        <item>Shonai, Japan - (SYO)</item>
+        <item>San Jose, Costa Rica - Tobias Bolanos Intl - (SYQ)</item>
+        <item>Syracuse, NY - (SYR)</item>
+        <item>Sue Island, QL, Australia - (SYU)</item>
+        <item>Sanya, China - (SYX)</item>
+        <item>Stornoway, UK - (SYY)</item>
+        <item>Shiraz, Iran - (SYZ)</item>
+        <item>Sheffield, UK - (SZD)</item>
+        <item>Salzburg, Austria - (SZG)</item>
+        <item>Skukuza, South Africa - (SZK)</item>
+        <item>Sesriem, Namibia - (SZM)</item>
+        <item>S. Cristobal del Casas, Mexico - (SZT)</item>
+        <item>Shenzhen, China - (SZX)</item>
+        <item>Szczecin, Poland - (SZZ)</item>
+        <item>Tobago, Trinidad and Tobago - (TAB)</item>
+        <item>Tacloban, Philippines - (TAC)</item>
+        <item>Daegu, South Korea - (TAE)</item>
+        <item>Tanna, Vanuatu - (TAH)</item>
+        <item>Taiz, Yemen - (TAI)</item>
+        <item>Tanana, AK - (TAL)</item>
+        <item>Tampico, Mexico - (TAM)</item>
+        <item>Qingdao, China - (TAO)</item>
+        <item>Tapachula, Mexico - (TAP)</item>
+        <item>Taranto, Italy - (TAR)</item>
+        <item>Tashkent, Uzbekistan - (TAS)</item>
+        <item>Popraol/Tatry, Slovakia - (TAT)</item>
+        <item>Tabubil, Papua New Guinea - (TBG)</item>
+        <item>The Bight, Bahamas - (TBI)</item>
+        <item>Tabarka, Tunisia - (TBJ)</item>
+        <item>Fort Leonard Wood, MO - (TBN)</item>
+        <item>Tabora, Tanzania - (TBO)</item>
+        <item>Tumbes, Peru - (TBP)</item>
+        <item>Tbilisi, Georgia - (TBS)</item>
+        <item>Tabatinga, AM, Brazil - (TBT)</item>
+        <item>NukuAlofa, Tonga - (TBU)</item>
+        <item>Tabriz, Iran - (TBZ)</item>
+        <item>Tennant Creek, NT, Australia - (TCA)</item>
+        <item>Treasure Cay, Bahamas - (TCB)</item>
+        <item>Tacheng, China - (TCG)</item>
+        <item>Tchibanga, Gabon - (TCH)</item>
+        <item>Tuscaloosa, AL - (TCL)</item>
+        <item>Tumaco, Colombia - (TCO)</item>
+        <item>Taba, Egypt - (TCP)</item>
+        <item>Tacna, Peru - (TCQ)</item>
+        <item>Takotna, AK - (TCT)</item>
+        <item>Tetabedi, Papua New Guinea - (TDB)</item>
+        <item>Trinidad, Bolivia - (TDD)</item>
+        <item>Tbessa, Algeria - (TEE)</item>
+        <item>Tetlin, AK - (TEH)</item>
+        <item>Tatitlek, AK - (TEK)</item>
+        <item>Terceira Island, Portugal - (TER)</item>
+        <item>Tete, Mozambique - (TET)</item>
+        <item>Te Anau, New Zealand - (TEU)</item>
+        <item>Telluride, CO - (TEX)</item>
+        <item>Tezpur, India - (TEZ)</item>
+        <item>Tefe, AM, Brazil - (TFF)</item>
+        <item>Tufi, Papua New Guinea - (TFI)</item>
+        <item>Tenerife, Spain and Canary Islands - Norte Los Rodeos - (TFN)</item>
+        <item>Tenerife, Spain and the Canary Islands - Sur Reina Sofia - (TFS)</item>
+        <item>Podgoriea, Serbia and Montenegro - Golubovci - (TGD)</item>
+        <item>Kuala Terengganu, Malaysia - (TGG)</item>
+        <item>Tongoa, Vanuatu - (TGH)</item>
+        <item>Tiga, New Caledonia - (TGJ)</item>
+        <item>Tirgu Mures, Romania - (TGM)</item>
+        <item>Traralgon, VI, Australia - (TGN)</item>
+        <item>Tongliao, China - (TGO)</item>
+        <item>Tegucigalpa, Honduras - (TGU)</item>
+        <item>Tuxtla Gutierrez, Mexico - (TGZ)</item>
+        <item>Teresina, PI, Brazil - (THE)</item>
+        <item>Berlin, Germany - Tempelhof - (THF)</item>
+        <item>Thangool, QL, Australia - (THG)</item>
+        <item>Tachilek, Myanmar - (THL)</item>
+        <item>Trollhattan, Sweden - (THN)</item>
+        <item>Thorshofn, Iceland - (THO)</item>
+        <item>Tehran, Iran - Mehrabad - (THR)</item>
+        <item>Sukhotthai, Thailand - (THS)</item>
+        <item>Pituffik, Greenland - (THU)</item>
+        <item>Tirana, Albania - (TIA)</item>
+        <item>Tiaret, Algeria - (TID)</item>
+        <item>Tippi, Ethiopia - (TIE)</item>
+        <item>Taif, Saudi Arabia - (TIF)</item>
+        <item>Tikehau Atoll, French Polynesia - (TIH)</item>
+        <item>Tijuana, Mexico - (TIJ)</item>
+        <item>Tembagapura, Indonesia - (TIM)</item>
+        <item>Tindouf, Algeria - (TIN)</item>
+        <item>Tripoli, Libya - (TIP)</item>
+        <item>Tinian, Northern Mariana Islands - (TIQ)</item>
+        <item>Tirupati, India - (TIR)</item>
+        <item>Thursday Island, QL, Australia - (TIS)</item>
+        <item>Timaru, New Zealand - (TIU)</item>
+        <item>Tivat, Serbia and Montenegro - (TIV)</item>
+        <item>Tioljikja, Mauritania - (TIY)</item>
+        <item>Tari, Papua New Guinea - (TIZ)</item>
+        <item>Tarija, Bolivia - (TJA)</item>
+        <item>Trujillo, Honduras - (TJI)</item>
+        <item>Tyumen, Russia - (TJM)</item>
+        <item>Tanjung Pandan, Indonesia - (TJQ)</item>
+        <item>Tanjung Selor, Indonesia - (TJS)</item>
+        <item>Talkeetna, AK - (TKA)</item>
+        <item>Tekadu, Papua New Guinea - (TKB)</item>
+        <item>Tenakee Springs, AK - (TKE)</item>
+        <item>Bandar Lampung, Indonesia - Branti - (TKG)</item>
+        <item>Tok, AK - (TKJ)</item>
+        <item>Truk, Micronesia - (TKK)</item>
+        <item>Tokunoshima, Japan - (TKN)</item>
+        <item>Kigoma, Tanzania - (TKQ)</item>
+        <item>Tokushima, Japan - (TKS)</item>
+        <item>Turku, Finland - (TKU)</item>
+        <item>Toluco, Mexico - (TLC)</item>
+        <item>Tulear, Madagascar - (TLE)</item>
+        <item>Tallahassee, FL - (TLH)</item>
+        <item>Tallinn, Estonia - (TLL)</item>
+        <item>Tlemcen, Algeria - (TLM)</item>
+        <item>Toulon, France - (TLN)</item>
+        <item>Toulouse, France - (TLS)</item>
+        <item>Tuluksak, AK - (TLT)</item>
+        <item>Tel Aviv, Israel - (TLV)</item>
+        <item>Tambolaka, Indonesia - (TMC)</item>
+        <item>Tomanggong, Malaysia - (TMG)</item>
+        <item>Tanahmerah, Indonesia - (TMH)</item>
+        <item>Termez, Uzbekistan - (TMJ)</item>
+        <item>Tamatave, Madagascar - (TMM)</item>
+        <item>Tampere, Finland - (TMP)</item>
+        <item>Tamanrasset, Algeria - (TMR)</item>
+        <item>Sao Tome Is., Sao Tome and Principe - (TMS)</item>
+        <item>Trombetas, PA, Brazil - (TMT)</item>
+        <item>Tambor, Costa Rica - (TMU)</item>
+        <item>Tamworth, NS, Australia - (TMW)</item>
+        <item>Timimoun, Algeria - (TMX)</item>
+        <item>Jinan, China - (TNA)</item>
+        <item>Tin City, AK - (TNC)</item>
+        <item>Tangier, Morocco - (TNG)</item>
+        <item>Tununak, AK - (TNK)</item>
+        <item>Tainan, Taiwan - (TNN)</item>
+        <item>Tamarindo, Costa Rica - (TNO)</item>
+        <item>Antaninvarivo, Madgascar - (TNR)</item>
+        <item>Stung Treng, Cambodia - (TNX)</item>
+        <item>Tobruk, Libya - (TOB)</item>
+        <item>Tioman, Malaysia - (TOD)</item>
+        <item>Tozeur, Tunisia - (TOE)</item>
+        <item>Tomsk, Russia - (TOF)</item>
+        <item>Togiak Village, AK - (TOG)</item>
+        <item>Torres, Vanuatu - (TOH)</item>
+        <item>Toledo, OH - (TOL)</item>
+        <item>Tombouctou, Mali - (TOM)</item>
+        <item>Tromso, Norway - (TOS)</item>
+        <item>Touho, New Caledonia - (TOU)</item>
+        <item>Tortola, British Virgin Islands - (TOV)</item>
+        <item>Toledo, PR, Brazil - (TOW)</item>
+        <item>Toyama, Japan - (TOY)</item>
+        <item>Tampa, FL - (TPA)</item>
+        <item>Taipei, Taiwan - Chiang Kai Shek - (TPE)</item>
+        <item>Tarapoto, Peru - (TPP)</item>
+        <item>Tepic, Mexico - (TPQ)</item>
+        <item>Tom Price, WA, Australia - (TPR)</item>
+        <item>Trapani, Italy - (TPS)</item>
+        <item>Taramajma, Japan - (TRA)</item>
+        <item>Torreon, Mexico - (TRC)</item>
+        <item>Trondheim, Norway - (TRD)</item>
+        <item>Tiree, UK - (TRE)</item>
+        <item>Torp Airport Oslo, Norway - Sandefjord - (TRF)</item>
+        <item>Tauranga, New Zealand - (TRG)</item>
+        <item>Bristol, VA - (TRI)</item>
+        <item>Johnson City, TN - (TRI)</item>
+        <item>Kingsport, TN - (TRI)</item>
+        <item>Tarakan, Indonesia - (TRK)</item>
+        <item>Turin, Italy - (TRN)</item>
+        <item>Taree, NS, Australia - (TRO)</item>
+        <item>Trieste, Italy - (TRS)</item>
+        <item>Trujillo, Peru - (TRU)</item>
+        <item>Thiruvananthapuram, India - (TRV)</item>
+        <item>Tarawa, Kiribati - (TRW)</item>
+        <item>Tiruchirapally, India - (TRZ)</item>
+        <item>Taipei, Taiwan - Sung Shan - (TSA)</item>
+        <item>Tsumeb, Namibia - (TSB)</item>
+        <item>Astana, Kazakhstan - (TSE)</item>
+        <item>Venice, Italy - Treviso - (TSF)</item>
+        <item>Tsushima, Japan - (TSJ)</item>
+        <item>Taos, NM - (TSM)</item>
+        <item>Tianjn, China - (TSN)</item>
+        <item>Isles of Scilly, UK - Tresco - (TSO)</item>
+        <item>Timosoara, Romania - (TSR)</item>
+        <item>Trang, Thailand - (TST)</item>
+        <item>Townsville, QL, Australia - (TSV)</item>
+        <item>Tortoli, Italy - (TTB)</item>
+        <item>Ternate, Indonesia - (TTE)</item>
+        <item>Tottori, Japan - (TTJ)</item>
+        <item>Philadelphia, PA - Trenton/Mercer NJ - (TTN)</item>
+        <item>Trenton/Mercer, NJ - (TTN)</item>
+        <item>Tortuquero, Costa Rica - (TTQ)</item>
+        <item>Tsaratanana, Madagascar - (TTS)</item>
+        <item>Taitung, Taiwan - (TTT)</item>
+        <item>Tetuan, Morocco - (TTU)</item>
+        <item>Tulcan, Ecuador - (TUA)</item>
+        <item>Tubuai, French Polynesia - (TUB)</item>
+        <item>Tucuman, TU, Argentina - (TUC)</item>
+        <item>Tours, France - (TUF)</item>
+        <item>Tuguegarao, Philippines - (TUG)</item>
+        <item>Turaif, Saudi Arabia - (TUI)</item>
+        <item>Tum, Ethiopia - (TUJ)</item>
+        <item>Turbat, Pakistan - (TUK)</item>
+        <item>Tulsa, OK - (TUL)</item>
+        <item>Tunis, Tunisia - (TUN)</item>
+        <item>Taupo, New Zealand - (TUO)</item>
+        <item>Tupelo, MS - (TUP)</item>
+        <item>Tucurui, PA, Brazil - (TUR)</item>
+        <item>Tucson, AZ - (TUS)</item>
+        <item>Tabuk, Saudi Arabia - (TUU)</item>
+        <item>Tucupita, Venezuela - (TUV)</item>
+        <item>Morafenobe, Madagascar - (TVA)</item>
+        <item>Traverse City, MI - (TVC)</item>
+        <item>Thief River Falls, MN - (TVF)</item>
+        <item>Taveuni, Fiji - (TVU)</item>
+        <item>Dawe, Myanmar - (TVY)</item>
+        <item>Twin Hills, AK - (TWA)</item>
+        <item>Toowoomba, QL, Australia - (TWB)</item>
+        <item>Twin Falls, ID - (TWF)</item>
+        <item>Tawau, Malaysia - (TWU)</item>
+        <item>Taichung, Taiwan - (TXG)</item>
+        <item>Texarkana, AR - (TXK)</item>
+        <item>Berlin, Germany - Tegel - (TXL)</item>
+        <item>Teminabuan, Indonesia - (TXM)</item>
+        <item>Tunxi, China - (TXN)</item>
+        <item>Torsby, Sweden - (TYF)</item>
+        <item>Taiyuan, China - (TYN)</item>
+        <item>Tokyo, Japan - All airports - (TYO)</item>
+        <item>Tyler, TX - (TYR)</item>
+        <item>Knoxville, TN - (TYS)</item>
+        <item>Belize City, Belize - Municipal - (TZA)</item>
+        <item>South Andros, Bahamas - (TZN)</item>
+        <item>Trabzon, Turkey - (TZX)</item>
+        <item>Narsarsuaq, Greenland - (UAK)</item>
+        <item>San Juan, SJ, Argentina - (UAQ)</item>
+        <item>Samburu, Kenya - (UAS)</item>
+        <item>Uberaba, MG, Brazil - (UBA)</item>
+        <item>Mabuiag Island, QL, Australia - (UBB)</item>
+        <item>Ube, Japan - (UBJ)</item>
+        <item>Ubon Ratchathani, Thailand - (UBP)</item>
+        <item>Utica, NY - (UCA)</item>
+        <item>Ukhta, Russia - (UCT)</item>
+        <item>Uberlandia, MG, Brazil - (UDI)</item>
+        <item>Uzhgorod, Ukraine - (UDJ)</item>
+        <item>Udaipur, India - (UDR)</item>
+        <item>Quelimane, Mozambique - (UEL)</item>
+        <item>Kumejima, Japan - (UEO)</item>
+        <item>Quetta, Pakistan - (UET)</item>
+        <item>Ufa, Russia - (UFA)</item>
+        <item>Pilot Point, AK - Ugashnik Bay - (UGB)</item>
+        <item>Urgench, Uzbekistan - (UGC)</item>
+        <item>Zugapa, Indonesia - (UGU)</item>
+        <item>Quibdo, Colombia - (UIB)</item>
+        <item>Qui Nhon, Viet Nam - (UIH)</item>
+        <item>Utila, Honduras - (UII)</item>
+        <item>Ust-Ilimsk, Russia - (UIK)</item>
+        <item>Quincy, IL - (UIN)</item>
+        <item>Quito, Ecuador - (UIO)</item>
+        <item>Quimper, France - (UIP)</item>
+        <item>Jaluit Island, Marshall Islands - (UIT)</item>
+        <item>Ujae Island, Marshall Islands - (UJE)</item>
+        <item>Ust-Kamenogorsk, Kazakhstan - (UKK)</item>
+        <item>San Julian, SC, Argentina - (ULA)</item>
+        <item>Ulei, Vanuatu - (ULB)</item>
+        <item>Ulundi, South Africa - (ULD)</item>
+        <item>Ulithi, Micronesia - (ULI)</item>
+        <item>Ulaanbaatar, Mongolia - (ULN)</item>
+        <item>Quipi, QL, Australia - (ULP)</item>
+        <item>Gulu, Uganda - (ULU)</item>
+        <item>Uliastai, Mongolia - (ULY)</item>
+        <item>Uummannaq, Greeland - (UMD)</item>
+        <item>Umea, Sweden - (UME)</item>
+        <item>Kiunga, Papua New Guinea - (UNG)</item>
+        <item>Unalakleet, AK - (UNK)</item>
+        <item>Ranong, Thailand - (UNN)</item>
+        <item>Ujung Pandang, Indonesia - (UPG)</item>
+        <item>Uruapan, Mexico - (UPN)</item>
+        <item>Uralsk, Kazakhstan - (URA)</item>
+        <item>Urumqi, China - (URC)</item>
+        <item>Uruguaiana, RS, Brazil - (URG)</item>
+        <item>Uraj, Russia - (URJ)</item>
+        <item>Rouen, France - (URO)</item>
+        <item>Surat Thani, Thailand - (URT)</item>
+        <item>Uroubi, Papua New Guinea - (URU)</item>
+        <item>Gurayat, Saudi Arabia - (URY)</item>
+        <item>Ushuaia, TF, Argentina - (USH)</item>
+        <item>Usinsk, Russia - (USK)</item>
+        <item>Useless Loop, WA, Australia - (USL)</item>
+        <item>Koh Samui, Thailand - (USM)</item>
+        <item>Ulsan, South Korea - (USN)</item>
+        <item>Udon Thani, Thailand - (UTH)</item>
+        <item>Utirik Island, Marshall Islands - (UTK)</item>
+        <item>Upington, South Africa - (UTN)</item>
+        <item>Utopia Creek, AK - (UTO)</item>
+        <item>Utapao, Thailand - (UTP)</item>
+        <item>Umtata, South Africa - (UTT)</item>
+        <item>Bugulma, Russia - (UUA)</item>
+        <item>Bulgulma, Russia - (UUA)</item>
+        <item>Ulan-Ude, Russia - (UUD)</item>
+        <item>Yuzhno-Sakhalinsk, Russia - (UUS)</item>
+        <item>Ouvea, New Caledonia - (UVE)</item>
+        <item>St. Lucia, St. Lucia - Hawnorra - (UVF)</item>
+        <item>St. Lucia, St. Lucia - (UVF)</item>
+        <item>Kharga, Egypt - (UVL)</item>
+        <item>Nyala, Sudan - (UYL)</item>
+        <item>Yulin, China - (UYN)</item>
+        <item>Vaasa, Finland - (VAA)</item>
+        <item>Varginha, MG, Brazil - (VAG)</item>
+        <item>Vanimo, Papua New Guinea - (VAI)</item>
+        <item>Chevak, AK - (VAK)</item>
+        <item>Van, Turkey - (VAN)</item>
+        <item>Suavanao, Solomon Islands - (VAO)</item>
+        <item>Varna, Bulgaria - (VAR)</item>
+        <item>Sivas, Turkey - (VAS)</item>
+        <item>Vatomatry, Madagascar - (VAT)</item>
+        <item>Vavau, Tonga - (VAV)</item>
+        <item>Vardoe, Norway - (VAW)</item>
+        <item>Vanuabalavu, Fiji - (VBV)</item>
+        <item>Visby, Sweden - (VBY)</item>
+        <item>Victoria River Downs, NT, Australia - (VCD)</item>
+        <item>Venice, Italy - Marco Polo - (VCE)</item>
+        <item>Sao Paulo, Brazil - Viracopos - (VCP)</item>
+        <item>Victoria, TX - (VCT)</item>
+        <item>Ovda, Israel - (VDA)</item>
+        <item>Fagernes, Norway - (VDB)</item>
+        <item>Vitoria da Conquista, BA, Brazil - (VDC)</item>
+        <item>Valverde, Spain and Canary Islands - Hierro - (VDE)</item>
+        <item>Viedma, RN, Argentina - (VDM)</item>
+        <item>Vadso, Norway - (VDS)</item>
+        <item>Valdez, AK - (VDZ)</item>
+        <item>Venetie, AK - (VEE)</item>
+        <item>Vernal, UT - (VEL)</item>
+        <item>Veracruz, Mexico - (VER)</item>
+        <item>Vestmannaeyjar, Iceland - (VEY)</item>
+        <item>Victoria Falls, Zimbabwe - (VFA)</item>
+        <item>Vigo, Spain - (VGO)</item>
+        <item>Vilhelmina, Sweden - (VHM)</item>
+        <item>Vienna, Austria - (VIE)</item>
+        <item>El Vigia, Venezuela - (VIG)</item>
+        <item>Vinh City, Viet Nam - (VII)</item>
+        <item>Virgin Gorda, British Virgin Islands - (VIJ)</item>
+        <item>Dakhla, Morocco - (VIL)</item>
+        <item>Visalia, CA - (VIS)</item>
+        <item>Vitoria, Spain and Canary Islands - (VIT)</item>
+        <item>Vivigani, Papua New Guinea - (VIV)</item>
+        <item>Rach Gia, Viet Nam - (VKG)</item>
+        <item>Roch Gia, Viet Nam - (VKG)</item>
+        <item>Moscow, Russia - Vnukovo - (VKO)</item>
+        <item>Vorkuta, Russia - (VKT)</item>
+        <item>Valencia, Spain - (VLC)</item>
+        <item>Valdosta, GA - (VLD)</item>
+        <item>Villa Gesell, BA, Argentina - (VLG)</item>
+        <item>Port Vila, Vanuatu - (VLI)</item>
+        <item>Volgodonsk, Russia - (VLK)</item>
+        <item>Valladolid, Spain and Canary Islands - (VLL)</item>
+        <item>Valencia, Venezuela - (VLN)</item>
+        <item>Valesdir, Vanuatu - (VLS)</item>
+        <item>Valera, Venezuela - (VLV)</item>
+        <item>Villa Mercedes, SL, Argentina - (VME)</item>
+        <item>Baimuru, Papua New Guinea - (VMU)</item>
+        <item>Vilnius, Lithuania - (VNO)</item>
+        <item>Varanasi, India - (VNS)</item>
+        <item>Vilanculos, Mozambique - (VNX)</item>
+        <item>Volgograd, Russia - (VOG)</item>
+        <item>Vohemar, Madagascar - (VOH)</item>
+        <item>Voronezh, Russia - (VOZ)</item>
+        <item>Vopnafjordur, Iceland - (VPN)</item>
+        <item>Fort Walton Beach, FL - (VPS)</item>
+        <item>Valparaiso, FL - (VPS)</item>
+        <item>Vieques, Puerto Rico - (VQS)</item>
+        <item>Varadero, Cuba - (VRA)</item>
+        <item>Varkaus, Finland - (VRK)</item>
+        <item>Verona, Italy - (VRN)</item>
+        <item>Villahermosa, Mexico - (VSA)</item>
+        <item>Lugansk, Uganda - (VSG)</item>
+        <item>Vasteras, Sweden - (VST)</item>
+        <item>Vitebsk, Belarus - (VTB)</item>
+        <item>Vientiane, Laos - Wattay - (VTE)</item>
+        <item>Vishakhapatnam, India - (VTZ)</item>
+        <item>Valledupar, Colombia - (VUP)</item>
+        <item>Mahanoro, Madagascar - (VVB)</item>
+        <item>Santa Cruz, Bolivia - (VVI)</item>
+        <item>Vladivostok, Russia - (VVO)</item>
+        <item>Lichinga, Mozambique - (VXC)</item>
+        <item>Sao Vicente, Cape Verde - (VXE)</item>
+        <item>Vaxjo, Sweden - (VXO)</item>
+        <item>Wales, AK - (WAA)</item>
+        <item>Wadi Ad Dawasir, Saudi Arabia - (WAE)</item>
+        <item>Wanganui, New Zealand - (WAG)</item>
+        <item>Antsohihy, Madagascar - (WAI)</item>
+        <item>Ambatondrazaka, Madagascar - (WAM)</item>
+        <item>Antsalova, Madagascar - (WAQ)</item>
+        <item>Waterford, Ireland - (WAT)</item>
+        <item>Warsaw, Poland - (WAW)</item>
+        <item>Wahai, Indonesia - (WBA)</item>
+        <item>Stebbins, AK - (WBB)</item>
+        <item>Beaver, AK - (WBQ)</item>
+        <item>Boulder, CO - Municipal Airport - (WBU)</item>
+        <item>Enid, OK - (WDG)</item>
+        <item>Wedau, Papua New Guinea - (WED)</item>
+        <item>Weihai, China - (WEH)</item>
+        <item>Weipa, QL, Australia - (WEI)</item>
+        <item>Wagethe, Indonesia - (WET)</item>
+        <item>Fianarantsoa, Madagascar - (WFI)</item>
+        <item>Wagga Wagga, NS, Australia - (WGA)</item>
+        <item>Walgett, NS, Australia - (WGE)</item>
+        <item>Waingapo, Indonesia - (WGP)</item>
+        <item>Wadi Halfa, Sudan - (WHF)</item>
+        <item>Boulder, CO - Hiltons Har H - (WHH)</item>
+        <item>Whakatane, New Zealand - (WHK)</item>
+        <item>Wick, UK - (WIC)</item>
+        <item>Nairobi, Kenya - Wilson - (WIL)</item>
+        <item>Winton, QL, Australia - (WIN)</item>
+        <item>Woja, Marshall Islands - (WJA)</item>
+        <item>WonJu, South Korea - (WJU)</item>
+        <item>Wanaka, New Zealand - (WKA)</item>
+        <item>Wakkanai, Japan - (WKJ)</item>
+        <item>Aleknagik, AK - (WKK)</item>
+        <item>Wellington, New Zealand - (WLG)</item>
+        <item>Walaha, Vanuatu - (WLH)</item>
+        <item>Selawik, AK - (WLK)</item>
+        <item>Wallis Island, Wallis and Futuna Islands - (WLS)</item>
+        <item>Mandritsara, Madagascar - (WMA)</item>
+        <item>Mount Keith, WA, Australia - (WME)</item>
+        <item>Mountain Home, AR - (WMH)</item>
+        <item>Meyers Chuck, AK - (WMK)</item>
+        <item>Maroantsetra, Madagascar - (WMN)</item>
+        <item>White Mountain, AK - (WMO)</item>
+        <item>Mampikony, Madagascar - (WMP)</item>
+        <item>Mananara, Madagascar - (WMR)</item>
+        <item>Wamena, Indonesia - (WMX)</item>
+        <item>Napakiak, AK - (WNA)</item>
+        <item>Wunnummin Lake, ON - (WNN)</item>
+        <item>Naga, Philippines - (WNP)</item>
+        <item>Windarra, QL, Australia - (WNR)</item>
+        <item>Nawabshah, Pakistan - (WNS)</item>
+        <item>Wenzhou, China - (WNZ)</item>
+        <item>Wonan, Taiwan - (WOT)</item>
+        <item>Port Berge, Madagascar - (WPB)</item>
+        <item>Whangarei, New Zealand - (WRE)</item>
+        <item>Wrangell, AK - (WRG)</item>
+        <item>Worland, WY - (WRL)</item>
+        <item>Wroclaw, Poland - (WRO)</item>
+        <item>Westray, UK - (WRY)</item>
+        <item>South Naknek, AK - (WSN)</item>
+        <item>Wasior, Indonesia - (WSR)</item>
+        <item>Westerly, RI - (WST)</item>
+        <item>Wasu, Papua New Guinea - (WSU)</item>
+        <item>Westsound, WA - (WSX)</item>
+        <item>Westport, New Zealand - (WSZ)</item>
+        <item>Tambohorano, Madagascar- (WTA)</item>
+        <item>Wotje Island, Marshall Islands - (WTE)</item>
+        <item>Noatak, AK - (WTK)</item>
+        <item>Tuntutuliak, AK - (WTL)</item>
+        <item>Wotho Island, Marshall Islands - (WTO)</item>
+        <item>Tsiroanomandidy, Madagascar - (WTS)</item>
+        <item>Wudinna, SA, Australia - (WUD)</item>
+        <item>Wau, Papua New Guinea - (WUG)</item>
+        <item>Wuhan, China - (WUH)</item>
+        <item>Wiluna, WA, Australia - (WUN)</item>
+        <item>Wuyishan, China - (WUS)</item>
+        <item>Wau, Sudan - (WUU)</item>
+        <item>Walvis Bay, Namibia - (WVB)</item>
+        <item>Manakara, Madagascar - (WVK)</item>
+        <item>Wilhelmshaven, Germany - (WVN)</item>
+        <item>Wewak, Papua New Guinea - (WWK)</item>
+        <item>Whale Pass, AK - (WWP)</item>
+        <item>Newtok, AK - (WWT)</item>
+        <item>Wanxian, China - (WXN)</item>
+        <item>Whyalla, SA, Australia - (WYA)</item>
+        <item>Wyndham, WA, Australia - (WYN)</item>
+        <item>West Yellowstone, MT - (WYS)</item>
+        <item>Churchill, MB - Rail service - (XAD)</item>
+        <item>Herning, Denmark - (XAK)</item>
+        <item>Chapeco, Brazil - (XAP)</item>
+        <item>Capreol, ON - Rail service - (XAW)</item>
+        <item>Montreal, QC - Dorval Rail service - (XAX)</item>
+        <item>Campbellton, NB - Rail service - (XAZ)</item>
+        <item>Bearskin Lake, ON - (XBE)</item>
+        <item>Brockville, ON - (XBR)</item>
+        <item>Christmas Island, Christmas Island - (XCH)</item>
+        <item>Chambord, QC - Rail service - (XCI)</item>
+        <item>Chatham, ON - (XCM)</item>
+        <item>Lille, France - Rail service - (XDB)</item>
+        <item>Gaspe, QC - Rail service - (XDD)</item>
+        <item>Halifax, NS - Rail service - (XDG)</item>
+        <item>Jasper, AB - Rail service - (XDH)</item>
+        <item>Chandler, QC - Rail service - (XDL)</item>
+        <item>Drummondville, QC - Rail service - (XDM)</item>
+        <item>Moncton, NB - Rail service - (XDP)</item>
+        <item>Ottawa, ON - Rail service - (XDS)</item>
+        <item>Hervey, QC - Rail service - (XDU)</item>
+        <item>Prince George, BC - Rail service - (XDV)</item>
+        <item>Prince Rupert, BC - Rail service - (XDW)</item>
+        <item>Sarnia, ON - Rail service - (XDX)</item>
+        <item>Sudbury, ON - Rail service - (XDY)</item>
+        <item>The Pas, MB - Rail service - (XDZ)</item>
+        <item>Vancouver, BC - Rail service - (XEA)</item>
+        <item>Windsor, ON - Rail service - (XEC)</item>
+        <item>Lac Edouard, QC - Rail service - (XEE)</item>
+        <item>Winnipeg, MB - Rail service - (XEF)</item>
+        <item>Kingston, ON - Rail service - (XEG)</item>
+        <item>Ladysmith, BC - Rail service - (XEH)</item>
+        <item>Langford, BC - Rail service - (XEJ)</item>
+        <item>Melville, SK - Rail service - (XEK)</item>
+        <item>New Carlisle, QC - Rail service - (XEL)</item>
+        <item>New Richmond, QC - Rail service - (XEM)</item>
+        <item>Strasbourg, France - Bus service - (XER)</item>
+        <item>Miramichi, NB - Rail service - (XEY)</item>
+        <item>Fredericton Junction, NB - Rail service - (XFC)</item>
+        <item>Parent, QC - Rail service - (XFE)</item>
+        <item>Perce, QC - Rail service - (XFG)</item>
+        <item>Senneterre, QC - Rail service - (XFK)</item>
+        <item>Shawinigan, QC - Rail service - (XFL)</item>
+        <item>Shawnigan, BC - Rail service - (XFM)</item>
+        <item>Xiangfan, China - (XFN)</item>
+        <item>Weymont, QC - Rail service - (XFQ)</item>
+        <item>Alexandria,ON - Rail service - (XFS)</item>
+        <item>Brantford, ON - Rail service - (XFV)</item>
+        <item>Finkenwerder, Germany - (XFW)</item>
+        <item>Quebec, QC - Sainte-Foy Rail service - (XFY)</item>
+        <item>Cobourg, ON - Rail service - (XGJ)</item>
+        <item>Coteau, QC - Rail service - (XGK)</item>
+        <item>Kangiqsualujjuaq, QC - (XGR)</item>
+        <item>Grimsby, ON - (XGY)</item>
+        <item>Boulder, CO - Bus service - (XHH)</item>
+        <item>Georgetown, ON - Rail service - (XHM)</item>
+        <item>Chemainus, BC - Rail service - (XHS)</item>
+        <item>Guelph, ON - Rail service - (XIA)</item>
+        <item>Ingersoll, ON - Rail service - (XIB)</item>
+        <item>Xichang, China - (XIC)</item>
+        <item>Maxville, ON - Rail service - (XID)</item>
+        <item>Napanee, ON - Rail service - (XIF)</item>
+        <item>Prescott, ON - Rail service - (XII)</item>
+        <item>Xilinhot, China - (XIL)</item>
+        <item>Saint Hyacinthe, QC - Rail service - (XIM)</item>
+        <item>St Marys, ON - Rail service - (XIO)</item>
+        <item>Woodstock, ON - Rail service - (XIP)</item>
+        <item>Xi An, China - Xianyang - (XIY)</item>
+        <item>Joliette, QC - Rail service - (XJL)</item>
+        <item>Jonquiere, QC - Rail service - (XJQ)</item>
+        <item>Xieng Khouang, Laos - (XKH)</item>
+        <item>Kasabonika, ON - (XKS)</item>
+        <item>Sackville, NB - Rail service - (XKV)</item>
+        <item>Lac Brochet, MB - (XLB)</item>
+        <item>Quebec, QC - Quebec Station Rail service - (XLJ)</item>
+        <item>Quebec, QC - Levis Rail service - (XLK)</item>
+        <item>Montreal, QC - St Lambert Rail service - (XLM)</item>
+        <item>Toronto, ON - Guildwood Rail service - (XLQ)</item>
+        <item>Niagara Falls, ON - Rail service - (XLV)</item>
+        <item>Aldershot, ON - Rail service - (XLY)</item>
+        <item>Truro, NS - Rail service - (XLZ)</item>
+        <item>Manihi, French Polynesia - (XMH)</item>
+        <item>Xiamen, China - (XMN)</item>
+        <item>Macas, Ecuador - (XMS)</item>
+        <item>Yam Island, QL, Australia - (XMY)</item>
+        <item>Fayetteville, AR - Northwest Arkansas Regional - (XNA)</item>
+        <item>Xining, China - (XNN)</item>
+        <item>Poitiers, France - Rail service - (XOP)</item>
+        <item>Parksville, BC - Rail service - (XPB)</item>
+        <item>Pukatawagan, MB - - (XPK)</item>
+        <item>Brampton, ON - Rail service - (XPN)</item>
+        <item>Pointe-aux-Trembles, QC - Rail service - (XPX)</item>
+        <item>Saint Tropez, France - (XPZ)</item>
+        <item>Quepos, Costa Rica - (XQP)</item>
+        <item>Qualicum, BC - (XQU)</item>
+        <item>Riviere-a-Pierre, QC - Rail service - (XRP)</item>
+        <item>Jerez De La Frontere, Spain - (XRY)</item>
+        <item>South Caicos, Turks and Caicos Islands - (XSC)</item>
+        <item>Tours, France - Rail service - (XSH)</item>
+        <item>South Indian Lake, MB - (XSI)</item>
+        <item>Singapore, Singapore - Seletar - (XSP)</item>
+        <item>Thargomindah, QL, Australia - (XTG)</item>
+        <item>Tadoule Lake, MB - (XTL)</item>
+        <item>Strathroy, ON - Rail service - (XTY)</item>
+        <item>Xuzhou, China - (XUZ)</item>
+        <item>Valenciennes, France - (XVS)</item>
+        <item>Belleville, ON - Rail service - (XVV)</item>
+        <item>Watford, ON - Rail service - (XWA)</item>
+        <item>Wyoming, ON - Rail service - (XWY)</item>
+        <item>Yandina, Solomon Islands - (XYA)</item>
+        <item>Lyon, France - Lyon Part-Dieu Rail service - (XYD)</item>
+        <item>Casselman, ON - Rail service - (XZB)</item>
+        <item>Glencoe, ON - Rail service - (XZC)</item>
+        <item>Edmonton, AB - Rail service - (XZL)</item>
+        <item>Arctic Bay, NU - (YAB)</item>
+        <item>Cat Lake, ON - (YAC)</item>
+        <item>Fort Frances, ON - (YAG)</item>
+        <item>Chillan, Chile - (YAI)</item>
+        <item>Yakutat, AK - (YAK)</item>
+        <item>Sault Ste-Marie, ON - (YAM)</item>
+        <item>Yaounde, Cameroon - (YAO)</item>
+        <item>Yap, Micronesia - (YAP)</item>
+        <item>St Anthony, NL - (YAY)</item>
+        <item>Tofino, BC, - (YAZ)</item>
+        <item>Kugaaruk, NU - (YBB)</item>
+        <item>Uranium City, SK - (YBE)</item>
+        <item>Black Tickle, NL - (YBI)</item>
+        <item>Baker Lake, NU - (YBK)</item>
+        <item>Campbell River, BC - (YBL)</item>
+        <item>Yibin, China - (YBP)</item>
+        <item>Brandon, MB - (YBR)</item>
+        <item>Opapamiska Lake, ON - (YBS)</item>
+        <item>Brochet, MB - (YBT)</item>
+        <item>Berens River, MB - (YBV)</item>
+        <item>Blanc Sablon, QC - (YBX)</item>
+        <item>Toronto, ON - Downtown Rail service - (YBZ)</item>
+        <item>Courtenay, BC - (YCA)</item>
+        <item>Cambridge Bay, NU - (YCB)</item>
+        <item>Cornwall, ON - (YCC)</item>
+        <item>Nanaimo, BC - Cassidy Airport - (YCD)</item>
+        <item>Castlegar, BC - (YCG)</item>
+        <item>Colville Lake, NT - (YCK)</item>
+        <item>St Catharines, ON - (YCM)</item>
+        <item>Kugluktuk/Coppermine, NU - (YCO)</item>
+        <item>Cross Lake, MB - (YCR)</item>
+        <item>Chesterfield Inlet, NU - (YCS)</item>
+        <item>Clyde River, NU - (YCY)</item>
+        <item>Dawson City, YT - (YDA)</item>
+        <item>Deer Lake, NL - (YDF)</item>
+        <item>Davis Inlet, NL - (YDI)</item>
+        <item>Dauphin, MB - (YDN)</item>
+        <item>Nain, NL - (YDP)</item>
+        <item>Dawson Creek, BC - (YDQ)</item>
+        <item>Fort Severn, ON - (YER)</item>
+        <item>Inuvik, NT - (YEV)</item>
+        <item>Fort Albany, ON - (YFA)</item>
+        <item>Iqaluit, NU - (YFB)</item>
+        <item>Fredericton, NB - (YFC)</item>
+        <item>Fort Hope, ON - (YFH)</item>
+        <item>Snare Lake, NT - (YFJ)</item>
+        <item>Flin Flon, MB - (YFO)</item>
+        <item>Fort Simpson, NT - (YFS)</item>
+        <item>Fox Harbour/St Lewis, NL - (YFX)</item>
+        <item>Quebec, QC - Charny Rail service - (YFZ)</item>
+        <item>Gillies Bay, BC - (YGB)</item>
+        <item>Fort Good Hope, NT - (YGH)</item>
+        <item>Yonago, Japan - (YGJ)</item>
+        <item>Kingston, ON - Norman Rogers Airport - (YGK)</item>
+        <item>La Grande, QC - (YGL)</item>
+        <item>Gods Narrows, MB - (YGO)</item>
+        <item>Gaspe, QC - (YGP)</item>
+        <item>Iles De La Madeleine, QC - (YGR)</item>
+        <item>Igloolik, NU - (YGT)</item>
+        <item>Havre St Pierre, QC - (YGV)</item>
+        <item>Kuujjuarapik, QC - (YGW)</item>
+        <item>Gillam, MB - (YGX)</item>
+        <item>Grise Fiord, NU - (YGZ)</item>
+        <item>Port Hope Simpson, NL - (YHA)</item>
+        <item>Hudson Bay, SK - (YHB)</item>
+        <item>Dryden, ON - (YHD)</item>
+        <item>Charlottetown, NL - (YHG)</item>
+        <item>Holman, NT - (YHI)</item>
+        <item>Gjoa Haven, NU - (YHK)</item>
+        <item>Hamilton, ON - (YHM)</item>
+        <item>Hopedale, NL - (YHO)</item>
+        <item>Poplar Hill, ON - (YHP)</item>
+        <item>Chevery, QC - (YHR)</item>
+        <item>Hay River, NT - (YHY)</item>
+        <item>Halifax, NS - International - (YHZ)</item>
+        <item>Pakuashipi, QC - (YIF)</item>
+        <item>Yichang, China - (YIH)</item>
+        <item>Ivujivik, QC - (YIK)</item>
+        <item>Yining, China - (YIN)</item>
+        <item>Pond Inlet, NU - (YIO)</item>
+        <item>Montreal, Canada - All Airports - (YMQ)</item>
+        <item>Toronto, Canada - All Airports - (YTO)</item>
+        <item>Edmonton, Canada - All Airports - (YEA)</item>
+        <item>Toronto, Canada - (YYZ)</item>
+        <item>Vancouver, Canada - (YVR)</item>
+        <item>Calgary, Canada - (YYC)</item>
+        <item>Edmonton, Canada - (YEG)</item>
+        <item>Montreal, Canada - (YUL)</item>
+        <item>Toronto, Canada - Toronto Island Airport - (YTZ)</item>
+        <item>Abbotsford, Canada - (YXX)</item>
+        <item>Aklavik, Canada - (LAK)</item>
+        <item>Akulivik, Canada - (AKV)</item>
+        <item>Alma, Canada - (YTF)</item>
+        <item>Anahim Lake, Canada - (YAA)</item>
+        <item>Angling Lake, Canada - (YAX)</item>
+        <item>Arviat, Canada - (YEK)</item>
+        <item>Attawapiskat, Canada - (YAT)</item>
+        <item>Aupaluk, Canada - (YPJ)</item>
+        <item>Bagotville, Canada - (YBG)</item>
+        <item>Baie Comeau, Canada - (YBC)</item>
+        <item>London, Canada - (YXU)</item>
+        <item>Yiwu, China - (YIW)</item>
+        <item>Stephenville, NL - (YJT)</item>
+        <item>Kamloops, BC - (YKA)</item>
+        <item>Kitchener, ON - (YKF)</item>
+        <item>Kangirsuk, QC - (YKG)</item>
+        <item>Schefferville, QC - (YKL)</item>
+        <item>Yakima, WA - (YKM)</item>
+        <item>Waskaganish, QC - (YKQ)</item>
+        <item>Yakutsk, Russia - (YKS)</item>
+        <item>Klemtu, BC - (YKT)</item>
+        <item>Chisasibi, QC - (YKU)</item>
+        <item>Chapleau, ON - (YLD)</item>
+        <item>Wha Ti/Lac La Martre, NT - (YLE)</item>
+        <item>Lansdowne House, ON - (YLH)</item>
+        <item>Lloydminister, AB - (YLL)</item>
+        <item>La Tuque, QC - (YLQ)</item>
+        <item>Leaf Rapids, MB - (YLR)</item>
+        <item>Kelowna, BC - (YLW)</item>
+        <item>Marys Harbour, NL - (YMH)</item>
+        <item>Fort Mcmurray, AB - (YMM)</item>
+        <item>Moosonee, ON - (YMO)</item>
+        <item>Chibougamau, QC - (YMT)</item>
+        <item>Montreal, QC - Mirabel - (YMX)</item>
+        <item>Montreal, QC - Downtown Rail service - (YMY)</item>
+        <item>Natashquan, QC - (YNA)</item>
+        <item>Yanbu, Saudi Arabia - (YNB)</item>
+        <item>Wemindji, QC - (YNC)</item>
+        <item>Norway House, MB - (YNE)</item>
+        <item>Youngstown, OH - (YNG)</item>
+        <item>Yanji, China - (YNJ)</item>
+        <item>Points North Landing, SK - (YNL)</item>
+        <item>North Spirit Lake, ON - (YNO)</item>
+        <item>Nemiscau, QC - (YNS)</item>
+        <item>Yantai, China - (YNT)</item>
+        <item>Yancheng, China - (YNZ)</item>
+        <item>Old Crow, YT - (YOC)</item>
+        <item>Ogoki, ON - (YOG)</item>
+        <item>Oxford House, MB - (YOH)</item>
+        <item>High Level, AB - (YOJ)</item>
+        <item>Oshawa, ON - (YOO)</item>
+        <item>Rainbow Lake, AB - (YOP)</item>
+        <item>Ottawa, ON - International - (YOW)</item>
+        <item>Prince Albert, SK - (YPA)</item>
+        <item>Port Alberni, BC - (YPB)</item>
+        <item>Paulatuk, NT - (YPC)</item>
+        <item>Peace River, AB - (YPE)</item>
+        <item>Esquimalt, BC - (YPF)</item>
+        <item>Inukjuak, QC - (YPH)</item>
+        <item>Pickle Lake, ON - (YPL)</item>
+        <item>Pikangikum, ON - (YPM)</item>
+        <item>Port Meiner, QC - (YPN)</item>
+        <item>Peawanuck, ON - (YPO)</item>
+        <item>Prince Rupert, BC - Digby Island Airport - (YPR)</item>
+        <item>Powell River, BC - (YPW)</item>
+        <item>Povungnituk, QC - (YPX)</item>
+        <item>Fort Chipewyan, AB - (YPY)</item>
+        <item>Burns Lake, BC - (YPZ)</item>
+        <item>Quebec, QC - International Airport - (YQB)</item>
+        <item>Quaqtaq, QC - (YQC)</item>
+        <item>The Pas, MB - (YQD)</item>
+        <item>Windsor, ON - (YQG)</item>
+        <item>Yarmouth, NS - (YQI)</item>
+        <item>Kenora, ON - (YQK)</item>
+        <item>Lethbridge, AB - (YQL)</item>
+        <item>Moncton, NB - Airport - (YQM)</item>
+        <item>Nakina, ON - (YQN)</item>
+        <item>Comox, BC - (YQQ)</item>
+        <item>Regina, SK - (YQR)</item>
+        <item>Thunder Bay, ON - (YQT)</item>
+        <item>Grande Prairie, AB - (YQU)</item>
+        <item>Gander, NL - (YQX)</item>
+        <item>Sydney, NS - (YQY)</item>
+        <item>Quesnel, BC - (YQZ)</item>
+        <item>Rae Lakes, NT - (YRA)</item>
+        <item>Resolute, NU - (YRB)</item>
+        <item>Cartwright, NL - (YRF)</item>
+        <item>Rigolet, NL - (YRG)</item>
+        <item>Roberval, QC - (YRJ)</item>
+        <item>Red Lake, ON - (YRL)</item>
+        <item>Red Sucker Lake, MB - (YRS)</item>
+        <item>Rankin Inlet, NU - (YRT)</item>
+        <item>Sudbury, ON - (YSB)</item>
+        <item>Stony Rapids, SK - (YSF)</item>
+        <item>Lutselke/Snowdrift, NT - (YSG)</item>
+        <item>Smith Falls, ON - (YSH)</item>
+        <item>Saint John, NB - (YSJ)</item>
+        <item>Sanikiluaq, NU - (YSK)</item>
+        <item>Saint Leonard, NB - (YSL)</item>
+        <item>Fort Smith, NT - (YSM)</item>
+        <item>Postville, NL - (YSO)</item>
+        <item>Nanisivik, NU - (YSR)</item>
+        <item>Ste Therese Point, MB - (YST)</item>
+        <item>Sachs Harbour, NT - (YSY)</item>
+        <item>Pembroke, ON - (YTA)</item>
+        <item>Thicket Portage, MB - (YTD)</item>
+        <item>Cape Dorset, NU - (YTE)</item>
+        <item>Thompson, MB - (YTH)</item>
+        <item>Big Trout, ON - (YTL)</item>
+        <item>Tasiujuaq, QC - (YTQ)</item>
+        <item>Timmins, ON - (YTS)</item>
+        <item>Tuktoyaktuk, NT - (YUB)</item>
+        <item>Umiujag, QC - (YUD)</item>
+        <item>Yuma, AZ - (YUM)</item>
+        <item>Repulse Bay, NU - (YUT)</item>
+        <item>Hall Beach, NU - (YUX)</item>
+        <item>Noranda/Rouyn, QC - (YUY)</item>
+        <item>Rouyn/Noranda, QC - (YUY)</item>
+        <item>Bonaventure, QC - (YVB)</item>
+        <item>La Ronge, SK - (YVC)</item>
+        <item>Qikiqtarjuaq, NU - (YVM)</item>
+        <item>Val-dOr, QC - (YVO)</item>
+        <item>Kuujjuaq, QC - (YVP)</item>
+        <item>Norman Wells, NT - (YVQ)</item>
+        <item>Deer Lake, ON - (YVZ)</item>
+        <item>Kangiqsujuaq, QC - (YWB)</item>
+        <item>Winnipeg, MB - International - (YWG)</item>
+        <item>Victoria, BC - Inner Harbor - (YWH)</item>
+        <item>Deline, NT - (YWJ)</item>
+        <item>Wabush, NL - (YWK)</item>
+        <item>Williams Lake, BC - (YWL)</item>
+        <item>Williams Harbour, NL - (YWM)</item>
+        <item>Webequie, ON - (YWP)</item>
+        <item>White River, ON - (YWR)</item>
+        <item>Cranbrook, BC - (YXC)</item>
+        <item>Saskatoon, SK - (YXE)</item>
+        <item>Medicine Hat, AB - (YXH)</item>
+        <item>Fort St John, BC - (YXJ)</item>
+        <item>Rimouski, QC - (YXK)</item>
+        <item>Sioux Lookout, ON - (YXL)</item>
+        <item>Whale Cove, NU - (YXN)</item>
+        <item>Pangnirtung, NU - (YXP)</item>
+        <item>Prince George, BC - (YXS)</item>
+        <item>Terrace, BC - (YXT)</item>
+        <item>Londonderry, UK - (LDY)</item>
+        <item>Whitehorse, YT - (YXY)</item>
+        <item>North Bay, ON - (YYB)</item>
+        <item>Smithers, BC - (YYD)</item>
+        <item>Fort Nelson, BC - (YYE)</item>
+        <item>Penticton, BC - (YYF)</item>
+        <item>Charlottetown, PE - (YYG)</item>
+        <item>Taloyoak, NU - (YYH)</item>
+        <item>Victoria, BC - International - (YYJ)</item>
+        <item>Churchill, MB - (YYQ)</item>
+        <item>Goose Bay, NL - (YYR)</item>
+        <item>Saint Johns, NL - (YYT)</item>
+        <item>Kapuskasing, ON - (YYU)</item>
+        <item>Mont Joli, QC - (YYY)</item>
+        <item>Yellowknife, NT - (YZF)</item>
+        <item>Salluit, QC - (YZG)</item>
+        <item>Sarnia, ON - (YZR)</item>
+        <item>Coral Harbour, NU - (YZS)</item>
+        <item>Port Hardy, BC - (YZT)</item>
+        <item>Sept-Iles, QC - (YZV)</item>
+        <item>York Landing, MB - (ZAC)</item>
+        <item>Zadar, Croatia - (ZAD)</item>
+        <item>Zagreb, Croatia - (ZAG)</item>
+        <item>Zahedan, Iran - (ZAH)</item>
+        <item>Valdivia, Chile - (ZAL)</item>
+        <item>Zamboanga, Philippines - (ZAM)</item>
+        <item>Nuremberg, Germany - Rail service - (ZAQ)</item>
+        <item>Zhaotong, China - (ZAT)</item>
+        <item>Antwerp, Belgium - Bus service - (ZAY)</item>
+        <item>Zaragoza, Spain and Canary Islands - (ZAZ)</item>
+        <item>Esbjerg, Denmark - Rail service - (ZBB)</item>
+        <item>Bathhurst, NB - (ZBF)</item>
+        <item>Fredericia, Denmark - (ZBJ)</item>
+        <item>Odense, Denmark - (ZBQ)</item>
+        <item>Chah-Bahar, Iran - (ZBR)</item>
+        <item>Beaver Creek, CO - Van service - (ZBV)</item>
+        <item>Sayaboury, Laos - (ZBY)</item>
+        <item>Temuco, Chile - (ZCO)</item>
+        <item>Basel/Mulhouse Railway Station, Switzerland - (ZDH)</item>
+        <item>Berne, Switzerland - Rail service - (ZDJ)</item>
+        <item>Brno, Czech Republic - Bus service - (ZDN)</item>
+        <item>Senggo, Indonesia - (ZEG)</item>
+        <item>Bella Bella, BC - (ZEL)</item>
+        <item>East Main, QC - (ZEM)</item>
+        <item>Fond du Lac, SK - (ZFD)</item>
+        <item>Tulita/Fort Norman, NT - (ZFN)</item>
+        <item>Lanzhou, China - (ZGC)</item>
+        <item>Gods River, MB - (ZGI)</item>
+        <item>Gethsemani, QC - (ZGS)</item>
+        <item>Gaua, Vanuatu - (ZGU)</item>
+        <item>Zhanjiang, China - (ZHA)</item>
+        <item>Halberstadt, Germany - (ZHQ)</item>
+        <item>Aarhus, Denmark - Bus service - (ZID)</item>
+        <item>Ixtapa, Mexico - (ZIH)</item>
+        <item>Zihuatanejo/Ixtapa, Mexico - (ZIH)</item>
+        <item>Swan River, MB - (ZJN)</item>
+        <item>Kasaba Bay, Zambia - (ZKB)</item>
+        <item>Kaschechewan, ON - (ZKE)</item>
+        <item>Kegaska, QC - (ZKG)</item>
+        <item>Le Mans, France - (ZLN)</item>
+        <item>Manzanillo, Mexico - (ZLO)</item>
+        <item>La Tabatiere, QC - (ZLT)</item>
+        <item>Nanaimo, BC - Harbour Airport - (ZNA)</item>
+        <item>Newman, WA, Australia - (ZNE)</item>
+        <item>Zanzibar, Tanzania - Kisauni - (ZNZ)</item>
+        <item>Sachigo Lake, ON - (ZPB)</item>
+        <item>Queenstown, New Zealand - (ZQN)</item>
+        <item>Rockford, IL - Park and Ride Bus - (ZRF)</item>
+        <item>Zurich, Switzerland - (ZRH)</item>
+        <item>Servi, Indonesia - (ZRI)</item>
+        <item>Round Lake, ON - (ZRJ)</item>
+        <item>Rockford, IL - Van Galder Bus - (ZRK)</item>
+        <item>Sarmi, Indonesia - (ZRM)</item>
+        <item>San Salvador, Bahamas - (ZSA)</item>
+        <item>St. Pierre de la Reunion, Reunion - (ZSE)</item>
+        <item>Sandy Lake, ON - (ZSJ)</item>
+        <item>Tete-a-La Baleine, QC - (ZTB)</item>
+        <item>Zakinthos Island, Greece - (ZTH)</item>
+        <item>Shamattawa, MB - (ZTM)</item>
+        <item>Zhuhai, China - (ZUH)</item>
+        <item>Churchill Falls, NL - (ZUM)</item>
+        <item>Miandrivazo, Madagascar - (ZVA)</item>
+        <item>Savannakhet, Laos - (ZVK)</item>
+        <item>Wollaston Lake, SK - (ZWL)</item>
+        <item>Stuttgart, Germany - Rail service - (ZWS)</item>
+        <item>Rognan, Norway - (ZXM)</item>
+        <item>Sylhet, Bangladesh - (ZYL)</item>
+        <item>Brussels, Belgium - Rail service - (ZYR)</item>
+        <item>Mzuzu, Malawi - (ZZU)</item>
+    </array>
+</resources>

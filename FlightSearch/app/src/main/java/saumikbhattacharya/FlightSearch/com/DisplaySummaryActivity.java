@@ -25,6 +25,7 @@ import org.json.JSONObject;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
+import java.net.HttpURLConnection;
 import java.net.URL;
 
 import javax.net.ssl.HttpsURLConnection;
@@ -275,20 +276,21 @@ public class DisplaySummaryActivity extends AppCompatActivity {
                 SSLContext context = SSLContext.getInstance("TLS");
                 context.init(null, tmf.getTrustManagers(), null);*/
 
-                HttpsURLConnection connection = null;
-
-                URL url = new URL("https://www.googleapis.com/qpxExpress/v1/trips/search?key=AIzaSyDbg1n8mdY3xAWYBy05ixrPtvRdc4R3Mys");
-                connection = (HttpsURLConnection)url.openConnection();
+                HttpURLConnection connection = null;
+                //Amadeus wala https://api.myjson.com/bins/3fcxu
+                URL url = new URL("http://api.myjson.com/bins/1evd4");
+                connection = (HttpURLConnection)url.openConnection();
                 //connection.setSSLSocketFactory(context.getSocketFactory());
-                connection.setDoOutput(true);
-                connection.setDoInput(true);
+              /*  connection.setDoOutput(true);
+                //connection.setDoInput(true);
                 connection.setRequestMethod("POST");
                 connection.setUseCaches(false);
                 connection.setConnectTimeout(7200000);
                 connection.setReadTimeout(720000);
                 //connection.setRequestProperty("Content-Type", "application/json; charset=UTF-8");
-                connection.setRequestProperty("Content-Type", "application/json");
+                //connection.setRequestProperty("Content-Type", "application/json");
                 connection.setRequestProperty("Accept", "application/json");
+                */
                 connection.connect();
 
                 JSONObject request_hdr = new JSONObject();
@@ -316,11 +318,11 @@ public class DisplaySummaryActivity extends AppCompatActivity {
 
                 request_hdr.put("request", request);
 
-                OutputStreamWriter output = new OutputStreamWriter(connection.getOutputStream());
+                /*OutputStreamWriter output = new OutputStreamWriter(connection.getOutputStream());
                 //output.write(String.valueOf(request_hdr.toString().getBytes("UTF-8")));
                 output.write(request_hdr.toString());
                 output.flush();
-                output.close();
+                output.close();*/
 
                 int HttpResult = connection.getResponseCode();
 

@@ -11,6 +11,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ArrayAdapter;
+import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.DatePicker;
@@ -25,6 +26,8 @@ import java.util.Locale;
 
 
 public class MainActivity extends AppCompatActivity {
+    private AutoCompleteTextView originAutoComplete;
+    private AutoCompleteTextView destAutoComplete;
 
     public final static String ORIGIN = "saumikbhattacharya.FlightSearch.com.ORIGIN";
     public final static String DESTINATION = "saumikbhattacharya.FlightSearch.com.DESTINATION";
@@ -55,9 +58,21 @@ public class MainActivity extends AppCompatActivity {
         setTitle("Home Page");
         setContentView(R.layout.activity_main);
 
+        //================
+
+        String[] cities = getResources().getStringArray(R.array.testArray);
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,cities);
+
+        originAutoComplete = (AutoCompleteTextView) findViewById(R.id.autoCompleteTextView1);
+        originAutoComplete.setAdapter(adapter);
+
+        destAutoComplete = (AutoCompleteTextView) findViewById(R.id.autoCompleteTextView2);
+        destAutoComplete.setAdapter(adapter);
+        //=============================
+
         datePicker = (DatePicker) findViewById(R.id.datepicker);
 
-        spinner_src = (Spinner) findViewById(R.id.pick_src);
+       /* spinner_src = (Spinner) findViewById(R.id.pick_src);
         adapter_src = ArrayAdapter.createFromResource(this,R.array.edit_src,android.R.layout.simple_spinner_item);
         adapter_src.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner_src.setAdapter(adapter_src);
@@ -65,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
         spinner_dest = (Spinner) findViewById(R.id.pick_dest);
         adapter_dest = ArrayAdapter.createFromResource(this,R.array.edit_dest,android.R.layout.simple_spinner_item);
         adapter_dest.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        spinner_dest.setAdapter(adapter_dest);
+        spinner_dest.setAdapter(adapter_dest);*/
 
         cd = new ConnectionDetector(getApplicationContext());
 
@@ -111,11 +126,17 @@ public class MainActivity extends AppCompatActivity {
 
         S_Date = year+"-"+month+"-"+day;
 
-        Spinner Org = (Spinner)findViewById(R.id.pick_src);
-        Origin = Org.getSelectedItem().toString();
+        /*Spinner Org = (Spinner)findViewById(R.id.pick_src);
+        Origin = Org.getSelectedItem().toString();*/
 
-        Spinner Dest = (Spinner)findViewById(R.id.pick_dest);
-        Destination = Dest.getSelectedItem().toString();
+      /*  Spinner Dest = (Spinner)findViewById(R.id.pick_dest);
+        Destination = Dest.getSelectedItem().toString();*/
+
+        AutoCompleteTextView Org = (AutoCompleteTextView)findViewById(R.id.autoCompleteTextView1);
+        Origin = Org.getText().toString();
+
+        AutoCompleteTextView Dest = (AutoCompleteTextView)findViewById(R.id.autoCompleteTextView2);
+        Destination = Dest.getText().toString();
 
         try{
             DateFormat formatter = new SimpleDateFormat("yyyy-MM-dd", Locale.US);
