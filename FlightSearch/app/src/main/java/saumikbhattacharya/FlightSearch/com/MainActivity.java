@@ -20,12 +20,32 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.text.DateFormat;
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
 
+import android.app.DatePickerDialog;
+import android.app.TimePickerDialog;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.DatePicker;
+import android.widget.EditText;
+import android.widget.TimePicker;
 
-public class MainActivity extends AppCompatActivity {
+
+public class MainActivity extends AppCompatActivity implements
+            View.OnClickListener {
+
+    Button goingDatePicker, returnDatePicker;
+    EditText returnTextDate, goingTextDate;
+    private int mYear, mMonth, mDay, mHour, mMinute;
+
     private AutoCompleteTextView originAutoComplete;
     private AutoCompleteTextView destAutoComplete;
 
@@ -68,9 +88,20 @@ public class MainActivity extends AppCompatActivity {
 
         destAutoComplete = (AutoCompleteTextView) findViewById(R.id.autoCompleteTextView2);
         destAutoComplete.setAdapter(adapter);
+
+        goingDatePicker=(Button)findViewById(R.id.btn_date);
+        goingTextDate=(EditText)findViewById(R.id.txt_in_date);
+
+        goingDatePicker.setOnClickListener(this);
+
+        returnDatePicker=(Button)findViewById(R.id.btn_return_date);
+        returnTextDate=(EditText)findViewById(R.id.txt_return_date);
+
+        returnDatePicker.setOnClickListener(this);
+
         //=============================
 
-        datePicker = (DatePicker) findViewById(R.id.datepicker);
+        //datePicker = (DatePicker) findViewById(R.id.datepicker);
 
        /* spinner_src = (Spinner) findViewById(R.id.pick_src);
         adapter_src = ArrayAdapter.createFromResource(this,R.array.edit_src,android.R.layout.simple_spinner_item);
@@ -87,6 +118,52 @@ public class MainActivity extends AppCompatActivity {
         Search_Button = (Button)findViewById(R.id.search_button);
     }
 
+    @Override
+    public void onClick(View v) {
+
+        if (v == goingDatePicker ) {
+
+            // Get Current Date
+            final Calendar c = Calendar.getInstance();
+            mYear = c.get(Calendar.YEAR);
+            mMonth = c.get(Calendar.MONTH);
+            mDay = c.get(Calendar.DAY_OF_MONTH);
+
+
+            DatePickerDialog datePickerDialog = new DatePickerDialog(this,
+                    new DatePickerDialog.OnDateSetListener() {
+
+                        @Override
+                        public void onDateSet(DatePicker view, int year,
+                                              int monthOfYear, int dayOfMonth) {
+
+                            goingTextDate.setText(dayOfMonth + "-" + (monthOfYear + 1) + "-" + year);
+
+                        }
+                    }, mYear, mMonth, mDay);
+            datePickerDialog.show();
+        } else if( v == returnDatePicker){
+            // Get Current Date
+            final Calendar c = Calendar.getInstance();
+            mYear = c.get(Calendar.YEAR);
+            mMonth = c.get(Calendar.MONTH);
+            mDay = c.get(Calendar.DAY_OF_MONTH);
+
+
+            DatePickerDialog datePickerDialog = new DatePickerDialog(this,
+                    new DatePickerDialog.OnDateSetListener() {
+
+                        @Override
+                        public void onDateSet(DatePicker view, int year,
+                                              int monthOfYear, int dayOfMonth) {
+
+                            returnTextDate.setText(dayOfMonth + "-" + (monthOfYear + 1) + "-" + year);
+
+                        }
+                    }, mYear, mMonth, mDay);
+            datePickerDialog.show();
+        }
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -120,10 +197,22 @@ public class MainActivity extends AppCompatActivity {
         Intent intent1 = new Intent(this,Map_Activity_With_Fragment.class);
         Bundle extras1 = new Bundle();
 
-        int day = datePicker.getDayOfMonth();
+        SimpleDateFormat fmt = new SimpleDateFormat("yyyy-MM-dd");
+        Date flightDate = null;
+        try {
+             flightDate = fmt.parse(goingTextDate.toString());
+        }
+        catch(ParseException pe) {
+
+        }
+        int day = flightDate.getDay();
+        int month = flightDate.getMonth() + 1;
+        int year = flightDate.getYear();
+
+        /*int day = flightDate.getDayOfMonth();
         int month = datePicker.getMonth() + 1;
         int year = datePicker.getYear();
-
+*/
         S_Date = year+"-"+month+"-"+day;
 
         /*Spinner Org = (Spinner)findViewById(R.id.pick_src);
