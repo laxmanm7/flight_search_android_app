@@ -1,22 +1,26 @@
-<ScrollView
-    xmlns:android1="http://schemas.android.com/apk/res/android"
-    android1:layout_width="match_parent"
-    android1:layout_height="match_parent"
+<LinearLayout xmlns:android1="http://schemas.android.com/apk/res/android"
+
+    android1:layout_width="fill_parent"
+    android1:layout_height="fill_parent"
+    android1:background="@drawable/portfolio_1"
    >
 
         <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
             xmlns:tools="http://schemas.android.com/tools"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:orientation="vertical">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="3"
+            >
 
             <ImageView
                 android:id="@+id/imageView1"
                 android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
+                android:layout_height="50dp"
                 android:scaleType="fitCenter"
-                android:src="@drawable/ace_logo"
+                android:src="@drawable/ai"
                 android:background="#22984A"
+
                 />
 
             <View
@@ -39,13 +43,16 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:id="@+id/enter_src"
-                        android:textSize="17sp"
+                        android:textSize="21sp"
                         android:text="From "
-                        android:textStyle="bold"/>
+                        android:textStyle="bold"
+                        android:textColor="#000"/>
                     <AutoCompleteTextView
                         android:id="@+id/autoCompleteTextView1"
                         android:layout_width="250dp"
-                        android:layout_height="wrap_content" />
+                        android:layout_height="wrap_content"
+                        android:textSize="34sp"
+                        android:textStyle="bold"/>
 
 
                    <!-- <Spinner
@@ -65,14 +72,17 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:id="@+id/enter_dest"
-                        android:textSize="17sp"
+                        android:textSize="21sp"
                         android:text="To  "
-                        android:textStyle="bold"/>
+                        android:textStyle="bold"
+                        android:textColor="#000"/>
 
                     <AutoCompleteTextView
                         android:id="@+id/autoCompleteTextView2"
                         android:layout_width="250dp"
-                        android:layout_height="wrap_content" />
+                        android:layout_height="wrap_content"
+                        android:textSize="34sp"
+                        android:textStyle="bold"/>
 
 
 
@@ -88,29 +98,52 @@
                     android:id="@+id/tableRow5"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:padding="3dip" >
+                    android:padding="3dip"
+                    android:weightSum="10">
                     <TextView
-                        android:layout_width="wrap_content"
+                        android:layout_width="10dp"
                         android:layout_height="wrap_content"
+                        android:layout_weight="0"
                         android:id="@+id/enter_adult"
-                        android:textSize="17sp"
+                        android:textSize="21sp"
                         android:text="@string/enter_adult"
-                        android:textStyle="bold"/>
+                        android:textStyle="bold"
+                        android:textColor="#000"/>
 
                     <EditText
-                        android:layout_width="20dp"
+                        android:layout_width="0dp"
                         android:layout_height="wrap_content"
+                        android:layout_weight="2"
                         android:id="@+id/enter_adult1"
-                        android:textSize="17sp"
                         android:text="1"
+                        android:textStyle="bold"
+                        android:textSize="34sp"
+                        android:inputType="number"
+                        />
+
+                    <TextView android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:id="@+id/enter_infant"
+                        android:textSize="21sp"
+                        android:text="@string/enter_infant"
+                        android:textStyle="bold"
+                        android:textColor="#000"/>
+
+                    <EditText
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:id="@+id/enter_infant1"
+                        android:text="0"
                         android:maxLength="1"
+                        android:textStyle="bold"
+                        android:textSize="34sp"
                         android:inputType="number"/>
-
-
 
                 </TableRow>
 
-                <TableRow
+                <!--<TableRow
                     android:id="@+id/tableRow6"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -132,27 +165,40 @@
                         android:maxLength="1"
                         android:inputType="number"/>
 
-                </TableRow>
+                </TableRow>-->
 
                 <TableRow
                     android:id="@+id/tableRow7"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:padding="3dip" >
-                    <Button
-                        android:layout_width="150dp"
+                    android:padding="3dip"
+                    android:weightSum="10"
+                    >
+                    <TextView
+                        android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Fligth Date"
-                        android:id="@+id/btn_date"
-                        android:layout_alignBottom="@+id/in_date"
-                        android:layout_toRightOf="@+id/in_date"
-                        android:layout_toEndOf="@+id/in_date" />
-
+                        android:id="@+id/Flight_txt"
+                        android:textSize="21sp"
+                        android:text="Departure"
+                        android:layout_weight="6"
+                        android:textStyle="bold"
+                        android:textColor="#000"/>
                     <EditText
                         android:layout_width="20dp"
                         android:layout_height="wrap_content"
                         android:id="@+id/txt_in_date"
-                        android:textSize="17sp"/>
+                        android:textSize="24sp"
+                        android:textStyle="bold"
+                        android:layout_weight="3"/>
+
+                    <Button
+                        android:layout_width="30dp"
+                        android:layout_height="40dp"
+                        android:id="@+id/btn_date"
+                        android:background="@drawable/calendar_icon"
+                        android:layout_weight="1"
+                        />
+
 
                     <!--<EditText
                         android:layout_width="200dp"
@@ -169,22 +215,49 @@
                     android:id="@+id/tableRow8"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:padding="3dip" >
+                    android:padding="3dip"
+                    android:weightSum="10">
 
-                    <Button
+                    <!--<Button
                         android:layout_width="150dp"
                         android:layout_height="wrap_content"
-                        android:text="Return Date"
+                        android:text="Set Return Date"
                         android:id="@+id/btn_return_date"
                         android:layout_alignBottom="@+id/in_date"
                         android:layout_toRightOf="@+id/in_date"
-                        android:layout_toEndOf="@+id/in_date" />
+                        android:layout_toEndOf="@+id/in_date"
+                        android:background="#22984A"/>
 
                     <EditText
                         android:layout_width="20dp"
                         android:layout_height="wrap_content"
                         android:id="@+id/txt_return_date"
                         android:textSize="17sp"/>
+                    android:layout_weight="8"-->
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/Flight_return_txt"
+                        android:textSize="17sp"
+                        android:text="Return  "
+                        android:layout_weight="5"
+                        android:textStyle="bold"
+                        android:textColor="#000"/>
+                    <EditText
+                        android:layout_width="20dp"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/txt_return_date"
+                        android:textSize="24sp"
+                        android:textStyle="bold"
+                        android:layout_weight="4"/>
+
+                    <Button
+                        android:layout_width="10dp"
+                        android:layout_height="40dp"
+                        android:id="@+id/btn_return_date"
+                        android:background="@drawable/calendar_icon"
+                        android:layout_weight="1"
+                        />
 
 
                     </TableRow>
@@ -196,7 +269,8 @@
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal">
+                android:orientation="horizontal"
+                android:layout_weight="1">
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -230,11 +304,6 @@
 
             </LinearLayout>
 
-            <View
-                android:layout_marginBottom="5dip"
-                android:layout_width="fill_parent"
-                android:background="#0000FF"
-                android:layout_height="2dip" />
 
             <TableLayout
                 android:layout_width="fill_parent"
@@ -254,7 +323,6 @@
                     android:layout_marginLeft="5dip"
                     android:layout_span="1"
                     android:background="#22984A"
-                    android:textColor="#FFFF00"
                     android:onClick="onButtonClicked"/>
 
                 <View
@@ -274,14 +342,21 @@
                     android:layout_span="1"
                     android:layout_marginRight="5dip"
                     android:background="#22984A"
-                    android:textColor="#FFFF00"
                     android:onClick="onShowSavedSearchButtonClicked"/>
 
                 </TableRow>
 
             </TableLayout>
 
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="1">
+
+            </LinearLayout>
+
         </LinearLayout>
 
-</ScrollView>
+</LinearLayout>
 

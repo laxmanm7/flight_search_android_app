@@ -197,23 +197,27 @@ public class MainActivity extends AppCompatActivity implements
         Intent intent1 = new Intent(this,Map_Activity_With_Fragment.class);
         Bundle extras1 = new Bundle();
 
-        SimpleDateFormat fmt = new SimpleDateFormat("yyyy-MM-dd");
+        SimpleDateFormat fmt = new SimpleDateFormat("dd-MM-yyyy");
         Date flightDate = null;
         try {
-             flightDate = fmt.parse(goingTextDate.toString());
+             flightDate = fmt.parse(goingTextDate.getText().toString());
         }
         catch(ParseException pe) {
 
         }
-        int day = flightDate.getDay();
-        int month = flightDate.getMonth() + 1;
-        int year = flightDate.getYear();
+
+        //String dayOfTheWeek = (String) android.text.format.DateFormat.format("EEEE", date);//Thursday
+        //String stringMonth = (String) android.text.format.DateFormat.format("MMM", date); //Jun
+        String month = (String) android.text.format.DateFormat.format("MM", flightDate); //06
+        String year = (String) android.text.format.DateFormat.format("yyyy", flightDate); //2013
+        String day = (String) android.text.format.DateFormat.format("dd", flightDate); //20
+
 
         /*int day = flightDate.getDayOfMonth();
         int month = datePicker.getMonth() + 1;
         int year = datePicker.getYear();
 */
-        S_Date = year+"-"+month+"-"+day;
+        S_Date = year + "-" + month + "-" + day;
 
         /*Spinner Org = (Spinner)findViewById(R.id.pick_src);
         Origin = Org.getSelectedItem().toString();*/

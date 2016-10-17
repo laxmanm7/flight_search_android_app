@@ -277,8 +277,8 @@ public class DisplaySummaryActivity extends AppCompatActivity {
                 context.init(null, tmf.getTrustManagers(), null);*/
 
                 HttpURLConnection connection = null;
-                //Amadeus wala https://api.myjson.com/bins/3fcxu
-                URL url = new URL("http://api.myjson.com/bins/1evd4");
+                //URL url = new URL("http://api.myjson.com/bins/1evd4"); //sample yasmai vaa ko
+                URL url = new URL("http://api.myjson.com/bins/3fcxu"); //Amadeus wala
                 connection = (HttpURLConnection)url.openConnection();
                 //connection.setSSLSocketFactory(context.getSocketFactory());
               /*  connection.setDoOutput(true);
